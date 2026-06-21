@@ -1,0 +1,8 @@
+SOURCE: Next_Platform
+TITLE: QuEra’s Libra Fault-Tolerant Quantum System Heading To Amazon Braket Service
+DATE: Tue, 16 Jun 2026 17:47:15 +0100
+URL: https://www.nextplatform.com/compute/2026/06/16/queras-libra-fault-tolerant-quantum-system-heading-to-amazon-braket-service/5256477
+----------------------------------------
+
+CONTENT:
+

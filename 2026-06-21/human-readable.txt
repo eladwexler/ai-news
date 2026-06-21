@@ -1,0 +1,2235 @@
+================================================================================
+   DAILY INTELLIGENCE DIGEST: 2026-06-21
+================================================================================
+
+Total High-Signal Articles Filtered: 44
+Irrelevant Feed Items Dropped: 98
+--------------------------------------------------------------------------------
+
+1. TITLE: Five hyperscalers now own over two-thirds of global AI compute
+   SOURCE: Epoch_AI | DATE: Tue, 14 Apr 2026 20:43:57 GMT
+   URL: https://epochai.substack.com/p/five-hyperscalers-now-own-over-two
+   MATCHED PILLARS: [MACRO FINANCE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Five companies — Google, Microsoft, Meta, Amazon, and Oracle — now control
+      about two-thirds of the world’s compute, up slightly from ~60% at the
+      start of 2024.Many AI labs (including OpenAI and Anthropic) depend almost
+      entirely on these hyperscalers for access to their compute.This data comes
+      from our new AI Chip Owners datahub. For more details, see our full data
+      insight.
+
+--------------------------------------------------------------------------------
+
+2. TITLE: Oracle and Animal Spirits
+   SOURCE: Fabricated_Knowledge | DATE: Mon, 15 Sep 2025 20:16:51 GMT
+   URL: https://www.fabricatedknowledge.com/p/oracle-and-animal-spirits
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Oracle just posted the single most astonishing quarter I have seen since
+      Nvidia’s blowout in May 2023. A reminder is that it was the quarter where
+      Nvidia guided to 100% Y/Y growth and shocked markets after the ChatGPT
+      moment. It has been almost a straight line to becoming the world’s most
+      valuable company since then. Oracle’s guidance is staggering for a
+      different reason: its sheer magnitude.This was the largest one-day move in
+      any stock’s history by absolute value. Larry Ellison also became the
+      wealthiest person alive in the span of a trading day. The opening line of
+      Oracle’s guidance explains why:Q1 Remaining Performance Obligations
+      reached $455 billion, up 359% in both USD and constant currency.Pause and
+      digest that number. Denmark’s GDP is about $450 billion. It’s a number so
+      big I first thought it was a typo. It is almost unbelievable for a company
+      to disclose hundreds of billions in future revenue; it is even rarer to
+      offer four-year guidance. But Oracle just did:We now expect Oracle Cloud
+      Infrastructure will grow 77% to $18 billion this fiscal year and then
+      increase to $32 billion, $73 billion, $114 billion and $144 billion over
+      the following 4 years. Much of this revenue is already booked in our $455
+      billion RPO number, and we are off to a fantastic start this year.For
+      context, Microsoft’s Azure is forecast to generate approximately $75
+      billion this year, while AWS is expected to generate around $126 billion,
+      and Google Cloud is projected to generate about $56 billion. Oracle was
+      not even considered a top-tier option until recently. If its trajectory
+      holds, it could surpass Google and perhaps even Azure within a few years.
+      Look what it did to our year-end estimates. The street consensus shifted
+      from approximately $95 billion to approximately $118 billion after the
+      guide. Source:BloombergThis is what disruption looks like. I have argued
+      before that the hyperscalers’ old moats, balance sheets, and CPU-centric
+      distribution were less impregnable than they appeared. SemiAnalysis’s
+      ClusterMAX benchmarks confirmed this, and it is now a genuine contender
+      from Oracle. Capital as a moat is not a lasting one. History suggests that
+      incumbents rarely dominate tangential markets. A focused challenger
+      emerges, captures share, and reshapes the landscape. AWS played that role
+      a decade ago; Oracle may be playing a similar role now. Amazon’s in-house
+      Trainium effort increasingly resembles an “Amazon Basics” strategy, viable
+      but not leading, while Oracle doubles down on the largest GPU-first cloud
+      in the world.  The driver of this sudden leap is clear: OpenAI. Microsoft
+      has slowed its spending; Oracle has filled the gap, becoming OpenAI’s
+      primary infrastructure partner. That single customer dominates Oracle’s
+      RPO. And if Oracle leverages its entrenched database franchise, it could
+      become enterprises’ default inference partner as well. In one fell swoop,
+      they are now the addressable inference partner for the majority of
+      enterprises globally. It is wo... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+3. TITLE: Toward an O*NET for AI R&D
+   SOURCE: Epoch_AI | DATE: Wed, 17 Jun 2026 21:32:42 GMT
+   URL: https://epochai.substack.com/p/toward-an-onet-for-ai-r-and-d
+   MATCHED PILLARS: [SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      This post is part of Epoch AI’s Gradient Updates newsletter, which shares
+      more opinionated or informal takes on big questions in AI progress. These
+      posts solely represent the views of the authors, and do not necessarily
+      reflect the views of Epoch AI as a whole.What trends are we
+      extrapolating?A common way that experts forecast AI timelines is so simple
+      it’s hard to believe: trend extrapolation. Sure they also use numerical
+      models that bake in things like runaway feedback loops, but the bread and
+      butter of AI forecasting is to draw a line on a graph and extend it as far
+      as you dare. Somehow this works well enough to be a state-of-the-art
+      approach. However, the trends they extrapolate share a common weakness:
+      they lean heavily on easy-to-measure things, not what we directly care
+      about — how close AI is to doing AI research itself.Many experts want to
+      know when we’ll fully automate AI research, because this would massively
+      speed up AI progress, kicking off an “intelligence explosion”.1 If that’s
+      right, it’s hugely important to know how close we are. But historically,
+      there haven’t been many points of direct evidence to point to, because
+      full automation of AI R&D has been so hard to measure. Instead,
+      researchers have been forced to rely on proxies.One such proxy is in key
+      AI inputs like compute, data, and energy. Take Situational Awareness,
+      which extends “effective compute” five years into the future until AI
+      research gets automated:But these inputs are only rough proxies for
+      capabilities and you need to go on “vibes” to say how much compute you
+      need to match the world’s top AI researchers.A second approach is to track
+      the length of tasks that AIs can complete, where “length” is how long a
+      skilled human takes. This is what METR did with their “time horizon”
+      metric, which was then extrapolated in the famous AI 2027 scenario to
+      forecast when AIs would become “superhuman coders”, before automating AI
+      R&D.But the benchmarks used to construct METR’s time horizon miss out on
+      many of the tasks and complexities of research. It’s one thing to be able
+      to finetune a small GPT-2 model, and another to be able to coordinate five
+      projects at the same time, dealing with a million lines of code, without a
+      clear criterion for success or failure.So it would be nice to know
+      everything that AI R&D actually consists of. Otherwise we’ll always be at
+      risk of streetlighting (extrapolating whatever happens to be easiest to
+      measure). We can better avoid this if we have a list of the tasks involved
+      in AI R&D, to track what we’re aware of and what we’re not
+      investigating.Armed with such a list, we could better interpret the
+      extrapolations we already have: when a benchmark score climbs, a task list
+      tells us which parts of the job that improvement covers, and which parts
+      it doesn’t touch. And we could build new trends to extrapolate, like the
+      fraction of tasks that are automated, or how much uplift researchers get
+      on each one.In this post, we present a first version of su... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+4. TITLE: GPT-5 Set the Stage for Ad Monetization and the SuperApp
+   SOURCE: SemiAnalysis | DATE: Wed, 13 Aug 2025 00:27:14 +0000
+   URL: https://semianalysis.com/2025/08/13/gpt-5-ad-monetization-and-the-superapp/
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      To many power users (Pro and Plus), GPT5 was a disappointing release. But
+      with closer inspection, the real release is focused on the vast majority
+      of ChatGPT’s users, which is the 700m+ free userbase that is growing
+      rapidly. Power users should be disappointed; this release wasn’t for them.
+      The real consumer opportunity for OpenAI lies with the largest user base,
+      and getting the unmonetized users who currently use ChatGPT infrequently
+      in their day-to-day to indirectly pay is their largest opportunity.
+      Analysts focused on the model capabilities are missing the much larger
+      context of network effects that ChatGPT is gaining quickly. In November of
+      2023, ChatGPT wasn’t even in the top 100 websites; now it is number 5.
+      Larger than X/Twitter, Reddit, Whatsapp, Wikipedia, and quickly
+      approaching Instagram, Facebook, Youtube and Google. On the top 10 list,
+      every single property is much older than ChatGPT.com, and the sheer
+      number of unmonetized users is staggering.
+      But that changes with GPT-5. OpenAI is laying the groundwork to monetize
+      one of the largest and fastest-growing web properties in the world, and it
+      all begins with the router.
+      The Router is the Release
+      On OpenAI’s release website, the second paragraph is about the “One United
+      System,” specifically focused on the router. The wording is instructive.
+      GPT‑5 is a unified system with a smart, efficient model that answers most
+      questions, a deeper reasoning model (GPT‑5 thinking) for harder problems,
+      and a real‑time router that quickly decides which to use based on
+      conversation type, complexity, tool needs, and your explicit intent (for
+      example, if you say “think hard about this” in the prompt). The router is
+      continuously trained on real signals, including when users switch models,
+      preference rates for responses, and measured correctness, improving over
+      time. Once usage limits are reached, a mini version of each model handles
+      remaining queries. In the near future, we plan to integrate these
+      capabilities into a single model.
+      The router serves multiple purposes on both the cost and performance side.
+      On the cost side, routing users to mini versions of each model allows
+      OpenAI to service users with lower costs. On the performance side, it will
+      enable many users to use thinking aka CoT (Chain of Thought) reasoning for
+      the first time. Over 99% of the free users have yet to interact with a
+      thinking model like o3, and for the average user, ChatGPT just got a huge
+      upgrade. The number of free users exposed to thinking models went up 7x in
+      the first day and the number of paying users up nearly 3.5x.
+      Source: OpenAI, SemiAnalysis
+      But the router is clearly a feature to the new service, and can likely see
+      improvements or changes over time. It will continuously learn on
+      preference rates and OpenAI promises it will improve over time. It just
+      takes a single additional attribute to begin the path to monetization: the
+      commercial value of the query. 
+      We believe that the Router is... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+5. TITLE: GaN Power Devices Go Vertical
+   SOURCE: Semiconductor_Engineering | DATE: Thu, 18 Jun 2026 07:01:12 +0000
+   URL: https://semiengineering.com/gan-power-devices-go-vertical/
+   MATCHED PILLARS: [SUPPLY CHAIN CHOKEPOINTS]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Key Takeaways:
+      On paper, GaN is an excellent candidate for high-voltage power
+      applications. That potential has been difficult to realize due to the lack
+      of sufficiently high-quality starting material.
+      In particular, high-voltage applications require vertical designs. Recent
+      advances in GaN growth are making these designs more feasible.
+      Promising designs and complete process flows have been demonstrated. They
+      are not yet mature enough to challenge silicon and particularly SiC in
+      real-world high-voltage applications.
+      Gallium nitride power devices have made significant inroads into low-
+      voltage applications like chargers for consumer electronics. High-voltage
+      applications like power generation and transportation have more demanding
+      requirements and have, so far, been more skeptical of GaN’s potential.
+      Requirements for power devices can be summarized by Baliga’s figure of
+      merit [⁠1]:
+      where ε is the dielectric constant, μe is the electron mobility, and Ec is
+      the critical field. The drift layer resistance is then given by:
+      where VB is the breakdown voltage. In a comprehensive review, Tetsu Kachi
+      of Nagoya University noted that the critical electric field, Ec, in wide
+      bandgap semiconductors like SiC and GaN is up to 10 times that of silicon.
+      These materials offer superior breakdown characteristics with lower
+      resistance. [⁠2]
+      The performance difference between SiC and GaN, on the other hand, is less
+      clear-cut. Silicon carbide offers superior thermal conductivity (4.9
+      W/cm-K versus 1.3 W/cm-K for GaN), while GaN has better carrier mobility
+      (2,000 cm2/V-sec versus 900 cm2/V-sec for SiC), thereby giving designers
+      more flexibility. [⁠3]
+      However, the potential advantages of GaN have been slow to materialize
+      because the material is so hard to manufacture. While silicon and silicon
+      carbide are both available as large, freestanding wafers, GaN is typically
+      grown on silicon substrates. A thick transition layer accommodates the
+      lattice and thermal expansion mismatch between GaN and silicon. As a
+      result, GaN-on-silicon substrates incorporate a lot of stress, making them
+      fragile and prone to breakage, according to imec’s Karen Geens. [⁠4]
+      Optical GaN devices have developed more quickly than power devices, in
+      part because optical devices are smaller. Power devices need a larger area
+      of high-quality, dislocation-free material.
+      Most commercial GaN power devices depend on lateral conduction. A two-
+      dimensional electron gas (2DEG) at the interface between GaN and AlGaN
+      allows current to move freely within it, but not in or out of the plane.
+      Unfortunately, breakdown voltage depends on the gate-to-drain distance.
+      High-voltage devices with lateral current flow need larger footprints. The
+      thin 2DEG layer also poses reliability risks due to surface and interface
+      traps.
+      Silicon and SiC devices use vertical designs to increase the gate-drain
+      distance as needed. Building vertical devices in GaN is difficult because
+      designers need either GaN-on-GaN substrates or the a... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+6. TITLE: The economics of superstar AI researchers
+   SOURCE: Epoch_AI | DATE: Wed, 13 May 2026 22:24:26 GMT
+   URL: https://epochai.substack.com/p/the-economics-of-superstar-ai-researchers
+   MATCHED PILLARS: [SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Gradient Updates shares more opinionated or informal takes on big
+      questions in AI progress. These posts solely represent the views of the
+      authors, and do not necessarily reflect the views of Epoch AI as a
+      whole.AI is one of those fields where the best winds up much better off
+      than the rest. Superstar researchers at frontier labs earn over ten times
+      more than most of their colleagues, who earn measly million-dollar
+      salaries. They might even earn over a hundred times more than your average
+      AI postdoc:Ballpark estimates of AI researcher compensation. Postdoc
+      compensation is estimated using NSF report data. For tenure-track
+      professors, I anchor on this Taulbee 2024 survey of computer scientists.
+      Compensation for frontier lab researchers is estimated from Levels.fyi for
+      L4-L5 OpenAI researchers, and news reports for superstars.So why are the
+      differences in pay so large? The naive explanation is that some
+      researchers are just vastly superior. Perhaps the superstar researchers
+      have excellent research taste in designing algorithms and experiments. Or
+      they have a knack for pulling off “yolo runs” — training runs that
+      implement many ambitious changes all at once, relying on deep intuition,
+      whereas most people would need to systematically test the individual
+      changes to make sure they work. Under this framing, superstars are the
+      “10× researchers” that Silicon Valley so deeply reveres, and it’s their
+      quality that makes the difference in pay.1The problem with this
+      explanation is that it’s very incomplete. In reality, we should expect to
+      see big differences in pay even if superstars were only a tiny bit better
+      than your average postdoc. But why?The superstar effectThe short answer is
+      this: there’s a well-known economic dynamic which turns small differences
+      in ability into big differences in pay. Here are two illustrative
+      examples:In the 100-meter sprint, the gold-medallist gets much more reward
+      and attention than the silver-medallist, despite them being quite
+      literally neck-and-neck for most of the race. Consider the London 2012
+      Olympics, where Usain Bolt won gold. Most people have no idea who won
+      silver, despite finishing just 0.12 seconds behind — do you?Some musicians
+      earn much more than others. Consider Taylor Swift: last year, she earned
+      $60-70 million from Spotify. I don’t doubt that she’s a “10× singer”
+      compared to me. But it’s very debatable whether she’s that much better
+      than other extremely popular singers like Ed Sheeran, Blackpink, Charli
+      XCX, and Lana Del Rey, who instead earned closer to $5-25 million.Ballpark
+      estimates of 2025 Spotify earnings of several extremely famous artists.
+      These were estimated by multiplying daily Spotify streams by 365 days, and
+      earnings of $0.004 per stream.Across these two cases, small differences in
+      ability led to big differences in pay some way or another. Economist
+      Sherwin Rosen called this the “superstar effect,” and it kicks in when two
+      conditions hold.One person’s work can reach a big market. Usually this...
+      [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+7. TITLE: Automated 310mm Panel-Level Packaging to Accelerate AI Innovation: Tech Brief
+   SOURCE: Semiconductor_Engineering | DATE: Thu, 18 Jun 2026 07:01:36 +0000
+   URL: https://semiengineering.com/automated-310mm-panel-level-packaging-to-accelerate-ai-innovation-tech-brief/
+   MATCHED PILLARS: [PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      This shift to panel-level packaging addresses critical industry
+      challenges, including rising interposer sizes and declining wafer-level
+      efficiency. The larger panel format supports higher throughput, reduced
+      cycle time, and lower cost per package, while enabling integration of
+      increasingly complex multi-die architectures. These benefits are
+      especially impactful for AI data center and HPC applications, where demand
+      for larger package sizes and higher I/O density continues to accelerate.
+      The panel-level platform delivers higher throughput through large-area
+      processing and reduced tool change steps, while offering a flexible
+      foundation for heterogeneous integration and system-in-package (SiP)
+      solutions. It supports a wide range of applications including AI, HPC,
+      networking, high-end gaming, and edge AI, helping customers meet
+      performance targets with greater cost efficiency and faster time-to-
+      market.
+      Read more here.
+      The post Automated 310mm Panel-Level Packaging to Accelerate AI
+      Innovation: Tech Brief appeared first on Semiconductor Engineering.
+
+--------------------------------------------------------------------------------
+
+8. TITLE: Engels' Pause and the Permanent Underclass
+   SOURCE: Fabricated_Knowledge | DATE: Wed, 15 Apr 2026 19:15:28 GMT
+   URL: https://www.fabricatedknowledge.com/p/mythos-and-engels-pause
+   MATCHED PILLARS: [SILICON HARDWARE, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Mythos to me is yet another game changer. It is interesting to see that
+      the naysayers of bubble talk have started to abate, while general optimism
+      (and paranoia) about model improvement continues. Mythos is actually some
+      kind of step change, and the fact that anyone with access to the model
+      could in theory find zero day exploits with a simple prompt is ground
+      breaking. I’d argue that a machine that can find zero day exploits at
+      scale is proof of human cybersecurity researcher displacement. And Project
+      Glasswing from this perspective (as well as saving compute) seems like a
+      worthy cause. Fabricated Knowledge is a reader-supported publication. To
+      receive new posts and support my work, consider becoming a free or paid
+      subscriber.I think we continue and will continue to underestimate this
+      different kind of intelligence. It is truly novel to hold the entire
+      problem to solve in a single context window and run attention over the
+      entire context simultaneously rather than sequential human analysis. It’s
+      clear there is a big breakthrough that will augment and partially displace
+      labor. Mythos is a level of performance that leads to meaningful
+      disruption. The Mythos model found thousands of critical vulnerabilities
+      that survived decades of review. The John Henry moment of man versus
+      machine has already passed. The machine is likely at superhuman levels of
+      performance, especially when it comes to information processing. So today
+      I want to talk about and introduce a concept that I think will become a
+      much broader phrase in the public sphere in the coming month. And that is
+      "Engels’ Pause.”What is Engels’ Pause Engels’ pause is a term coined by
+      economic historian Robert C. Allen to describe the period from 1780 to
+      1840 when a curious pattern happened during the midst of the industrial
+      revolution. British working-class wages stagnated while per-capita GDP
+      expanded rapidly during the industrial revolution, aka the most
+      consequential technology transition in human history to date. The math is
+      something like this: economists Charles Harley and Nicholas Crafts
+      estimated per-capita growth at 46% between 1780 and 1840. Charles
+      Feinstein found that working-class wages during the period increased by
+      only 12%. That’s a meaningful gap for workers during one of the most
+      transformative periods in human history. So what caused it? This is
+      actually a bit of a debate. The analysis suggests that Artisan workers in
+      the domestic system were replaced by machines, often tended by children.
+      The displacement effect was high earning middle class artisans got
+      displaced by capital and the cheapest labor possible. The returns of this
+      output were extremely uneven, corporate profits were captured by
+      industrialists who reinvested them heavily into more factories and more
+      machines. The destruction in wages was not about unskilled workers, but
+      rather hyper focused on a specific class of skilled artisan middle class
+      workers who commanded a hefty premium. There actually was a bit of a...
+      [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+9. TITLE: The Epoch Brief - May 15, 2026
+   SOURCE: Epoch_AI | DATE: Fri, 15 May 2026 21:04:13 GMT
+   URL: https://epochai.substack.com/p/the-epoch-brief-may-15-2026
+   MATCHED PILLARS: [PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Welcome to this edition of the Epoch Brief! This week:We published two new
+      Data Insights: Servers account for 60% of the total cost of owning a one-
+      gigawatt AI data center, and Claude overperforms at software engineering
+      and underperforms at math.The latest Gradient Update explores why a
+      handful of AI researchers command 10–100× the pay of their peers — and why
+      that gap could grow.Subscribe nowData InsightsWe published two new Data
+      Insights, our digestible snapshots of complex AI trends.Servers account
+      for 60% of the total cost of ownership of a one-gigawatt AI data center.
+      GovAI research scholar Amelia Michael and Epoch senior researcher Ben
+      Cottier model the full costs of a typical one-gigawatt US AI data center,
+      finding that servers alone account for $5 billion of the $8.5 billion
+      annual total — dwarfing energy and all other operating costs.Claude
+      overperforms at software engineering and underperforms at math. Senior
+      researcher Alexander Barry finds that, relative to their general Epoch
+      Capabilities Index (ECI) values, Anthropic’s Claude models overperform on
+      software engineering benchmarks and underperform on math. These results
+      come from the Domain-specific ECI Explorer we launched earlier this month,
+      where you can view Math and SWE ECIs as well as design your own
+      variant.Commentary: The economics of superstar AI researchersIn our latest
+      Gradient Update, researcher Anson Ho argues that enormous pay disparities
+      among AI researchers — where superstar researchers can earn 10–100× what
+      their colleagues make — come down to more than just quality differences.
+      Rather, we should expect to see big differences in pay even if superstars
+      are only a tiny bit better than an average postdoc. Gradient Updates are
+      informal, opinionated analyses that represent the views of individual
+      authors, not Epoch AI as a whole. Ballpark estimates of AI researcher
+      compensation. Postdoc compensation is estimated using NSF report data. For
+      tenure-track professors, the author anchors on this Taulbee 2024 survey of
+      computer scientists. Compensation for frontier lab researchers is
+      estimated from Levels.fyi for L4-L5 OpenAI researchers, and news reports
+      for superstars.Other UpdatesFM:OP workshopsOur in-person FrontierMath:
+      Open Problems workshops kick off in under two weeks. Events will be held
+      in six cities — New York, London, Berkeley, Boston, Los Angeles, and
+      Toronto — between May 26 and June 9. All working mathematicians (grad
+      students, postdocs, professors) are encouraged to apply while space
+      remains. Model EvaluationsWe are conducting an AI-assisted review of
+      FrontierMath: Tiers 1–4 and have flagged fatal errors in about a third of
+      problems — most of which we believe to be valid. We will release updated
+      scores on a corrected dataset after completing a thorough human
+      review.CareersWe’re hiring across several roles. All positions are fully
+      remote.Designer to translate complex research into intuitive, engaging,
+      and high-impact designs — primarily UI/UX and data vis... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+10. TITLE: xAI’s Colossus 2 – First Gigawatt Datacenter In The World, Unique RL Methodology, Capital Raise
+   SOURCE: SemiAnalysis | DATE: Tue, 16 Sep 2025 17:38:01 +0000
+   URL: https://semianalysis.com/2025/09/16/xais-colossus-2-first-gigawatt-datacenter/
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Much has been written about xAI’s Colossus 1. The Memphis build belongs in
+      the history books: the largest AI training cluster, erected from scratch
+      in 122 days. With roughly 200,000 H100/H200s and ~30,000 GB200 NVL72, it
+      remains, today, the largest fully operational, single-coherent cluster
+      (setting apart Google, master of multi-datacenter-training).
+      However, Colossus 1’s ~300 MW looks modest next to the Gigawatt-scale
+      clusters under construction by OpenAI, Meta and Anthropic. Their
+      hyperscaler partners are happy to leverage their balance sheet and win the
+      market by throwing dollars at it.
+      Was xAI’s prowess a one-time wonder? Today we will publicize some data
+      from our industry leading datacenter model over the last year that is
+      accessible to clients. This is the our same proprietary data that called
+      the Oracle deals many months ahead of the announcement.
+      Source: SemiAnalysis Datacenter Industry Model – note: there is a lag
+      between Datacenter operational and GPUs operational – Google and exact
+      figures available in model
+      Short answer: no. xAI is still squarely in the frontier-AI race and is
+      positioned to leapfrog most rivals again on compute. By our estimates, its
+      total datacenter capacity for a single training cluster will surpass Meta
+      Superintelligence and Anthropic by Q3 2025. The datacenter capacity will
+      be ready for the GPUs to be moved in to create the largest single
+      datacenter in the world, yet again. xAI has to raise the capital for those
+      GPUs, but they have the allocations from Nvidia to have it fully training
+      large scale models early next year.
+      Elon came up with a new genius trick to beat rivals at time-to-market.
+      Colossus 2 will be an even more impressive achievement than xAI’s first
+      cluster. Let’s dig in.
+      The first half of this report will dig into the Colossus 2 prowess. The
+      second half will discuss Grok models, our mid-to-long term thoughts on
+      xAI, and the unique RL method xAI is using that may lead them to leapfrog
+      OpenAI, Anthropic, and Google. 
+      SemiAnalysis Is Hiring
+      We are seeking a highly motivated & skilled Member of Technical Staff to
+      join our growing special projects engineering team. You will play a
+      crucial role in developing industry leading gpu cloud benchmarks &
+      evaluation framework.  Our gpu cloud evaluation frameworks is endorsed by
+      many tier 1 & 2 frontier labs. You may be a good fit if you have the
+      following experience:
+      Demonstrated experience in ML frameworks such as PyTorch or JAX through
+      professional experience, personal projects, or personal Substack blogs
+      1-2 years using GPU or TPU clusters and/or running a multi-tenant GPU
+      cluster
+      Past experience working at a hyperscaler or a GPU cloud (preferred)
+      Solid understanding of SLURM, Kubernetes, NCCL & GPU Cloud industry
+      Strong research skills and the ability to synthesize information from
+      various sources to draw insights
+      Compensation is competitive & as part of the interview process, you’ll
+      complete a paid codi... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+11. TITLE: Meta Superintelligence – Leadership Compute, Talent, and Data
+   SOURCE: SemiAnalysis | DATE: Fri, 11 Jul 2025 20:12:19 +0000
+   URL: https://semianalysis.com/2025/07/11/meta-superintelligence-leadership-compute-talent-and-data/
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Meta’s shocking purchase of 49% of Scale AI at a ~$30B valuation shows
+      that money is of no concern for the $100B annual cashflow ad machine.
+      Despite seemingly unlimited resources, Meta has been falling behind
+      foundation labs in model performance.
+      The real wake-up call came when Meta lost its lead in open-weight models
+      to DeepSeek. That stirred the sleeping giant. Now in full Founder Mode,
+      Mark Zuckerberg is personally leading Meta’s charge, identifying Meta’s
+      two core shortcomings: Talent and Compute. As one of the last founders
+      still running a tech behemoth, Mark doesn’t need SemiAnalysis to tell him
+      to slow down stock buybacks to fund the future!
+      Source: Meta financials and SemiAnalysis estimates
+      In addition to throwing money at the problem, he’s fundamentally
+      rethinking Meta’s approach to GenAI. He’s starting a new
+      “Superintelligence” team from scratch and personally poaching top AI
+      talent with pay that makes top athlete pay look like chump change. The
+      typical offer for the folks being poached for this team is $200 million
+      over 4 years. That is 100x that of their peers. Furthermore, there have
+      been some billion dollar offers that were not accepted by
+      researcher/engineering leadership at OpenAI. While these offers aren’t all
+      successful, Zuck is crushing the competitors by drastically increasing
+      their cost per employee.
+      Perhaps even more iconic, Zuck threw his entire Datacenter playbook into
+      the trash and is now building multi-billion-dollar GPU clusters in
+      “Tents”!
+      Source: SemiAnalysis Datacenter Model – as of 07/06/2025
+      As this report details, nothing is off the table. We unpack Meta’s
+      unprecedented reinvention from Compute to Talent in the pursuit of
+      Superintelligence as well as the story of how we got here. From Llama 3.0
+      open-sourced dominance to the epic fail of Llama 4 Behemoth, this Titan of
+      AI is down but not out. In fact, we believe Meta’s ramp in training FLOPS
+      will rival even that of OAI. The company is going from GPU-poor to GPU-
+      filthy-rich on a per researcher basis.
+      Meta GenAI 1.0: AI Incrementalism
+      Compared to pure-play AI labs like OpenAI, companies like Meta and Google
+      have followed an “AI Incrementalism” strategy by enhancing existing
+      products with better recommendation systems and GenAI to improve ad
+      targeting, content tagging, and internal tools. This has paid off
+      handsomely in financial results, allowing Meta to shrug off Apple’s
+      attempts at stopping them from tracking users with the release of their
+      App Tracking Transparency (ATT) feature in iOS 14.5 (late 2021, early
+      2022).
+      Source: Company filings
+      While Meta is arguably more insulated from GenAI disruption than Google,
+      LLM efforts at both companies have been somewhat disappointing. One reason
+      is the allocation of capital primarily for the core business rather than
+      pursuing superintelligence.
+      “Our CapEx growth this year is going toward both generative AI and core
+      business needs with the majority of overall CapEx supporting the...
+      [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+12. TITLE: OpenAI Stargate: where the US sites stand
+   SOURCE: Epoch_AI | DATE: Mon, 20 Apr 2026 16:57:57 GMT
+   URL: https://epochai.substack.com/p/openai-stargate-where-the-us-sites
+   MATCHED PILLARS: [SILICON HARDWARE, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Updated April 23, 2026IntroductionThe United States is in the middle of an
+      unprecedented build-out of AI infrastructure. No project illustrates the
+      scale of that effort more than Stargate, a $500 billion endeavor involving
+      AI developer OpenAI, cloud provider Oracle, and investment company
+      SoftBank.Stargate has seven locations across the US, all of which are now
+      showing active development. The most advanced—in Abilene, Texas—is already
+      operating at an estimated capacity of 0.3 gigawatts (GW).1 The six other
+      sites include two more in Texas, as well as facilities in New Mexico,
+      Wisconsin, Michigan, and Ohio. Together, the seven sites add up to over 9
+      GW of planned capacity, which is comparable to the peak power demand of
+      New York City.2 This will be enough to power the equivalent of 20 million
+      Nvidia H100 GPUs, which was the total amount of AI compute in the world by
+      the end of 2025.3Thanks for reading! Subscribe for free to receive new
+      posts and support our work.Stargate’s design choices reveal how builders
+      are navigating the key challenges of gigawatt-scale AI data centers in the
+      US. To sidestep lengthy queues for connecting to energy grids, at least
+      three of the seven sites will make use of on-site natural gas plants. To
+      address public concerns about water usage, at least six sites will use
+      closed-loop liquid cooling systems, which do not evaporate water.4 These
+      decisions will likely save the project time but raise the cost of the
+      facilities.Based on announcements from 2025, SoftBank will own the
+      hardware at the Milam County and Ohio sites, while Oracle will own the
+      hardware at the remaining sites. All sites will serve OpenAI’s
+      workloads.The sitesAbilene, TexasSatellite image of the Abilene, Texas
+      Stargate site. Image © Airbus DS 2026, captured 2026-03-24.Current
+      capacity: 0.3 GW | 250,000 H100-equivalents5Projected capacity: 1.2 GW |
+      1.0 million H100-equivalentsProjected completion: Q4 2026The Stargate
+      project’s flagship location is in Abilene, Texas. Built by AI
+      infrastructure company Crusoe, Abilene is the most complete Stargate site
+      to date, with an estimated four of the eight buildings already
+      operational. These buildings house state-of-the-art Nvidia Blackwell
+      chips.Power is currently supplied by a mix of on-site natural gas and grid
+      power, which includes local wind power.OpenAI had planned to expand this
+      site to 2.1 GW, but recently reversed course, deciding to direct that
+      capacity to other locations. Microsoft has since partnered with Crusoe for
+      the adjacent 900 MW site.View with satellite explorerShackelford County,
+      TexasSatellite image of the Shackelford County, Texas Stargate site. Image
+      © 2026 Vantor, captured 2026-04-14.Current capacity: 0 GWProjected
+      capacity: 2 GW | 4.2 million H100-equivalentsProjected completion: Q4
+      2028Just across the county line from the Abilene site, data center
+      developer Vantage is constructing a massive 1,200-acre (4.9-square-
+      kilometer) campus with 10 buildings.The campus will be powered by an
+      onsit... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+13. TITLE: Frontier labs don’t use most AI compute (yet)
+   SOURCE: Epoch_AI | DATE: Thu, 21 May 2026 15:42:35 GMT
+   URL: https://epochai.substack.com/p/frontier-labs-dont-use-most-ai-compute
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Gradient Updates shares more opinionated or informal takes on big
+      questions in AI progress. These posts solely represent the views of the
+      authors, and do not necessarily reflect the views of Epoch AI as a whole.
+      The estimates of frontier developer compute discussed below are more
+      tentative than our standard data work.OpenAI kicked off the AI boom when
+      it launched ChatGPT in 2022. Frontier LLMs soon accrued hundreds of
+      millions of users and billions in revenue, sparking a massive investment
+      boom in AI compute infrastructure, with Nvidia’s AI-related sales spiking
+      more than fourfold in 2023. Global AI computing power has now grown to the
+      equivalent of around 20 million Nvidia H100s, funded by hundreds of
+      billions of dollars in annual capital expenditures.Yet while OpenAI
+      launched the compute boom, they don’t dominate AI compute usage. I
+      estimate that the compute OpenAI uses for research, training, and
+      inference as of the end of 2025 made up around 10% to 15% of the world’s
+      operational AI compute supply, and this share was even smaller a year ago.
+      Even after adding the other most well-resourced frontier developers —
+      Anthropic, xAI, and the AI labs within Google and Meta — the combined
+      total is probably still under half of the world total.In other words,
+      there is a lot of AI compute that top frontier labs are not using.
+      Anthropic and OpenAI have seen rapid growth in revenue and funding,
+      enabling them to grow their AI compute faster than the world overall, and
+      this will continue in 2026.But the top labs may capture a much larger
+      share of global compute within a few years. At that point, compute growth
+      at top labs would be more directly tied to the pace of total compute
+      production, which could slow down the rapid growth we’ve seen in both
+      model capabilities and AI deployment/revenue. For scaling to continue, the
+      overall compute buildout would need to accelerate. Given that AI capital
+      expenditure (capex) is already approaching $1 trillion per year, such an
+      acceleration in compute production would require dramatic economic
+      changes.Most AI compute probably doesn’t go to frontier AIMore details for
+      each company can be found in the Appendix, and the accompanying research
+      document.I don’t have a great estimate of the compute used by each of the
+      five most resource-rich frontier developers, but we know enough to
+      estimate their share of world compute.1OpenAI helpfully disclosed the
+      total electric power capacity of its data centers, which can be converted
+      to ~1.7 million in H100-equivalent (H100e) compute. We also know a lot
+      about xAI’s Colossus data centers. I’m less certain about Anthropic, which
+      had significantly less compute than OpenAI at the end of 2025, though
+      probably still over 1 million H100e. The situation at Google DeepMind and
+      Meta Superintelligence Labs is also unclear, since the compute owned by
+      their parent companies (roughly one-third of the world total) is split
+      across frontier AI, cloud, and other internal uses.2 It’s not clear that
+      t... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+14. TITLE: Will Eatherton: How Cisco Plans to Compete in the AI Datacenter
+   SOURCE: Fabricated_Knowledge | DATE: Mon, 27 Oct 2025 14:57:33 GMT
+   URL: https://www.fabricatedknowledge.com/p/will-eatherton-how-cisco-plans-to
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      This transcript is lightly edited for readability. This is not paid, just
+      an educational conversation. For deeper analysis, refer to the
+      SemiAnalysis Networking model, “The New Networks” or Multi-Datacenter
+      Training for more in-depth analysis. Doug: Thank you, Will, for being
+      here. We’re going to have a conversation with Will Eatherton of Cisco.
+      I’ll dive into your background, talk about Cisco the historical networking
+      giant, and then Cisco’s AI opportunity today. First, Will — tell me about
+      yourself.Will Eatherton: Great, Doug. Thanks for having me on. I’ve
+      enjoyed browsing the site and its articles, so I’m happy to be here. I run
+      Cisco networking engineering, focused on hyperscale engagements,
+      datacenters, and service providers, which overlap a lot. I’ve been in the
+      networking industry for about 25 years and have been acquired into Cisco
+      twice.The first was around 2000, when I was at a startup working on multi-
+      terabit ASICs — the first big wave when everyone thought they’d need
+      multi-chassis switches to move terabits around. That work went into
+      Cisco’s carrier switch. I was at Cisco for ten years and later was a VP at
+      Juniper. The second startup was acquired by Cisco in 2018. The last seven
+      years around AI have been an exciting ride. Most recently, I’m proud of
+      the NVIDIA engagement; I’ve been the point person on the negotiations and
+      integration, which hasn’t always been easy between Cisco and NVIDIA.Doug:
+      Yeah, especially considering they have Mellanox. Why work together? Cisco
+      was the 800-pound gorilla in the 2000s, and over the last decade-plus
+      merchant silicon and other providers entered the space while Cisco leaned
+      on legacy assets. Now with hyperscalers and AI, Cisco’s opportunity is
+      open again. How is Cisco entering the AI datacenter space?Will Eatherton:
+      To touch on history, there were glory days in the 2000s and 2010s — the
+      telco and enterprise build-outs were largely Cisco. I left in 2010. The
+      early cloud era was rough for Cisco; we acknowledged some arrogance and we
+      missed the early cloud phase. I returned in 2018, and over the last
+      several years we’ve gone all-in on hyperscale engagements. That dovetails
+      with work on SONiC, optics, and the Acacia acquisition — a corrective
+      pivot for a large company. We may not be as visible as we want yet, but
+      we’re positioned to have impact and we’re taking moves — like the NVIDIA
+      partnership — to address a broader customer base.Doug: You have real
+      revenue — a billion in AI revenue and guidance that order volume could
+      double next year. Walk me through the prongs: hyperscaler work, NVIDIA,
+      Cisco One. What are the opportunities today?Will Eatherton: We set a $1B
+      target for FY25; Chuck announced we exceeded it, and we’re guiding higher.
+      FY25 (ended in August) was driven largely by hyperscale AI infrastructure.
+      We explicitly separated traditional data-center revenue from that
+      number.The key components were GPU-to-GPU interconnects where our boxes
+      were deployed. Fixed boxes are the primary focu... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+15. TITLE: 2026 AI & Semiconductor Outlook
+   SOURCE: Fabricated_Knowledge | DATE: Wed, 07 Jan 2026 21:37:33 GMT
+   URL: https://www.fabricatedknowledge.com/p/2026-ai-and-semiconductor-outlook
+   MATCHED PILLARS: [SILICON HARDWARE, SUPPLY CHAIN CHOKEPOINTS, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+       Happy New Year! Last year was incredible for semiconductors — and AI
+      stocks in particular — so as tradition demands, here’s the annual outlook.
+      Fair warning: outlooks are hard. Things change constantly, and my views
+      will change with them.But first, let’s see who actually won.2025 Year
+      Performance ReviewLet’s ask ourselves who won this year, and the answers
+      are a bit surprising. If I had to put the stories of 2025 in
+      semiconductors into a single cohesive narrative, it would be:  AI spending
+      stepped down the stack. Memory and optics were the beneficiaries. The
+      bottlenecks moved from GPUs to the things that feed and connect
+      them.Semicap finally participated. WFE was tepid, but the stocks ripped
+      anyway. The market is pricing in what’s coming.Automotive remains in
+      purgatory. I thought it would bottom last year. I was wrong. Will it
+      bottom this year? I’m done guessing.This is the year the AI story got
+      leverage. This remains my favorite topic, and I wrote about it in Capital
+      Cycles and AI and referenced it in the railroads piece. The chart below
+      tells the story. This year was clearly the year of memory and optics. I
+      was pretty bullish on optics last year, and I think that definitely was
+      the best prediction of them all so far. I also said that HBM would be
+      really solid, and that definitely worked out. I did, however, get really
+      negative on everything related to the trade war and flipped out a bit too
+      late. But at the end of the year, I am back to a believer, as I believe
+      the most logical path is probably a bubble in the semiconductor / AI
+      world. 2025 Predictions Scorecard Before we continue into each big key
+      theme, I did want to evaluate some of my “predictions”. What Worked:
+      Optics “most bullish for 2025” — LITE +331%, FN +107%, TSEM +128%  HBM
+      memory — MU +228%  AI returns moderate — NVDA +35% (vs +178% in 2024)
+      Intel pivot (Aug) — +75% from $21 to $37  Rambus (MRDIMM) — +72%  SiTime —
+      +58%  MPWR — +54%  Lattice — +31%What Didn’t: AMD bear — +78% (ouch)
+      “Avoid NAND/HDD” — WDC +270% (missed a 3x) Automotive bottom-fish — ON
+      -12%, MBLY -48% (year 3 of pain) Semicap “middle of road” — LRCX +139%,
+      KLAC +93% (undercalled)I’d say it was okay, but I definitely think I could
+      do better. Anyway, let’s move on to this year’s themes, because I think
+      they are noteworthy. Memory and OpticsThe bottlenecks became the winners.
+      I was bullish on HBM last year, but I underestimated the knock-on effect:
+      when HBM sells out, DRAM tightens. When DRAM tightens, prices rip.Source:
+      BloombergPeople are buying DRAM for the price of a new PC; the price
+      changes are catastrophic. I have never seen a line increase so rapidly and
+      so sharply in semiconductor history. After the worst memory cycle, we are
+      now in the strongest memory cycle in history. No surprise that a historic
+      AI cycle would cause this. In optics, we are seeing a similar situation,
+      with a complete shortage of EMLs, CW lasers, VSCELs, etc. It’s all
+      backordered, and that’s for the massive 800g cycle. We are no...
+      [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+16. TITLE: Are AI benchmarks doomed?
+   SOURCE: Epoch_AI | DATE: Fri, 01 May 2026 22:23:35 GMT
+   URL: https://epochai.substack.com/p/are-ai-benchmarks-doomed
+   MATCHED PILLARS: [SILICON HARDWARE, SUPPLY CHAIN CHOKEPOINTS]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Greg Burnham leads Epoch’s benchmarking team. Tom Adamczewski is a senior
+      research engineer who develops new benchmarks, including MirrorCode.Topics
+      we cover: why benchmark saturation isn’t as alarming as it seems, how AI
+      can speed up benchmark development, the benchmark-reality gap, whether an
+      AGI benchmark can exist, and the role of human evaluation in future
+      benchmarks.We also discuss MirrorCode, a benchmark (co-developed by Epoch
+      and METR) of long-horizon coding tasks, and FrontierMath: Open Problems,
+      Epoch’s benchmark of real unsolved math research problems.Subscribe
+      nowWatch the episode here:SpotifyTranscriptThis is an edited transcript of
+      the “Epoch After Hours” podcast.Are AI benchmarks doomed?
+      [00:00:36]AnsonSo AI benchmarks seem to have a really big problem right
+      now. If you look at all of the AI benchmarks, it seems like most of them
+      are saturating really, really quickly. And by really quickly, I mean
+      months for most of them. If they’re really, really good, maybe they’ll
+      last for a year or two. But then for the most part, it seems like it’s
+      very hard to build a benchmark that can last quite a long period of
+      time.So there’s a looming question that revolves around all of this: are
+      AI benchmarks doomed? To start off, I’d like to get a nice little vibe
+      check of where you guys stand on whether AI benchmarks are doomed. So what
+      do you guys think?TomSo I think benchmarks will continue to be important
+      as long as people want to have some kind of qualitative description of
+      what an AI system can do, or want to quickly compare when a new model
+      comes out — which one is better. And so it seems like we’re sort of stuck
+      with benchmarks, regardless of the many flaws that they might have, just
+      because there is this obvious demand for information, this gap that they
+      fill.We might be in a situation where benchmarks are less useful than they
+      used to be. Like they explain less of all that we might want to know about
+      AI systems’ performance. But there’s still additional information, and so
+      people are going to continue to release new benchmarks and look at
+      benchmark results.GregI’m a bit more of an optimist in this perspective.
+      I’d almost say we’re living through a golden age of benchmarking, where it
+      used to be that I think models were not that capable and there was only so
+      much for benchmarks to say. Now models are much more capable, but this
+      just means there’s much more for benchmarks to potentially tell us.So
+      maybe, as Tom was saying, the percentage of questions you might want
+      benchmarks to answer that benchmarks actually answer might be shrinking.
+      But the amount of information we’re gleaning from benchmarks, I think in
+      some sort of absolute terms, is growing.And I think this is very exciting.
+      I think benchmarks will survive and be important and even potentially
+      central, so long as there are things we are curious whether AI systems can
+      do — and that seems like there’s still plenty of questions about what AI
+      systems can do. I think there are some... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+17. TITLE: Scaling the Memory Wall: The Rise and Roadmap of HBM
+   SOURCE: SemiAnalysis | DATE: Tue, 12 Aug 2025 01:16:06 +0000
+   URL: https://semianalysis.com/2025/08/12/scaling-the-memory-wall-the-rise-and-roadmap-of-hbm/
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE, SUPPLY CHAIN CHOKEPOINTS, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      The first portion of this report will explain HBM, the manufacturing
+      process, dynamics between vendors, KVCache offload, disaggregated prefill
+      decode, and wide / high-rank EP. The rest of the report will dive deeply
+      into the future of HBM. We will cover the revolutionary change coming to
+      HBM4 with custom base dies for HBM, what various different accelerators
+      are doing with custom HBM including OpenAI, Nvidia, and AMD, the shoreline
+      area problem, memory controller offload, repeater PHYs, LPDDR + HBM
+      combos, and various beachfront expansion techniques. We will also discuss
+      SRAM tags, compute under memory, supply chain implications, and Samsung.
+      A Brief Overview of HBM
+      As AI models grow in complexity, AI systems require memory with higher
+      capacity, lower latency, higher bandwidth, and improved energy efficiency.
+      Different forms of memory have different tradeoffs. SRAM is extremely fast
+      but low density. DDR DRAM is high density and cheap but lacks bandwidth.
+      The most popular memory today is on-chip HBM which strikes the balance
+      between capacity and bandwidth.
+      Source: Rambus
+      HBM combines vertically stacked DRAM chips with ultra-wide data paths and
+      has the optimal balance of bandwidth, density, and energy consumption for
+      AI workloads. HBM is much more expensive to produce and has a warranted
+      price premium to DDR5, but demand remains strong for HBM. All leading AI
+      accelerators deployed for GenAI training and inference use HBM. The common
+      trend across accelerator roadmaps is to scale memory capacity and
+      bandwidth per chip by adding more stacks, higher layer counts, with faster
+      generations of HBM. Architectures that rely on other forms of memory offer
+      sub-optimal performance, as we have demonstrated.
+      In this report, we will examine HBM’s present state, what’s happening in
+      the supply chain, and the groundbreaking changes happening in the future.
+      We’ll examine HBM’s critical role in AI accelerator architecture, the
+      impact HBM is having on the DRAM market, and why it is upending the way
+      memory market analysis is being performed. For subscribers, we will also
+      address the major questions on Samsung’s future viability as a supplier,
+      as well as highlight one technological change that may reverse the trend
+      of increasing HBM capacity.
+      HBM Primer
+      First, a brief primer on HBM – what makes it special and challenging to
+      manufacture. While HBM is commonly associated with multiple DRAM dies
+      stacked in a 3DIC assembly, the other key feature is HBM’s much wider data
+      bus, improving bandwidth even with mediocre signaling speeds. This
+      significantly wider bus results in HBM being far superior in terms of
+      bandwidth per package than any other form of memory.
+      Source: SemiAnalysis
+      The implication of having much more I/O is increased routing density and
+      complexity. Each I/O requires an individual wire/trace, with additional
+      wiring required for power and control. For a HBM3E stack, there are over a
+      1,000 wires between the adjacent XPU and the HBM... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+18. TITLE: Another Conversation with Val Bercovici Memory Markets
+   SOURCE: Fabricated_Knowledge | DATE: Mon, 16 Feb 2026 17:13:23 GMT
+   URL: https://www.fabricatedknowledge.com/p/another-conversation-with-val-bercovici
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Another conversation about KV Cache! Doug: Welcome back to the Fabricated
+      Knowledge podcast. I have Val from WEKA once again, and we are here to
+      talk about memory. I think from last time to now, it was actually a pretty
+      complete podcast. We were rambling a little bit about KV cache, NAND
+      offloading. And I think from then to now, we’ve really seen quite a
+      different market. NAND prices have exploded. All memory prices have
+      exploded. And I still think it’s the same story. I wanted to update
+      everything, talk to Val, and get some more current thoughts on the whole
+      market. Thanks for being here.Val: It’s a pleasure. Happy to be a repeat
+      guest.Doug: Thanks for coming. I think we were talking about this a little
+      bit before — let’s actually talk about the Jensen conversation, because at
+      CES, the big news was — and people took this to the utmost extreme,
+      everyone’s like, “everyone needs 16 terabytes per GPU.” Maybe that’s a
+      little bit of a BlueField advertisement, but let’s just talk about the
+      endorsement of the KV cache market overall.Val: Absolutely. Like we were
+      saying earlier, it was kind of a confusing topic last summer. The
+      ecosystem wasn’t really ready for KV offloading. Agentic demand hadn’t
+      exploded yet, even though you and I probably anticipated it back then.
+      We’re here now, right? Agents are exploding — even pre-Claude Code. We’re
+      all Claude Code-pilled over the past holidays. We’re seeing trillion-token
+      consumption by AI startups now as a routine thing, daily sometimes. So the
+      demand is there, and it’s cool to see that different vendors had different
+      names for it before Jensen just anointed it as the “context memory” market
+      — and particularly “context memory storage” as we extend storage beyond
+      HBM and DRAM onto NVMe.Doug: It’s kind of a big deal. I’m actually going
+      to try to do this live and see what SemiAnalysis is paying in terms of
+      OpenAI, because for a company that doesn’t have a massive engineering team
+      — we have a few programmers for sure — but we are definitely adopting this
+      on a pretty hardcore basis. We’re running at like half a billion tokens a
+      day.Val: I see a lot of organizations around that billion tokens a day,
+      and this number is climbing rapidly. It was funny because we were just
+      chatting about the pricing yesterday. Opus 4.6 fast above 200,000-token
+      context is $225 per million output tokens.Doug: Wow. I got it wrong.Val:
+      No, no — there’s actually two tiers. If you’re below 200K tokens and above
+      200K tokens. I was thinking of the above-200K tier.Doug: Yeah. Well, let’s
+      be clear — I think everyone at our firm uses the 1-million-token context
+      window. That’s it. It’s so much better. It really is. It’s crazy.And I
+      feel like maybe that’s the logical segue — the last time we talked, we
+      discussed essentially how you’d have an infinite context window. I think
+      since then, the thing that’s changed is the context rot problem does seem
+      to be real. But that doesn’t mean you don’t need more context. In fact,
+      you need a ton of context... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+19. TITLE: VLSI 2026: Intel 18A Platform Momentum From Devices To Routed Designs
+   SOURCE: Semiconductor_Engineering | DATE: Thu, 18 Jun 2026 07:04:58 +0000
+   URL: https://semiengineering.com/vlsi-2026-intel-18a-platform-momentum-from-devices-to-routed-designs/
+   MATCHED PILLARS: [SILICON HARDWARE, SUPPLY CHAIN CHOKEPOINTS, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Intel Foundry’s process technology roadmap is powered by innovations that
+      are enabling customers to build increasingly capable products for the
+      artificial intelligence (AI) era. At the 2026 IEEE/JSAP Symposium on VLSI
+      Technology & Circuits, Intel Foundry presented progress on a number of
+      important aspects of our front-end silicon process innovations. This
+      includes Intel 18A-P featuring Power Boost, our first performance
+      enhancement to the Intel 18A node family, now in risk production. We also
+      share research on the advantages of backside power, supported by data from
+      designers on the product side of Intel on how building products on a
+      backside power/gate-all-around (GAA) process provides multiple advantages.
+      Among the six research papers presented at the event, we demonstrated our
+      continued advancement of gallium nitride (GaN) technology by sharing new
+      developments in efficient power management of scalable digital logic on a
+      300 mm GaN and silicon platform. In addition, we presented a scaled
+      complementary FET (CFET) process with features to balance performance
+      benefit and process risk as well as subtractive ruthenium (sRu)
+      interconnects with airgap, enabling a more efficient metallization scheme
+      for tight pitches. Intel Foundry’s continued investment in R&D underscores
+      our commitment to our customers, delivering silicon-validated innovations
+      that enable future-ready performance and efficiency gains.
+      CPU Learnings with GAA Transistors and Backside Power
+      Today, the industry’s biggest power delivery challenges are structural.
+      Frontside power delivery networks no longer scale to support increasingly
+      demanding workloads, leading to vanishing voltage margins and tighter
+      thermal and reliability constraints. Backside-powered GAA nodes offer a
+      scaling solution for next generation CPUs, AI accelerators, and system of
+      chips (SoCs).
+      Research by Intel engineers on CPU cores using GAA with backside power
+      found that lower IR drop across the power delivery network allows more
+      transistor performance to translate into real core frequency and closer-
+      to-ideal silicon scaling. At low operating voltages around 0.5 V, GAA
+      designs with backside power demonstrated approximately 30% higher
+      frequency versus FinFET.¹ This enables new low-voltage operating points
+      that were previously impractical for mobile, AI edge, and energy-efficient
+      compute. These gains are especially relevant for power-constrained
+      workloads, where reducing voltage delivers more power savings with longer
+      battery life, and lower cooling and packaging costs.
+      Figure 1. Core frequency improves by approximately 30% at 0.5 V for GAA
+      backside power design.
+      Backside Power Delivery Impact on Routed Designs
+      At VLSI 2026, Intel Foundry engineers shared improvements in backside
+      power delivery on advanced nodes. Backside power delivery shifts major
+      power routing to the rear of the wafer, reducing congestion by freeing
+      frontside interconnect for signals. Routed blocks showed approximately 11%
+      area reduction... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+20. TITLE: The Epoch Brief - June 12, 2026
+   SOURCE: Epoch_AI | DATE: Fri, 12 Jun 2026 21:01:42 GMT
+   URL: https://epochai.substack.com/p/the-epoch-brief-june-12-2026
+   MATCHED PILLARS: [PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      This week at Epoch:The launch of our new Cyber Vulnerabilities explorer, a
+      tool for better understanding how AI capabilities are changing
+      cybersecurity.Two new Data Insights: the record for compute at a single
+      data center has doubled every seven months, and AI infrastructure’s rising
+      contribution to US GDP.Version 2 of FrontierMath: Tiers 1–4 is now
+      available, and it shows a significant increase in AI math capabilities.
+      Anthropic’s Fable 5 currently tops the leaderboards.Two new Gradient
+      Updates: examining whether Mythos’ cyber capabilities live up to the hype,
+      and proposing a framework for thinking about wealth distribution after
+      AGI.Subscribe nowResearchIntroducing the Cyber Vulnerabilities explorerAs
+      AI capabilities change what's possible for both cyber attackers and
+      defenders, the Cyber Vulnerabilities explorer helps quantify that impact.
+      The explorer tracks vulnerabilities reported to the CVE Program by all
+      participating organizations since 2022. You can explore the full dataset,
+      or filter for the 21 most notable vendors and open-source projects (e.g.,
+      Microsoft, Google, Apple, and Linux). Reports can be broken down by
+      severity level and overlaid with key AI milestones. That overlay reveals a
+      dramatic uptick in High and Critical CVEs around the time Anthropic
+      released Mythos Preview to Project Glasswing partners in late March. (For
+      more on Mythos’ cybersecurity impact, see the Gradient Update from this
+      week.)Data InsightsThe record for computing capacity in a single data
+      center has doubled every 7 monthsSince the launch of SpaceXAI’s Colossus 1
+      in August 2024, the record for the largest AI data center by computing
+      capacity has doubled every seven months. Facilities like Anthropic-Amazon
+      New Carlisle, Microsoft Fairwater Atlanta, and Meta Prometheus have each
+      claimed the top spot at different times. Increased single-site capacity
+      facilitates the training of more capable AI models.The AI boom has doubled
+      computing infrastructure’s share of US GDPThe AI infrastructure boom,
+      which began in 2023, has more than doubled the share of US GDP
+      attributable to computing infrastructure. Investment in AI-related data
+      center construction, compute hardware, and networking equipment accounted
+      for ~0.8% of US GDP in Q1 2026, driving computing infrastructure as a
+      whole to ~1.5% of GDP, up from a 2015–2022 average of ~0.7%. AI
+      infrastructure is now the leading driver of growth in private investment
+      in the US.The new FrontierMath: Tiers 1–4We launched Version 2 of
+      FrontierMath: Tiers 1–4 today, following an audit that addressed small but
+      critical errors in 42% of problems in the original benchmark. Model
+      rankings on v2 are similar, but scores are higher across the board. Claude
+      Fable 5, Anthropic's newest and most capable model, now holds the top
+      spot, reaching 87% on Tiers 1–3 and 88% on Tier 4. This continues a streak
+      of rapid improvement in Anthropic models’ math capabilities. (Note that
+      Fable 5 is the publicly available version of the Mythos model,...
+      [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+21. TITLE: Intel 18A Details & Cost, Future of DRAM 4F2 vs 3D, Backside Power Adoption (or Not), China’s FlipFET, Digital Twins from Atoms to Fabs, and More
+   SOURCE: SemiAnalysis | DATE: Mon, 21 Jul 2025 14:23:37 +0000
+   URL: https://semianalysis.com/2025/07/21/vlsi2025/
+   MATCHED PILLARS: [SILICON HARDWARE, SUPPLY CHAIN CHOKEPOINTS, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Long time readers will recall that SemiAnalysis covers more than just
+      datacenters and AMD. Today we’re back to semiconductors with a tech-
+      focused roundup of the best from this year’s VLSI conference, the premiere
+      design and integration. That includes the latest in chips manufacturing:
+      fab digital twins, the future of advanced logic transistors and
+      interconnects, DRAM architectures beyond the 1x nm nodes, and more. We’ll
+      discuss Intel’s 18A process and compare with TSMC, where backside power
+      will be adopted (and where it won’t), and the likely winners in 4F2 versus
+      3D DRAM.
+      Digital Twins: From Atoms to Fabs
+      Semiconductor design and fabrication is getting exponentially more
+      complex, increasing development costs and lengthening design cycles.
+      Digital twins allow for design exploration and optimization to be done in
+      an accelerated virtual environment. With this, engineers can ensure that
+      designs work before any silicon is run through the fab.
+      Digital twins span the entire scale of semiconductor design:
+      Atomic-level: Simulate the quantum and Newtonian interactions between
+      atoms in materials engineering of transistor contacts and gates
+      Wafer-level: Optimize tool chambers and process recipes in virtual silicon
+      for yield and performance
+      Fab-level: Maximize fab productivity with orchestrated maintenance and
+      management across the fleet
+      Source: Synopsys
+      On atomistic simulations, Synopsys provided an overview of their
+      QuantumATK suite, used in materials engineering in transistor contacts and
+      gate oxide stack design, which are critical to device performance.
+      Traditional Density Functional Theory (DFT) modelling of quantum effects
+      between atoms is the most accurate but computationally expensive, while
+      conventional force field simulation of Newtonian atomic interactions is
+      quick but with limited accuracy. GPU accelerated DFT-NEGF (Non-Equilibrium
+      Green’s Function) demonstrated a 9.3x speedup using only 4x A100 vs CPU,
+      while Machine-Learned Force Field simulation using Moment Tensor
+      Potentials demonstrated near-DFT accuracy with 17 min compute cost vs 12
+      days with traditional DFT.
+      Source: Synopsys
+      These atomic models are critical in understanding the electrical
+      interactions occurring at the interface between different material layers.
+      In contact engineering, MLFF is used to generate the contact interface
+      between crystalline silicon and amorphous silicides, simulating the depth
+      of interdiffusion where the boundary undergoes silicidation. DFT-NEGF is
+      then used to calculate contact resistance and current-voltage curves
+      across the interface. For gate oxide design, the complex multi-layer work
+      function metal stack is built using MLFF and simulated to check its
+      structure and chemical composition. Dipole dopants can then be introduced
+      and optimized with DFT, which also does electrostatic analysis to
+      calculate key parameters such as effective work function, Schottky barrier
+      height and equivalent oxide thickness. As we move forwar... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+22. TITLE: Another Giant Leap: The Rubin CPX Specialized Accelerator & Rack
+   SOURCE: SemiAnalysis | DATE: Wed, 10 Sep 2025 19:57:18 +0000
+   URL: https://semianalysis.com/2025/09/10/another-giant-leap-the-rubin-cpx-specialized-accelerator-rack/
+   MATCHED PILLARS: [SILICON HARDWARE, SUPPLY CHAIN CHOKEPOINTS, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Nvidia announced the Rubin CPX, a solution that is specifically designed
+      to be optimized for the prefill phase, with the single-die Rubin CPX
+      heavily emphasizing compute FLOPS over memory bandwidth. This is a game
+      changer for inference, and its significance is surpassed only by the March
+      2024 announcement of the GB200 NVL72 Oberon rack-scale form factor. Only
+      with hardware specialized to the very different phases of inference,
+      prefill and decode, can disaggregated serving achieve its full potential.
+      As a result, the rack system design gap between Nvidia and its competitors
+      has become canyon-sized. AMD and custom silicon competitors may have made
+      a small step forward in emulating Nvidia’s 72-GPU rack scale design, but
+      Nvidia has just made another Giant Leap, again leaving competitors very
+      distant objects in the rear-view mirror.
+      AMD and ASIC providers have already been investing heavily to catch up in
+      terms of their own rack-scale solutions. AMD in particular has been
+      working tirelessly to improve their software stack to try to close the gap
+      with Nvidia, but now everyone will needs to redouble their investments yet
+      again as they will have to develop their own prefill chips, delaying
+      further the timeframe with which they can close this gap. With this
+      announcement, all of Nvidia’s competitors will be sent back to the drawing
+      board to reconfigure their entire roadmaps again in a repeat of how Oberon
+      changed roadmaps across the industry.
+      The Rubin CPX
+      Because the prefill stage during inference tends to heavily utilize
+      compute (FLOPS) and only lightly use memory bandwidth, running prefill on
+      a chip with lots of expensive HBM featuring very high memory bandwidth is
+      a waste. The answer is a chip that is skinny on memory bandwidth and
+      relatively fat on compute. Enter the Rubin CPX GPU.
+      Source: Nvidia
+      The Rubin CPX features 20 PFLOPS of FP4 dense compute but only 2TB/s of
+      memory bandwidth. It also features 128GB of GDDR7 memory, a lower quantity
+      of less expensive memory when compared to the VR200. By comparison, the
+      dual-die R200 chip offers 33.3 PFLOPS of FP4 dense and 288GB of HBM
+      offering 20.5 TB/s of memory bandwidth.
+      Source: SemiAnalysis, Nvidia
+      The introduction of the Rubin CPX expands the VR200 family of rack scale
+      servers into three flavors:
+      VR200 NVL144: 72 GPUs packages across 18 compute trays, with 4 R200 GPU
+      packages in each compute tray.
+      VR200 NVL144 CPX: 72 Logical GPUs packages in addition to 144 Rubin CPX
+      GPU packages across 18 compute trays, with 4 R200 GPU packages and 8 Rubin
+      CPX GPU  packages in each compute tray.
+      Vera Rubin CPX Dual Rack: Two discrete racks – one VR200 NVL144 rack plus
+      one VR CPX rack with 144 Rubin CPX GPUs across 18 compute trays, with 8
+      Rubin CPX GPUs in each compute tray.
+      Source: SemiAnalysis, Nvidia
+      In this report, we will first explain the story so far and the impetus for
+      the development of the Rubin CPX because of the different role memory
+      plays during prefill an... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+23. TITLE: Chip Industry Week In Review
+   SOURCE: Semiconductor_Engineering | DATE: Fri, 19 Jun 2026 07:01:41 +0000
+   URL: https://semiengineering.com/chip-industry-week-in-review-143/
+   MATCHED PILLARS: [SILICON HARDWARE, SUPPLY CHAIN CHOKEPOINTS, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Dealmaking
+      Amkor inked a 10-year agreement with TSMC to provide advanced packaging
+      and test services in Arizona, tying TSMC’s U.S. fab expansion to domestic
+      OSAT capacity.
+      Trump said in a post that Apple will partner with Intel on chip design and
+      production in the U.S., marking a second reported win for the chipmaker
+      this month. Intel Foundry will also reportedly manufacture 3 million TPUs
+      for Google. Intel has not confirmed either deal.
+      Brewer Science will acquire Heraeus Epurio‘s ultrapure chemical business.
+      Amazon is reportedly in talks to sell its custom Trainium AI accelerator
+      chips directly to outside companies for use in their own data centers. The
+      move comes on the heels of Google’s announcement last month that it will
+      sell its TPUs commercially.
+      Cadence and HPE expanded their collaboration to accelerate digital twin-
+      driven data center modernization.
+      IEEE /JSAP Symposium on VLSI Technology & Circuits
+      Intel Foundry said its 18A-P process has entered risk production, with
+      performance, power, thermal, and via-resistance improvements over 18A. The
+      foundry also highlighted longer-term work in CFETs, GaN-on-silicon power
+      integration, and ruthenium interconnects (Fig.1 below).
+      Sony and imec unveiled a backside connectivity module for high-density 3D
+      chip integration.
+      SK hynix introduced its 4F² vertical-gate DRAM and its electrical
+      characteristics.
+      TSMC presented its A16 angstrom-class GAA CMOS platform with Super Power
+      Rail BPD.
+      ASML, TSMC, and imec demonstrated a 300mm integration flow for 2D-material
+      nFETs and pFETs with 50nm contacted poly pitch. The work moves 2D
+      transistors closer to manufacturable post-silicon logic.
+      Samsung presented its 42nm-pitch 3D stacked FETs/CFET-style logic scaling.
+      Fig.1: Intel’s ongoing research. Source: Intel Foundry
+      Memory
+      CEA-Leti demonstrated 22nm FeRAM with 3D HZO ferroelectric capacitors for
+      denser, low-power embedded memory in edge AI.
+      SK Hynix shipped samples of its 12-layer HBM4E memory to major customers.
+      imec reported advances in ferroelectric memory for more efficient AI
+      chips.
+      Fraunhofer IPMS and GF researchers integrated hafnium oxide-based ultra-
+      fast ferroelectric FRAM memory into GF’s 22FDX technology node, enabling
+      fast, energy-efficient data storage.
+      NOR flash and SLC NAND contract prices more than doubled in the first half
+      of 2026, reported TrendForce.
+      Global
+      The US government signed a letter of intent to provide Coherent with up to
+      $50M to expand InP wafer manufacturing in Texas and finalized a $500M
+      award for SandboxAQ to accelerate AI-driven semiconductor materials
+      discovery.
+      Nokia is expanding its advanced test and packaging operations in
+      Pennsylvania to boost U.S. production of photonic chips and optical
+      modules used in AI and telecom infrastructure by 10 times its current
+      level.
+      The S. Korean government launched a ~US$520M program to develop on-device
+      AI chips, reports Chosun Biz.
+      Rapidus signed an MoU with the UK Semiconductor Centre to explore
+      semiconductor manufacturi... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+24. TITLE: Amazon’s AI Resurgence: AWS & Anthropic’s Multi-Gigawatt Trainium Expansion
+   SOURCE: SemiAnalysis | DATE: Wed, 03 Sep 2025 20:55:46 +0000
+   URL: https://semianalysis.com/2025/09/03/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion/
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Two-and-a-half years ago, we flagged a looming “cloud crisis” at AWS.
+      Today, the evidence has mounted. AWS is the crown jewel of the Amazon
+      empire, generating ~60% of group profits, and dominating the lucrative
+      Cloud Computing market. But it struggles to translate this strength into
+      the new GPU/XPU Cloud era.
+      Microsoft Azure now leads the market on quarterly new cloud revenue, and
+      the gap between Google Cloud and AWS has materially narrowed especially
+      with Google’s big moves on the TPU that we’ve been posting about for over
+      a month. Markets have noticed. Year-to-date, Amazon is the clear laggard
+      among the four tech-and-AI titans as investors mark down the company most
+      for losing momentum in AI.
+      Source: SemiAnalysis Core Research, company filings
+      Today, SemiAnalysis is back with another out-of-consensus call. While the
+      market overplays the Cloud Crisis theme, we call for an AWS AI Resurgence.
+      We laid out our thesis a month ago to our Core Research subscribers,
+      forecasting an upcoming acceleration beyond 20% year-over-year growth by
+      the end of 2025.
+      Source: SemiAnalysis Core Research
+      Subscribe to get notified of all SemiAnalysis articles
+      Log in or Subscribe
+      By subscribing, you agree to the Privacy Policy and Terms and Conditions.
+      Amazon’s savior has a name: Anthropic. The startup has been the clear
+      outperformer in the GenAI market in 2025, multiplying revenue fivefold
+      year-to-date to reach $5B annualized.
+      Source: The Information, Reuters, Bloomberg, SemiAnalysis Core Research
+      To keep that trajectory, Anthropic is betting hard on Scaling Laws. While
+      Dario’s startup draws fewer headlines than OpenAI, xAI and Meta
+      Superintelligence, it isn’t shy about investment. AWS has well over a
+      gigawatt of datacenter capacity in final stages of construction for its
+      anchor customer. AWS is building datacenters faster than it ever has in
+      its entire history. And there’s much more on the horizon.
+      Source: SemiAnalysis Datacenter Industry Model
+      To understand and forecast GPU/XPU power capacity by AI Lab broken down by
+      Cloud Provider, we rely on our proprietary Datacenter Industry Model
+      powered by real-time satellite imagery. Trusted by all hyperscalers, AI
+      labs, and the world’s largest investors, it provides a quarterly building-
+      by-building datacenter forecast for OpenAI, Anthropic, xAI, Meta
+      Superintelligence, Google DeepMind, and more. Contact us for more
+      information.
+      Trainium vs GPUs
+      While Amazon’s AI Datacenters are impressive in scale and speed, the
+      design of individual building is unremarkable. Hyper-optimized for air-
+      cooling, this blueprint is identical to 5-year-old traditional AWS Cloud
+      datacenters.
+      What makes these facilities unique is their inside: they’ll host the
+      world’s largest cluster of non-Nvidia AI chips, with just under a million
+      Trainium2 in the largest campus. To understand everything about the
+      Trainium2 system, read our December 2024 technical deep dive.
+                              Dec 03, 2... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+25. TITLE: A Conversation with Val Bercovici about Disaggregated Prefill / Decode
+   SOURCE: Fabricated_Knowledge | DATE: Mon, 07 Jul 2025 20:04:16 GMT
+   URL: https://www.fabricatedknowledge.com/p/a-conversation-with-val-bercovici
+   MATCHED PILLARS: [SILICON HARDWARE, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      This transcript is lightly edited for readability. Doug: Welcome to
+      Fabricated Knowledge. This is a podcast edition today, and I have the
+      special honor of having Val Bercovici from Weka. And today, we wanted to
+      specifically highlight an important trend I think everyone should be
+      paying attention to. Disaggregated PD. I also wanted Val the opportunity
+      to tell the story of Weka and AI-enabled storage today anyway. So take it
+      away Val. Val Bercovici: Thanks, Doug. So, Val Berkevich, Valentin, for
+      those who did sometimes see my name online, a long-time infrastructure guy
+      focused on storage for most of my career. I ended up being the CTO at
+      NetApp about 10 years ago, following a cloud acquisition they made called
+      SolidFire.At that time, I was also actively involved with Google in open-
+      sourcing their Kubernetes project. That was cool; it helped create and co-
+      create the Cloud Native Compute Foundation (CNCF) under the Linux
+      Foundation. I enjoyed category creation, and I was relatively early in the
+      cloud, early in machine learning, and not so much in general AI, but I'm
+      catching up on general AI right now. And yes, I'm at Weka right now,
+      focusing as Chief AI Officer on our AI product strategy and marketing and
+      education. Because, as we're going to talk about Doug, there are a lot of
+      very new and different things happening about infrastructure when you look
+      at AI workloads. It bears almost no resemblance to traditional CPU-based
+      data centers, and that's what we're going to dive into right now.Doug:
+      Yeah, so maybe to start, I do think that the important thing is context,
+      right? Things are changing quite rapidly all the time. Let's walk through
+      how inference in a single GPU node was done and what has changed recently
+      to shake up the entire ecosystem with this disaggregated pre-fill /
+      decode. I think a listener needs to understand what pre-fill decode is on
+      the traditional node, and then we can discuss what's changing by splitting
+      the two.Val Bercovici: Sure, and let's maybe introduce some overall
+      financial context here and Semi-Analysis is leading this. But estimates
+      are now that about four out of every five dollars of AI is gonna go to
+      inference. So inference is not a trivial thing here; it's a very, very
+      material thing in the future. One of the reasons why inference matters so
+      much is that LLMs, in general, and large reasoning models, in particular,
+      are concerned with this aspect.LRMs fundamentally use inference-like
+      techniques as part of their test-time computation, which is scaling now in
+      the inference dimension far more than in the legacy pre-training
+      dimension. So, all of these kinds of workloads matter a lot in terms of
+      how infrastructure is allocated and spent, as well as the revenues
+      collected from it. So specifically on Disag Prefill, which is a relatively
+      new phenomenon. It's mostly a 2025 thing. Some research papers obviously
+      were written well before last year, and last year on it. And it's a way to
+      scale the entire process of inference... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+26. TITLE: RIP Classic Reasoning Benchmarks. What’s Next?
+   SOURCE: Epoch_AI | DATE: Tue, 05 May 2026 20:24:28 GMT
+   URL: https://epochai.substack.com/p/rip-classic-reasoning-benchmarks
+   MATCHED PILLARS: [SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      This post is part of Epoch AI’s Gradient Updates newsletter, which shares
+      more opinionated or informal takes on big questions in AI progress. These
+      posts solely represent the views of the authors, and do not necessarily
+      reflect the views of Epoch AI as a whole.Originally posted on Epoch
+      AI.There’s a familiar recipe for reasoning benchmarks: tasks are text-
+      only, output is easy to grade, and expert humans can do the tasks in
+      several hours. Unfortunately, this recipe is now obsolete. As an
+      emblematic case, consider GPQA: a benchmark consisting of graduate-level
+      science questions. It had remarkable staying power but by now it’s clearly
+      saturated.The same is true for many classical reasoning benchmarks,
+      whether in science, math, or coding. What’s next? I think the old recipe
+      points to a new recipe. Just relax one of the elements: text only, easy to
+      grade, short time horizon, and expert human superiority. I see each of
+      these categories as extremely fruitful to pursue, and far from saturated.
+      The tradeoff is just that it takes more time and money to create such
+      benchmarks.ShareKeep the classic format, but make it multimodalIt’s hard
+      to say precisely, but to my eyes AI visual and spatial reasoning lags
+      behind text-only reasoning. Still growing rapidly, but from a lower base.
+      At any rate, it still seems comparably easy to create meaningful
+      multimodal reasoning benchmarks.To give one example, at a recent Epoch
+      team offsite, we ordered a piece of IKEA furniture, laid all the pieces
+      out, labeled them, and then gave AI systems the instruction manual and
+      asked them to identify the step in the instructions in which each piece
+      was first used. Top models scored around 40%.1Which step is the part
+      labeled 6 first used in? AI systems can’t say.This is still “classic” in
+      that it’s easy to grade and humans beat AI over relatively short time
+      horizons. I also consider it to be plausibly testing a capability relevant
+      to tasks of broader import. For multimodal tasks, at least, one person
+      having fun over the course of a week can still make interesting
+      benchmarks. Other examples of this: SpatialBench and IRGB. Arguably ARC-
+      AGI and other videogame benchmarks fit this bill as well.Keep the classic
+      format, but push the time horizonsThe first generation of “long context”
+      benchmarks would fill a model’s context window with data, often at least
+      partly synthetically generated, and ask the model to process that data,
+      often without tools. This measured the model’s “native” ability to keep
+      track of lots of threads at once. Some such benchmarks still show some
+      headroom. But, on the one such benchmark for which Anthropic reported
+      scores, Claude Mythos jumped to 80%,2 where prior scores had been less
+      than 40%. Perhaps this specific kind of long-context benchmark is nearing
+      the end of its utility.Even so, I suspect long, reasoning-oriented
+      benchmarks still have room to run. One direction I’m particularly
+      interested in is games. While many games have significant multimodal
+      aspect... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+27. TITLE: The Epoch Brief - June 1, 2026
+   SOURCE: Epoch_AI | DATE: Mon, 01 Jun 2026 15:50:56 GMT
+   URL: https://epochai.substack.com/p/the-epoch-brief-june-1-2026
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      In this week’s Epoch Brief:Since January 2026, open-weight models have
+      lagged the closed frontier by four months, with the gap widening slightly
+      since we last measured it in October 2025.Hyperscaler capital expenditures
+      have quadrupled since GPT-4’s release, on track with our previous
+      projection.In the latest Gradient Update, Luke Emberson and Jaime Sevilla
+      estimate trends in global inference capacity and find that token demand
+      appears to be growing much faster than supply.Subscribe nowResearchOpen
+      models now trail closed models by four monthsIn our latest Data Insight,
+      researchers Luke Emberson and Jack Edwards find that the most capable
+      open-weight models have lagged frontier closed models by approximately
+      four months in the Epoch Capabilities Index since January 2026. The
+      average 8-point gap is comparable to the performance difference between
+      GPT-5 and GPT-5.5.Hyperscaler capital expenditures have quadrupled since
+      GPT-4’s releaseHyperscaler capital expenditures came in on trend in Q1
+      2026, continuing the trajectory that projects spending of $770 billion
+      this year and over $1 trillion in 2027. In February, we projected $155.1
+      billion in aggregate for Q1, and actual spending by our measure was $156.1
+      billion. This is up from $140.6 billion of spending in Q4.Commentary: Is a
+      compute crunch coming?In the latest Gradient Update, Luke Emberson and
+      Jaime Sevilla model how many tokens the world could serve today. They
+      estimate supply is growing 3-4× per year. While direct comparisons are
+      difficult, it appears demand for tokens is growing much faster, at ~10×
+      per year. This suggests a compute crunch is nearing, if not already here.
+      Gradient Updates are informal, opinionated analyses that represent the
+      views of individual authors, not Epoch AI as a whole.Other UpdatesSurveyWe
+      want to produce the most useful work on AI’s trajectory. To ensure we’re
+      meeting your needs, we’d love your feedback.→ Take our 5-minute survey.
+      You can opt in at the end to join our user panel for future compensated
+      studies.NarrationsYou can now listen to long-form content on the Epoch AI
+      website, including reports, Gradient Updates, and topic overviews. Look
+      for the play button.CareersWe’re hiring across several roles. All
+      positions are fully remote.Designer to translate complex research into
+      intuitive, engaging, and high-impact designs — primarily UI/UX and data
+      visualization work.Researchers and Senior Researchers to lead new projects
+      across our expanding teams.Data Scientist (Contract) to assist with our AI
+      research efforts, including reviewing technical literature, tracking
+      benchmark data, and analyzing AI models, data centers, and
+      companies.Applications are rolling, so apply soon!Subscribe nowIn case you
+      missed it…ResearchMemory has grown to nearly two-thirds of AI chip
+      component costs (May 21)CommentaryFrontier labs don’t use most AI compute
+      (yet) (May 21)
+
+--------------------------------------------------------------------------------
+
+28. TITLE: Is a compute crunch coming?
+   SOURCE: Epoch_AI | DATE: Tue, 26 May 2026 23:30:04 GMT
+   URL: https://epochai.substack.com/p/is-a-compute-crunch-coming
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Gradient Updates shares more opinionated or informal takes on big
+      questions in AI progress. These posts solely represent the views of the
+      authors, and do not necessarily reflect the views of Epoch AI as a
+      whole.Much has been made about AI-driven capex in the past year.
+      Hyperscalers have been clamoring to construct massive data centers,
+      spending hundreds of billions in the process. The St. Louis Fed estimates
+      that AI-related investment contributed about 1 percentage point — almost
+      40% of the total — to US real GDP growth in the first three quarters of
+      2025, exceeding the IT investment contribution at the height of the dot-
+      com boom. Whether the current AI buildout constitutes a bubble depends
+      largely on whether there will be sufficient demand for the computing
+      infrastructure being built.It’s tough to estimate future demand for
+      tokens, as it depends heavily on hard-to-forecast trends in capabilities
+      and diffusion. However, we have a much more concrete picture of the supply
+      side. In this article, we do our best to answer how many tokens per second
+      the world could produce with the chips we have today.To do this, we dig
+      into the technical details of inference. We model prefill and decode
+      runtimes, account for two common efficiency techniques (chunked prefill
+      and speculative decoding), and calibrate against data from SemiAnalysis’s
+      InferenceX, a repository of real-world inference experiments. Our results
+      suggest these chips could serve between 500 million and 20 billion output
+      tokens per second from a Kimi K2.6-like model as of Q4 2025, depending on
+      the context length of requests. We also find that global inference
+      capacity is more than tripling each year, as more computing infrastructure
+      is deployed and chips become more efficient.We compare these supply
+      estimates to several (imperfect) proxies for token demand and its growth
+      trend, including the growth of tokens served across Google platforms, and
+      the intensity of token usage today at the largest tech companies,
+      extrapolated to all software engineers worldwide. These figures suggest
+      that demand at current prices could be between 200 million and 4 billion
+      tokens per second, growing by roughly 10× per year — plausibly outpacing
+      supply growth in the near future, if not already. However, these estimates
+      are highly uncertain. For one, we don’t know the average size of the
+      models behind current demand. Aggregate token figures also obscure an
+      underlying trend in model efficiency, which both lowers the cost of
+      producing tokens at a given quality, and introduces new demand as
+      additional use cases become cost-effective.If these trends continue, a
+      compute crunch is likely near — particularly for the long-context
+      workloads that drive agentic AI. This will drive up the price of access to
+      frontier capabilities for those willing to pay, while everyday users shift
+      to cheaper, smaller models. It may also mean that AI companies increase
+      their focus on developing more efficient ways to serve models. Because
+      of... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+29. TITLE: A New Fracture Engine For Curvilinear Masks And MULTIGON Mask Data
+   SOURCE: Semiconductor_Engineering | DATE: Thu, 18 Jun 2026 07:03:23 +0000
+   URL: https://semiengineering.com/a-new-fracture-engine-for-curvilinear-masks-and-multigon-mask-data/
+   MATCHED PILLARS: [SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Curvilinear masks are rapidly moving into high-volume production. This
+      transition is driven by the need for better pattern fidelity, larger wafer
+      process windows, and more effective use of inverse lithography technology
+      (ILT) and curvilinear optical proximity correction (OPC). However,
+      curvilinear masks also create a new challenge for mask data preparation
+      (MDP): when curvilinear MULTIGON patterns are converted into piecewise
+      linear representation (particularly in high fidelity applications) the
+      data can grow significantly, increasing turnaround time and potentially
+      degrading the original curve intent.
+      This is why the industry is adopting native curve data formats such as
+      MULTIGON, the curvilinear extension to the SEMI P49 OASIS specification.
+      MULTIGON enables mask data to represent real curves, including Bézier and
+      B-spline curves, directly rather than approximating them through thousands
+      or millions of short line segments. For manufacturers preparing for high-
+      volume curvilinear mask production, native curve handling is becoming
+      essential to preserve accuracy while managing file size, runtime, and
+      downstream mask-writer requirements.
+      Curvilinear mask adoption is also enabled by the continued deployment of
+      multi-beam mask writers, which can write complex curved shapes more
+      efficiently than traditional variable-shaped beam (VSB) approaches. As a
+      result, mask flows can now benefit from MDP solutions that maintain the
+      benefits of curvilinear patterning across the full data path—from OPC or
+      ILT output through fracture, mask rule checking, and final mask-writer
+      preparation. Key benefits of curvilinear MULTIGON masks include:
+      Better support for curvilinear wafer targets and advanced ILT-generated
+      mask shapes
+      Improved mask manufacturability through smoother, more realistic pattern
+      representation
+      Reduced risk of unnecessary data expansion caused by piecewise linear
+      curved shapes
+      Higher correction freedom with less restriction from traditional mask rule
+      check (MRC) constraints
+      Expanded process window and improved pattern fidelity for leading-edge
+      manufacturing
+      The fracture engine is a critical component of the mask data preparation
+      flow. It converts complex post-OPC or post-ILT layout data into mask-
+      writer-ready data while preserving the intended geometry as accurately and
+      efficiently as possible. In traditional rectilinear flows, this process is
+      well understood. In curvilinear flows, however, the challenge is
+      fundamentally different: the fracture engine must process smooth curves,
+      comply with mask-writer constraints, and avoid unnecessary data growth or
+      loss of geometric fidelity.
+      Simply digitizing curves into piecewise linear polygons is not an ideal
+      solution. Piecewise linear polygonization introduces an approximation
+      step, which can create edge placement error on silicon, increase vertex
+      count, and make downstream verification and fracture operations more
+      expensive. For curvature-sensitive operations, smaller digitization
+      tolerances do not... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+30. TITLE: H100 vs GB200 NVL72 Training Benchmarks – Power, TCO, and Reliability Analysis, Software Improvement Over Time
+   SOURCE: SemiAnalysis | DATE: Wed, 20 Aug 2025 04:56:35 +0000
+   URL: https://semianalysis.com/2025/08/20/h100-vs-gb200-nvl72-training-benchmarks/
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Frontier model training has pushed GPUs and AI systems to their absolute
+      limits, making cost, efficiency, power, performance per TCO, and
+      reliability central to the discussion on effective training. The Hopper vs
+      Blackwell comparisons are not as simple as Nvidia would have you believe.
+      In this report, we will start by present the results of benchmark runs
+      across over 2,000 H100 GPUs, analyzing data on model flops utilization
+      (MFU), total cost of ownership (TCO) and cost per training 1M tokens. We
+      will also discuss energy use, examining the energy in utility Joules
+      consumed for each token trained and compare it to the average US household
+      annual energy usage, reframing power efficiency in societal context. We
+      will also show the results of this analysis when scaling the GPU cluster
+      from 128 H100s to 2048 H100s and across different versions of Nvidia
+      software.
+      Later in this report, we will also analyze GB200 NVL72 benchmark results
+      across Llama4 400B MoE and DeepSeek 670B MoE and compare this data to our
+      earlier results from the H100. We will discuss whether the GB200 NVL72
+      performance per $ advantages survives once reliability issues are factored
+      in.
+      Downtime from poor reliability and lost engineering time is one of the
+      main factors that we will capture in our perf per TCO calculations.
+      Currently there are no large-scale training runs done yet on GB200 NVL72
+      as software continues to mature and reliability challenges are worked
+      through. This means that Nvidia’s H100 and H200 as well as Google TPUs
+      remain the only GPUs that are today being successfully used to complete
+      frontier-scale training. As it stands today, even the most advanced
+      operators at frontier labs and CSPs are not yet able to carry out mega
+      training runs on the GB200 NVL72.
+      With that said, every new architecture naturally requires time for the
+      ecosystem to ramp software to effectively utilize the architecture. The
+      GB200 NVL72 ramp is slightly slower than prior generations, but not by
+      much, and we are confident that before the end of the year, GB200 NVL72
+      software would have improved considerably. Combined with frontier models
+      architecture being codesigned with the larger scale up world size in mind,
+      we expect that there will be significant efficiency gains from using the
+      GB200 NVL72 by the end of the year.
+      On the reliability front, there will continue to be significant challenges
+      that Nvidia must work even closer with its partners to rapidly solve, but
+      we think the ecosystem will quickly rally its resources towards tackling
+      these reliability challenges.
+      SemiAnalysis Is Hiring
+      We are looking for a new grad engineer to join our engineering team. This
+      is an unique opportunity to work on an high-visibility special projects
+      with support from many industry leaders and CEOs. If you’re passionate
+      about performance engineering, system reliability, and want to work at the
+      intersection of hardware and software, this is a rare chance to make
+      industry wide impact.What... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+31. TITLE: The Epoch Brief - May 22, 2026
+   SOURCE: Epoch_AI | DATE: Fri, 22 May 2026 22:54:57 GMT
+   URL: https://epochai.substack.com/p/the-epoch-brief-may-22-2026
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      In this week’s Epoch Brief:Our newest Data Insight finds memory is now the
+      largest and fastest-growing component cost for leading AI chip designers,
+      rising from 52% to 63% of total component spending since early 2024.In the
+      latest Gradient Update, Josh You argues that top frontier labs could
+      dramatically increase their share of global AI compute usage in the next
+      few years — after which, continued scaling would require an economic
+      transformation.FrontierMath: Open Problems workshops begin May 26.
+      Applications are still open.Subscribe nowData Insights: Memory has grown
+      to nearly two-thirds of AI chip component costs.Researcher Venkat Somala
+      finds that high-bandwidth memory (HBM) has grown from 52% to 63% of total
+      AI chip component spending between Q1 2024 and Q4 2025, faster than any
+      other component. HBM spend across chips designed by Nvidia, AMD, Google,
+      and Amazon rose from roughly $12 billion in 2024 to $32 billion in
+      2025.Commentary: Frontier labs don’t use most AI compute (yet)In our
+      latest Gradient Update, researcher Josh You estimates that while leading
+      labs today use less than half of global AI compute, they could absorb most
+      of the available headroom within a few years. At that point, continued
+      growth would be capped by chip supply. For scaling to continue, the
+      overall compute buildout would need to accelerate. Given that AI capital
+      expenditure is already approaching $1 trillion per year, such an
+      acceleration in compute production would require dramatic economic
+      changes. Gradient Updates are informal, opinionated analyses that
+      represent the views of individual authors, not Epoch AI as a whole.Other
+      UpdatesFM:OP workshopsOur in-person FrontierMath: Open Problems workshops
+      kick off Tuesday in New York City, with subsequent events in London,
+      Berkeley, Boston, Los Angeles, and Toronto through June 9.  The goal of
+      the workshops is to identify highly interesting and programmatically
+      verifiable unsolved research math problems. All working mathematicians
+      (grad students, postdocs, and professors) are encouraged to apply while
+      spots remain.CareersWe’re hiring across several roles. All positions are
+      fully remote.Designer to translate complex research into intuitive,
+      engaging, and high-impact designs — primarily UI/UX and data visualization
+      work.Researchers and Senior Researchers to lead new projects across our
+      expanding teams.Data Scientist (Contract) to assist with our AI research
+      efforts, including reviewing technical literature, tracking benchmark
+      data, and analyzing AI models, data centers, and companies.Applications
+      are rolling, so apply soon!Subscribe nowIn case you missed
+      it…Research:Servers account for 60% of the total cost of owning a one-
+      gigawatt AI data center (May 14)Claude overperforms at software
+      engineering and underperforms at math (May 15)Commentary:Why a handful of
+      AI researchers command 10–100× the pay of their peers — and why that gap
+      could grow (May 13)
+
+--------------------------------------------------------------------------------
+
+32. TITLE: The Epoch Brief - May 8, 2026
+   SOURCE: Epoch_AI | DATE: Sat, 09 May 2026 01:39:23 GMT
+   URL: https://epochai.substack.com/p/the-epoch-brief-may-8-2026
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE, SUPPLY CHAIN CHOKEPOINTS, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Welcome to this edition of the Epoch AI Brief! This week:In a new report,
+      we estimate that between 290,000 and 1.6 million H100-equivalent chips
+      were smuggled into China through 2025.We launched the AI Chip Components
+      data explorer, which builds on our AI Chip Owners explorer to track
+      bottlenecks in the AI chip supply chain since 2024.We published a new
+      Gradient Update on the future of AI benchmarks, paired with an episode of
+      the Epoch After Hours podcast on the same theme.We published a new Data
+      Insight: Anthropic and OpenAI earn more revenue per employee than any
+      major public tech company.This is also our first weekly edition of the
+      Epoch Brief — we’re switching from monthly to weekly to keep up with our
+      growing output. To catch up  on what we published last month, check out
+      the “In case you missed it” section below.Subscribe nowNew
+      ResearchDiversion and resale: estimating compute smuggling to ChinaSenior
+      researcher Isabel Juniewicz estimates that between 290,000 and 1.6 million
+      H100-equivalent were smuggled into China through 2025 — our median
+      estimate of 660,000 would represent roughly one-third of China's total AI
+      computing capacity. The analysis uses two types of evidence: diversion
+      from legitimate supply chains and resale within China's grey market.AI
+      Chip Components data explorerWe launched a new interactive tool to
+      understand the AI chip supply chain, featuring charts that visualize its
+      evolution and key constraints since 2024. We track three key components
+      required for advanced AI chips: advanced-node logic, high-bandwidth memory
+      (HBM), and chip-on-wafer-on-substrate (CoWoS) packaging.Read researcher
+      Venkat Somala’s accompanying blog post, which dives into key insights from
+      the project, including how high-bandwidth memory has emerged as the
+      dominant cost and the primary supply chain bottleneck. If you’re looking
+      to get up to speed on AI chips more broadly, we recently published What
+      you need to know about AI chips — a general explainer covering  why these
+      chips cost tens of thousands of dollars each and why demand consistently
+      outstrips supply.CommentaryWe published a new Gradient Update and episode
+      of the Epoch After Hours podcast, both tackling the future of AI
+      benchmarks.In RIP Classic Reasoning Benchmarks. What’s Next?, senior
+      researcher Greg Burnham argues that the classic benchmark recipe — text-
+      only, short time horizons, easy to grade, solvable by human experts — is
+      now obsolete. What’s next? Relax one of the elements.In the latest episode
+      of Epoch After Hours, researcher Anson Ho asks Greg and MirrorCode creator
+      Tom Adamczewski, “Are AI benchmarks doomed?” Available on YouTube,
+      Spotify, and Apple Podcasts.Data Insight: Anthropic and OpenAI earn more
+      revenue per employee than major public tech companiesIn our latest Data
+      Insight, researcher Luke Emberson estimates that Anthropic and OpenAI
+      generate $9M and $5.5M in revenue per employee, respectively — higher than
+      every public tech company on Forbes’ Global 2000 list.Othe... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+33. TITLE: Where We Go From Here
+   SOURCE: Fabricated_Knowledge | DATE: Thu, 02 Oct 2025 12:59:47 GMT
+   URL: https://www.fabricatedknowledge.com/p/where-we-go-from-here
+   MATCHED PILLARS: [SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      First, let’s start with the fact that this is massively speculative. No
+      one can guess or know the future of anything, and today’s post is my guess
+      of the entire animal spirits of the market. I am going to make a call here
+      - we are going to go into a GPU lead bubble. This is a follow-up to my
+      last post, but I will provide a more detailed write-up here (and
+      additional quantitative follow-ups at SemiAnalysis).
+                    Read more
+
+--------------------------------------------------------------------------------
+
+34. TITLE: Robotics Levels of Autonomy
+   SOURCE: SemiAnalysis | DATE: Wed, 30 Jul 2025 17:02:25 +0000
+   URL: https://semianalysis.com/2025/07/30/robotics-levels-of-autonomy/
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Robots have powered manufacturing for decades, yet they stayed single-
+      purpose and thrived only in perfect settings. Previous attempts at
+      intelligent machines overpromised and underdelivered. But they were too
+      early. Today, modern AI paradigms convert most robot roadblocks into data
+      problems and push machines toward capabilities once thought impossible. As
+      these models absorb real-world experience, robots will sharpen current
+      skills, gain new ones, and deploy faster, absorbing ever-increasing shares
+      of labor.
+                              Mar 11, 2025                    America Is Missing
+      The New Labor Economy – Robotics Part 1
+                              Dylan Patel, Reyk Knuhtsen, Niko Ciminelli,
+      Jeremie Eliahou Ontiveros, Joe Ryu, Robert Ghilduta
+      General-purpose robots that can accurately perform any task in any domain
+      is now an inevitability, and mass labor replacement is on the horizon.
+      However, these robots will arrive in levels, slowly adding more
+      capabilities until all tasks are feasible. To provide a barometer for this
+      progress, we introduce our industry-first “Robotics Levels of Autonomy,”
+      which classifies robotics into 5 distinct Levels. 
+      Source: SemiAnalysis
+      Each Level of Autonomy is defined by the capability unlocked, and each
+      builds sequentially on those before it to enable new applications. To
+      ground these Levels, we provide data-driven analysis of current
+      deployments, use cases and economics, current challenges, and active areas
+      of progress. The Levels provide a type of task segmentation in which
+      progress is additive — robots may target one Level of tasks and still
+      benefit from capabilities developed in other Levels.
+      Our Levels of Autonomy are demarcated around commercial viability — not
+      merely what is possible. Robot autonomy is inherently linked to
+      applications: creating value only through actions often irrecoverable.
+      Therefore, capabilities are derived from reliability and capability. Once
+      reliability is proven, the robot must deliver sufficient throughput to
+      justify its cost as well.
+      Thank You
+      We’ve talked extensively to top scientists, surveyed numerous companies,
+      traveled to top industry conferences, and dug into research surrounding
+      contemporary robotics to develop this taxonomy.
+      We deeply appreciate the invaluable contribution of our coauthors:
+      industry practitioners Niko Ciminelli, Joe Ryu, and Robert Ghilduta. We
+      take inspiration from coauthor Joe Ryu’s framework to flesh out this
+      classification. This project couldn’t be done without the help of outside
+      experts.
+      Source: SemiAnalysis
+      We welcome feedback: Please reach out to discuss anything regarding our
+      new Levels of Autonomy classification. You can meet us in person at most
+      of the top industry events, such as Humanoids Summit SF, CoRL, Humanoids
+      2025 Seoul, and more.
+      Describing Autonomy
+      The path to full autonomy begins with accurate, single-purpose systems.
+      But general-purpose robots must start anew, learning to see, plan,
+      interact, and achieve exceptional accuracy. Along the... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+35. TITLE: Diversion and resale: estimating compute smuggling to China
+   SOURCE: Epoch_AI | DATE: Fri, 01 May 2026 01:14:02 GMT
+   URL: https://epochai.substack.com/p/diversion-and-resale-estimating-compute
+   MATCHED PILLARS: [PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      The following is excerpted from our full report, which contains
+      interactive charts, a breakdown of our methodology and evidence, and a
+      comparison to other estimates.Key takeawaysSubstantial quantities of AI
+      chips have been sent to China in violation of US export controls. Evidence
+      of diverted or missing chips, drawn from indictments and investigative
+      reporting, points to nearly 300,000 Nvidia H100-equivalents by the end of
+      2025. This would equal roughly a quarter of the compute China acquired
+      through legal channels or domestic production. Because much smuggling goes
+      undetected, the true total is likely higher.We estimate, with 90%
+      confidence, that between 290,000 and 1.6 million H100-equivalents of
+      compute were smuggled through the end of 2025. Our median estimate of
+      660,000 represents roughly 3% of the global compute stockpile, comparable
+      to what xAI, a leading US AI lab, had at the time. The upper bound of our
+      estimate would mean that, by the end of 2025, the majority of China’s AI
+      compute had been smuggled.We are uncertain about many variables, notably
+      the magnitude of undetected smuggling and the proportion of chips
+      allegedly diverted or missing that ultimately reached China.Subscribe
+      nowOverviewOver the past several years, the United States has applied
+      multiple rounds of compute-related export controls to China. The earliest
+      rounds of export controls applied to semiconductor manufacturing equipment
+      or to specific entities (e.g., Huawei’s addition to the BIS entity list in
+      2019). In October 2022, the Commerce Department instituted export controls
+      on all advanced chips with certain characteristics. Commerce tightened
+      these export controls and expanded their scope in October 2023, increasing
+      the incentives for smuggling chips to China. A late 2023 Center for New
+      American Security (CNAS) analysis suggested that the volume of smuggled
+      chips at the time was relatively low, but expected that there would be
+      larger-scale smuggling efforts in the future.This prediction appears to
+      have been borne out. Investigative reporting by the New York Times, Wall
+      Street Journal, and The Information in 2024 found widespread evidence of
+      banned chips being smuggled into China. In April 2025, Commerce imposed an
+      additional licensing requirement on H20 chips, a type of chip popular in
+      China that Nvidia had developed to comply with prior export controls.1
+      This further restricted exports and incentivized smuggling. The Financial
+      Times reported that over $1 billion in AI chips were smuggled between
+      April and July.2Evidence of large-scale diversion by cloud companies has
+      also accumulated. The DOJ indicted several Supermicro employees and
+      arrested a company executive. The employees were accused of diverting $2.5
+      billion in Nvidia chips to a pass-through entity, which was redirecting
+      those servers to China. Bloomberg investigative reporting insinuates that
+      Megaspeed, a Singaporean cloud provider, has tens of thousands of fewer
+      chips in its Malaysian data centers th... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+36. TITLE: How To Build Billions of Bumps
+   SOURCE: Semiconductor_Engineering | DATE: Thu, 18 Jun 2026 07:05:20 +0000
+   URL: https://semiengineering.com/how-to-build-billions-of-bumps/
+   MATCHED PILLARS: [SILICON HARDWARE, SUPPLY CHAIN CHOKEPOINTS]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Key Takeaways:
+      Hybrid bonding can result in a package containing billions (and eventually
+      trillions) of connections.
+      Building that many connections successfully requires extreme process
+      uniformity across a wafer.
+      Inspection isn’t practical, and test benefits from internal test
+      mechanisms.
+      Hybrid bonding allows unprecedented signal pitch, but fully populating
+      dies and interposers with just 1µm between connections can enable billions
+      of connections per chip. With that many, it’s no longer possible to
+      inspect or test each connection individually.
+      Managing yield for such a process requires process uniformity and
+      predictability, as well as architectures that provide modularity,
+      testability, and redundancy.
+      “Hybrid bonding enables unprecedented interconnect density,” said Lakshmi
+      Jain, director of product marketing for I/O library IP at Synopsys. “A
+      full-size interposer tiled with chiplets and bonded at 1µm pitch can
+      easily result in billions of internal connections. At this scale,
+      manufacturing success is no longer about managing individual
+      interconnects. It depends on architectural control that assumes some level
+      of imperfection and is designed to tolerate it.”
+      Hybrid bonding joins 10µm- to 1µm-pitch bumpless interconnects. The 1µm
+      pitch is extremely aggressive by today’s standards, but even that doesn’t
+      reflect a physical limit. Thomas Pleschke, business development manager at
+      EV Group, sees even tighter pitch coming. “Theoretically, we could bond
+      two 300mm wafers with 200nm pad pitch with several trillions of
+      connections,” he said.
+      Planar silicon processing has the benefit of building many connections in
+      parallel, so whether it’s a million or a billion doesn’t really matter.
+      What does matter is the uniformity of the process. Variations across a
+      wafer could have a devastating impact. Meanwhile, adding infrastructure to
+      the I/Os allows testing before and after bonding to ensure a reliable
+      connection.
+      It’s surprisingly easy to get to a billion
+      The key to getting billions of connections is the 1µm pitch that hybrid
+      bonding enables. Each millimeter can then host 1,000 “bumps.” (Calling
+      them bumps is convenient, but the whole point of hybrid bonding is that
+      you lose bumps and bond pad to pad.)
+      An example package illustrates how this happens. For the purposes of this
+      exercise, we’ll assume that interposers can be hybrid bonded to substrates
+      (and it doesn’t change the conclusion if we don’t).
+      Fig. 1: Processor package for counting bumps. If the HBM4 stacks are 16
+      high, bump count can exceed 26 billion. (Source: Bryon Moyer/Semiconductor
+      Engineering)
+      We look to existing dies, where possible, just to give a die size. It
+      doesn’t reflect the number of connections actually available on that die,
+      but we’ll use the dimensions to figure out how many connections are
+      possible with hybrid bonding for that size die.
+      The package shown contains eight Intel Nova Lake processor dies, each
+      measuring 14.8 × 6.6 mm2, which amounts to more than 97 million connect...
+      [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+37. TITLE: Intel's One True Stakeholder is Here
+   SOURCE: Fabricated_Knowledge | DATE: Fri, 15 Aug 2025 20:01:13 GMT
+   URL: https://www.fabricatedknowledge.com/p/intels-one-true-stakeholder-is-here
+   MATCHED PILLARS: [MACRO FINANCE, SUPPLY CHAIN CHOKEPOINTS]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Finally, after all this time, I think the endgame for Intel might be here.
+      If you missed the news, there is a rumor that the Trump administration
+      could be taking a stake in Intel. This feels like a long time coming, but
+      the incompetent board is still fighting. For more work on the board, read
+      both mine and SemiAnalysis’s pieces. Source: WSJ The final stakeholder is
+      here, and Intel needs to do a better job of capturing its attention and
+      help. Let’s walk through a brief recap of how we got here and where Intel
+      could go from here. Intel is a Walking Death Intel was once the greatest
+      semiconductor that ever was. And I cannot express how true this was.
+      Nvidia is the shining star today, but it didn’t invent as many
+      foundational technologies as Intel did. Intel’s story is THE story of
+      Semiconductors. From the Traitorous Eight leaving Shockley’s lab, to Bob
+      Noyce leaving Fairchild to then found Intel, the history of Semiconductors
+      IS the history of Intel. Intel invented the concept of the Microprocessor,
+      a CPU itself, and made the world’s first commercial RAM, among other
+      innovations such as strained silicon, high-k metal, and FinFETs. And it’s
+      no surprise that the future of American semiconductors has Intel written
+      all over it. But there’s no other way than forward, and I think it’s time
+      to consider what needs to happen realistically, and that’s the death of
+      the Intel we once knew to make room for what’s next. The key is that while
+      CPUs don’t matter, the only American leading-edge foundry left making them
+      is critical. The problem is that the company that funds it might run out
+      of money, and that’s why they need to publicly threaten to stop financing
+      the future of the foundry, because it’s a problem they can’t do alone.
+      That is why I believe they so publicly announced the ending of future
+      nodes past 14A. If you want us to continue, we need help. It’s time to
+      threaten the future of America to the one stakeholder that matters: The
+      Government. Intel’s Foundry Must Live, at Any CostThe calculus for America
+      is pretty simple. In my view, there is very little strategic importance to
+      the Intel CPU business. The x86 ecosystem was once the most incredible
+      compute ecosystem, but AMD designs better chips than Intel could; Intel
+      has the one thing that AMD does not, a Fab. The fabless business at Intel
+      has a real issue in that making a CPU is becoming a relatively
+      commoditized business. ARM has made it possible for almost any hyperscaler
+      to have its ARM-based CPU, while AMD continues to outdesign Intel at its
+      core job, and that’s not even discussing the longer-term RISC-V
+      ecosystem.Adding up the CPU side, I see a business with massive
+      competition and Intel not at the top of the stack. Intel has to deal with
+      increasing competition in’s core profit center while at the same time
+      covering the increasingly heavy burden of a leading-edge fab. There is
+      only one leading-edge foundry (TSMC), and a second American option is the
+      single highest value-added project of all... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+38. TITLE: Lagging Edge will have a Permanent Glut
+   SOURCE: Fabricated_Knowledge | DATE: Thu, 04 Sep 2025 20:20:53 GMT
+   URL: https://www.fabricatedknowledge.com/p/lagging-edge-will-have-a-permanent
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Hey, it’s been a bit of time. I have been swamped at SemiAnalysis.
+      Remember, most of the best work happening in Semiconductors and AI is
+      already underway at SemiAnalysis. We offer a diverse range of products, as
+      well as numerous job opportunities available. We are currently hiring for
+      various roles, including accounting, general operations, sales, and data
+      engineering. Today’s post mixes free and paid content. First up: Texas
+      Instruments. TI’s quarter was rough—optimism that the analog cycle had
+      finally turned fizzled when management said it would cut inventory into
+      the supposed “upturn.”As I alluded to earlier, given the inventory
+      position that we have right now and depending on what happens on revenue
+      next year, we may need to adjust factory loading down in the coming
+      quarters for a few quarters until we rectify the inventory situation a bit
+      and just stop it from growing and maybe drain it -- and not maybe likely
+      drain it for a few quarters. So that would put a headwind on gross
+      margins, but it should be temporary for a few quarters until we rectify
+      the inventory situation.They’re now guiding to the low end of capex,
+      signaling the COVID-era grand capex plan may never be needed. Texas
+      Instruments also guided another disappointing quarter; extending the
+      lagging-edge slow-motion train wreck.This is the tail of the long
+      auto/industrial cycle: a huge upswing followed by a slow bleed. The glut
+      has run roughly twice as long as a typical downturn, and even the “green
+      shoots” were tariff-distorted. April’s pop was mostly pull-forward; that
+      tariff-driven pull-forward was taken as fake demand.Those were pretty
+      strong January through April. And April, in particular, were really
+      strong. And we think some of that was due to the Liberation Day and some
+      of the dynamics that happened there. But then things did slow down after
+      April, or at least didn't grow as they normally would have a month on
+      month on month. And again, some of that was the Liberation Day potential
+      pull-ins. And we talked about that at some length at our July earnings
+      release call.And since then, it’s been slowly bleeding out in terms of the
+      pull-ins. The run rate of demand is actually lower. My sense is not just
+      with TI, but the industry as a whole, the tone was a little different in
+      April and May than it was in July and August. And maybe nothing
+      quantified, but the tone. And I think that was a function of those orders
+      the order trends that I referred to earlier that April was pretty strong.
+      And -- but it appears that some of that was pulling Again, it's hard to
+      tell with so many permutations on orders and customers, but it looks like
+      some of that was pull-ins.There is no lagging-edge upcycle. Global
+      capacity looks bloated, especially in categories competing with China’s
+      lower-end offerings, where TI sits. Supply and demand here are fragile to
+      small changes; the swing factor is incremental Chinese demand.Even a 5%
+      supply uptick in an “upswing” would sap incumbents’ pricing power and...
+      [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+39. TITLE: Controlling the capital after AGI
+   SOURCE: Epoch_AI | DATE: Wed, 10 Jun 2026 02:35:39 GMT
+   URL: https://epochai.substack.com/p/controlling-the-capital-after-agi
+   MATCHED PILLARS: [SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Gradient Updates shares more opinionated or informal takes on big
+      questions in AI progress. These posts solely represent the views of the
+      authors, and do not necessarily reflect the views of Epoch AI as a
+      whole.This piece does not advocate for any policy.IntroductionAGI1 might
+      generate immense economic output, but it could take many people’s jobs in
+      the process and leave them with no way to earn a decent living. Those with
+      little savings during the “AGI transition” would then be unable to support
+      themselves on the other side. Less drastically, even if many well-paying
+      jobs remain after AGI, the capital share2 may greatly increase, which
+      would tend to greatly increase inequality.If this happens, how might the
+      gains be redistributed? More concretely, putting aside the question of how
+      the state raises tax revenues after AGI, and what percentage of GDP is
+      raised, how do existing proposals for redistributing this revenue
+      differ?Proposals for universal benefits abound, including:Universal basic
+      income (UBI): The government pays everyone cash. This is the best known,
+      and has been endorsed by Elon Musk, Vinod Khosla, Geoffrey Hinton, and
+      many others.3 As part of this, the government might impose restrictions on
+      the extent to which people could borrow against their future payments,
+      just as it is illegal today to borrow against your social security, to
+      prevent people from impoverishing themselves in the future.Universal basic
+      services (UBS): The government gives everyone access to free public
+      services. Think welfare states like Norway or Sweden, except that the
+      government covers all basic needs, including things like food and housing
+      which the Nordics currently don’t provide.Universal basic capital (UBC):
+      The government gives people their own capital assets (such as equity in an
+      index fund, or in AI firms in particular), so that people can live off the
+      dividends. It may impose restrictions on the extent to which people can
+      sell their assets.Sovereign wealth funds (SWF): The government owns
+      capital and distributes the dividends it generates.4And of course each
+      proposal comes in many flavors.Comparing the long and growing list of
+      proposals in every detail can be daunting. But there is a way in which
+      they resemble more familiar debates over redistribution: they concern the
+      extent to which the government should provide some good directly, or give
+      people cash and let them buy what they like.The main axis: control of the
+      capitalWe’re familiar with the question of whether to give the poor cash
+      or food stamps — or, if food stamps, whether to make junk food ineligible.
+      In debates over how to implement broad-based redistribution after AGI, we
+      rarely hear the idea that the transfers should be restricted to a
+      particular whitelist of necessities; the exception is the (uncommon)
+      proposal for “universal basic services”. Instead, the debate is mainly
+      over how fully our redistribution scheme should give citizens control not
+      just of the capital income but of the ca... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+40. TITLE: The Death of Software 2.0 (A Better Analogy!)
+   SOURCE: Fabricated_Knowledge | DATE: Fri, 16 Jan 2026 14:26:18 GMT
+   URL: https://www.fabricatedknowledge.com/p/the-death-of-software-20-a-better
+   MATCHED PILLARS: [SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      When I last wrote about software, I received significant pushback. Today,
+      I believe that Claude Code is confirming the original case I had all
+      along. Software is going to become an output of hardware and an extension
+      of current hardware designs. With this in mind, I want to write today
+      about how I see software changing from here. But let’s start with one core
+      conviction. Claude Code is the glimpse of the future. Assuming it
+      improves, has harnesses, and can continue to scale large context windows
+      and only become marginally more intelligent, I believe this is enough to
+      really take us to the next state of AI. I cannot stress enough that Claude
+      Code is the ChatGPT moment repeated. You must try it to understand. One
+      day, the successor to Claude Code will make a superhuman interface
+      available to everyone. And if Tokens were TCP/IP, Claude Code is the first
+      genuine website built in the age of AI. And this is going to hurt a large
+      part of the software industry.  Software (Especially Seat Based) is in for
+      a Much Rougher RideThe environment may be rough at OpenAI, but at a
+      traditional SaaS company, there is likely no greater whiplash than SaaS is
+      eating the world in 2012 to Saas is screwed today. The stocks reflect it;
+      multiple compression in the companies has been painful and will persist.
+      Source: EODHDThis is structural. I believe it’s time to rethink software’s
+      value proposition, and I have what I consider the best analogy for what
+      the future holds. Afterwards, we will digest what Software will look like
+      as an extension of computing, because I believe that Claude Code resembles
+      the memory hierarchy in computing. Let’s explain. The New Model of
+      Software Claude Code (and subsequent innovations) clearly will change a
+      lot about software, but the typical (and right) pushback is that you
+      cannot use “non-deterministic software” for defined business practices.
+      However, there is a persistent design pattern in hardware that addresses
+      this difference: the memory hierarchy. No one can rely on anything in a
+      computer's non-persistent memory, yet it is one of the most valuable
+      components of the entire stack. For those unfamiliar with computer
+      science, there is a memory hierarchy that trades capacity and persistence
+      for speed, and the system works because there are handoffs between levels.
+      In the traditional stack, SRAM sits at the top; overflow is to DRAM, which
+      is non-persistent (if you turn it off, it goes away), and then to NAND,
+      which is persistent (if you turn it off, it persists).I don’t think it’s
+      worth matching the hierarchy too closely, but I believe that Claude Code
+      and Agent Next will be the non-persistent memory stack in the compute
+      stack. Claude Code is DRAM. Source:
+      https://computerscience.chemeketa.edu/cs160Reader/ComputerArchitecture/MemoryHeirarchy.htmlI
+      believe that AI and software will be an extension of this, and we can
+      already identify which layers correspond to which.  The “CPU” in the
+      hierarchy comprises raw information, and the fast me... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+41. TITLE: Opus 4.7 scores near frontier on ECI
+   SOURCE: Epoch_AI | DATE: Tue, 21 Apr 2026 17:30:18 GMT
+   URL: https://epochai.substack.com/p/opus-47-scores-near-frontier-on-eci
+   MATCHED PILLARS: [SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Opus 4.7 scores 156 on ECI, our tool for combining multiple benchmarks
+      onto a single scale. This puts it a bit ahead of Opus 4.6 and a bit behind
+      only GPT-5.4, Gemini 3.1 Pro, and GPT-5.4 Pro. Thread with individual
+      scores and commentary.On FrontierMath, Opus 4.7 scored 44% on Tiers 1-3
+      and 23% on Tier 4, ahead of every model except GPT-5.4 and GPT-5.4 Pro.On
+      SWE-bench Verified, Opus 4.7 scored 83%, a new record for our evaluations
+      on this benchmark. SWE-bench Verified may be increasingly contaminated,
+      and we hope to evaluate Opus 4.7 on other coding benchmarks soon.Opus 4.7
+      scored 30% on our Chess Puzzles benchmark. This is a substantial jump over
+      previous Anthropic models, though it remains far from the frontier. Opus
+      4.7 hit its max output limit before answering for 31% of problems. We plan
+      to improve elicitation here.Opus 4.7 also solved the last problem on our
+      older math benchmark, Mock AIME, that had not been solved by any model
+      before. This problem involves interpreting the diagram shown below when
+      given as Asymptote vector graphics code.Opus 4.7 was a bit behind the top
+      scores on GPQA Diamond (90% vs. 95%). Anecdotally, this may be due to
+      refusing to answer some questions for safety reasons, even though GPQA
+      isn’t meant to cover dangerous topics. See, for instance, the cut-off
+      sample below.ECI also incorporates scores from third-party benchmarks. So
+      far, for Opus 4.7, we have ARC-AGI-1, ARC-AGI-2, WeirdML v2, and
+      SimpleBench. Its ECI score will evolve as we collect additional benchmark
+      scores.For all these and more, check out our website!Subscribe now
+
+--------------------------------------------------------------------------------
+
+42. TITLE: Huawei Ascend Production Ramp: Die Banks, TSMC Continued Production, HBM is The Bottleneck
+   SOURCE: SemiAnalysis | DATE: Mon, 08 Sep 2025 09:54:57 +0000
+   URL: https://semianalysis.com/2025/09/08/huawei-ascend-production-ramp/
+   MATCHED PILLARS: [SILICON HARDWARE, SUPPLY CHAIN CHOKEPOINTS]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Compute is the lifeblood of AI. He who controls the spice controls the
+      universe the compute will control the production of tokens and reap the
+      benefits of AI. Without compute you do not have a seat at the table. The
+      United States technology community is all in on compute and AI as the next
+      platform and is now adding compute at a staggering pace.
+      There is competition, and it not only comes from companies but from
+      countries, and the US government has placed a series of export controls to
+      limit China’s rising compute. Today the US controls and is the undisputed
+      leader in compute with more than 70% of the worlds deployed FLOPs. One way
+      to stay ahead is to keep going full steam while hindering your
+      competition. Limiting your competitor nation state from compute, which
+      will limit them from intelligence, is the current policy to stay ahead in
+      the AI race.
+      These moves have led to backlash, including with China cutting rare earth
+      minerals and magnets off from the US. Secretary of Commerce Howard Lutnick
+      says the resumption of Nvidia GPU sales to China were required to restart
+      China’s shipments of their linchpin supply chain materials.
+      But constraints have also led to adaptation, and Chinese companies have
+      adapted. High batch sizes and disaggregated serving are but two examples.
+      Despite advances, in the case of DeepSeek, most of their tokens are still
+      inferenced on western hardware. We wrote about this dynamic in our recent
+      DeepSeek debrief. Training of DeepSeek’s next generation model was also
+      delayed by the use of Huawei chips, as we also said in the debrief.
+                              Jul 03, 2025                    DeepSeek Debrief:
+      >128 Days Later 
+                              Wei Zhou, AJ Kourabi, Dylan Patel
+      This is not a stable equilibrium. There are always moving pieces in the
+      race for intelligence. Beijing plans for the long term and knows it must
+      secure its own domestic compute destiny. There is an irony: in the 2010s
+      China kicked out Google to enforce its Great Firewall and foster its
+      domestic industry, this time the US government is withholding hardware
+      technology so they cannot seize the lead in AI.
+      We believe that at China’s core, they want to control not only its
+      internet and AI, but the hardware that supports it. From silicon to
+      tokens, China seeks sovereignty over every layer of the stack, and given
+      recent history will never want to be beholden to foreign powers. Enter
+      Huawei.
+      China loves national champions, and in it’s characteristic capitalism,
+      tends to funnel resources to a few national champions. Today’s champion is
+      probably Nvidia’s greatest adversary: Huawei. We expect Huawei to be able
+      to make millions of chips this year, and to be bottlenecked by HBM next
+      year. Today we want to talk about Huawei, which can translate as “China’s
+      achievement”.
+      All In with Huawei’s chips
+      Huawei is the key piece for China’s compute destiny. Huawei’s chip
+      ecosystem is vertically integrated and capable network of tools, fabs, and
+      design that allows it to express a f... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+43. TITLE: AI is Creating Peak Software, Media is the Best Analogy
+   SOURCE: Fabricated_Knowledge | DATE: Thu, 10 Jul 2025 12:03:08 GMT
+   URL: https://www.fabricatedknowledge.com/p/ai-is-creating-peak-software-media
+   MATCHED PILLARS: [SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Let’s start with the basics. Software and the cost of creating software
+      are dropping massively, as tools like Cursor and Claude Code proliferate.
+      What used to cost thousands of dollars in tokens now costs mere cents, as
+      generative AI is making coding much cheaper and faster. That is an obvious
+      statement. But so what? I think today, I want to propose my theory on how
+      I see the broader software ecosystem will be impacted by the influx of new
+      supply from coding agents. Welcome to the Software disruption flood. We
+      have a very recent case study at hand to consider how software will be
+      impacted. Today, I want to compare the rise of coding agents to the rise
+      of YouTube and the destruction of linear media. I think it is the single
+      best frame to view how software will change from here. So let’s set the
+      scene.The Internet, YouTube, and the BundleOnce upon a time, there was a
+      paradigm of content in which for a single subscription, you could consume
+      1000s of channels of content in a bundle via TV. The anchor of this bundle
+      was Live Sports (still is), and this was the last meta of Media
+      consumption. This lasted for decades as TV was the killer application
+      (over radio!) from the 1980s to the mid-2010s. Now Media itself is just
+      content, and it can be viewed on TV in the Bundle, over-the-top (like
+      Netflix), or even now via short-form content on TikTok, Reels, and YouTube
+      Shorts. The key inflection point that screwed the Bundle from it’s peak of
+      ~87% penetration to ~40s penetration today. Source:
+      https://nscreenmedia.com/traditional-pay-tv-us-home-penetration-2023/This
+      is the ugly peak of TV, and compared to the very glorious rise in
+      penetration, it’s a painful sight to watch in real time. Meanwhile,
+      YouTube (my proxy of choice this time) blew up in conjunction. The timing
+      is quite accurate, and you can see the beginning of the S-curve of YouTube
+      almost perfectly align with the top of the cable bundle. In the 2010s, as
+      YouTube experienced explosive growth, the cable bundle reached its peak
+      and then began to decline. Source: https://prioridata.com/data/youtube-
+      valuation/This is what happens when your platform peaks, and I think that
+      the Web 2.0 SaaS era bears a striking resemblance to this analogy. But
+      before we get there, let’s talk about what killed the bundle. In
+      hindsight, it’s pretty straightforward to attribute the issue broadly to
+      the internet. However, I think that it wasn’t just the distribution (via
+      the Internet) but also the media itself that changed, shifting from being
+      concentrated in relatively few media makers (thousands of channels) to
+      millions of individual creators. There are ~113.9 million channels on
+      YouTube, with 32,300 with over 1 million subscribers. For example, Mr
+      Beast now has 400 million subscribers. That’s larger than the entire
+      United States and much larger than Cable TV ever was. And it’s not like Mr
+      Beast entered the ring with massive funding and a distribution channel. He
+      raced to the top because the cost to enter the Media... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+44. TITLE: Lessons from History: The Great Railroad Buildout
+   SOURCE: Fabricated_Knowledge | DATE: Wed, 17 Dec 2025 17:09:33 GMT
+   URL: https://www.fabricatedknowledge.com/p/lessons-from-history-the-great-railroad
+   MATCHED PILLARS: [MACRO FINANCE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      It’s time for another history lesson—this one reaches further back than my
+      usual fare. I spent months in books and unusual places on the internet for
+      this piece, and I think I find the parallels to today’s AI buildout
+      remarkable. This is the story of the railroad capital cycle: how America
+      financed, built, overbought, and eventually consolidated the most
+      transformative infrastructure of the 19th century. Early American History
+      of Railroads: The Civil War and Land GrantsWhere does a cycle begin? For
+      American railroads, the Civil War is a good starting point: the conflict
+      demonstrated the value of railroads and was the first major use case for
+      the transformative technology. Better, cheaper, and faster logistics could
+      win wars, and railroads were partially why the North won. Source:
+      https://www.reddit.com/r/MapPorn/comments/1dmygs2/1861_rail_network_prior_to_the_american_civil_war/The
+      war was fought over railroads. For example, “Every major Civil War battle
+      east of the Mississippi River took place within twenty miles of a rail
+      line,” and one of the few critical advantages the North had over the South
+      was a dominant standard railroad gauge and a higher quality network.
+      Notice the redundancy of the northern roads compared to the south. And
+      while many factors contributed to the Union victory, this was clearly one
+      of them. The war demonstrated the value of the railroads, but in
+      peacetime, the railroad industry itself roared to life. At the end of the
+      Civil War (1865), it became clear that technology would shape the American
+      West, and railroad construction increased from ~1000 miles per year to
+      7000 miles per year within a few years. But before we go into the dramatic
+      rise (and fall, and rise, and fall) of railroads, I need to discuss one of
+      the core mechanisms that helped finance them in the early days: land
+      grants. Land Grants and RailroadsThe mother of most railroads was land
+      grants. Land grants enabled the financing and construction of the first
+      railroads. The Pacific Railroad Act of 1862, passed during the Civil War,
+      aimed to bind California to the Union before it could contemplate
+      secession and was the first transcontinental railroad endeavor.
+      Transcontinental railroads were ruinously expensive to build, with costs
+      ranging from $45,000 to $60,000 per mile. In today’s dollars, that’s
+      roughly $2.5 million per mile; for context, the first transcontinental
+      cost about $1.2 billion total. The federal government was cash-strapped,
+      but it had abundant land.So a clever solution was created: grant land in a
+      10 to 40 mile corridor around a new railroad to the company itself, and
+      parcel the land 50/50 between the railroad and the government. This would
+      increase the land’s value, as it was in a remote location. The odd
+      sections of the land parcels were conveyed to the railroads, which would
+      then issue securities secured by the land.On paper, this was elegant.
+      Public land was sold for $1.25 per acre. Grant half to a railroad, and the
+      resulting settlemen... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+

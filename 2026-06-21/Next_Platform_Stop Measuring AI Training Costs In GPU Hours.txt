@@ -1,0 +1,8 @@
+SOURCE: Next_Platform
+TITLE: Stop Measuring AI Training Costs In GPU Hours
+DATE: Thu, 23 Apr 2026 15:00:14 +0100
+URL: https://www.nextplatform.com/cloud/2026/04/23/stop-measuring-ai-training-costs-in-gpu-hours/5218713
+----------------------------------------
+
+CONTENT:
+

@@ -1,0 +1,8 @@
+SOURCE: Next_Platform
+TITLE: HPE Throws VM Users A Lifeline, Unifying Containers And VM Management In Cloud Stack
+DATE: Wed, 13 May 2026 13:36:43 +0100
+URL: https://www.nextplatform.com/cloud/2026/05/13/hpe-throws-vm-users-a-lifeline-unifying-containers-and-vm-management-in-cloud-stack/5239635
+----------------------------------------
+
+CONTENT:
+

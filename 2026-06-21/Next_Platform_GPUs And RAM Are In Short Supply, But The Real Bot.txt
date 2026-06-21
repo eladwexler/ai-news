@@ -1,0 +1,8 @@
+SOURCE: Next_Platform
+TITLE: GPUs And RAM Are In Short Supply, But The Real Bottleneck For AI Is Electricians
+DATE: Thu, 28 May 2026 00:18:14 +0100
+URL: https://www.nextplatform.com/compute/2026/05/28/gpus-and-ram-are-in-short-supply-but-the-real-bottleneck-for-ai-is-electricians/5247566
+----------------------------------------
+
+CONTENT:
+

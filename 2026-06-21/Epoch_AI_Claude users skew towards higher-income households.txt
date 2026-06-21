@@ -1,0 +1,8 @@
+SOURCE: Epoch_AI
+TITLE: Claude users skew towards higher-income households; Meta towards lower-income
+DATE: Wed, 22 Apr 2026 21:19:45 GMT
+URL: https://epochai.substack.com/p/claude-users-skew-towards-higher
+----------------------------------------
+
+CONTENT:
+80% of US adults who report using Claude in the previous week live in households earning $100,000 or more a year, compared to 37% of Meta AI users. Nationally, about 50% of US adults fall in this income bracket. Among Meta AI users, 32% live in households earning less than $50,000, compared to 7% of Claude users and 24% of US adults. Other major providers cluster in a relatively narrow band, with 56&#8211;64% of users in $100,000+ households and 15&#8211;22% under $50,000.Results are based on three pooled waves of the Epoch AI/Ipsos survey (~2,000 respondents in each of waves 1&#8211;2, ~1,000 in wave 3). Participants reported which AI services (if any) they used in the past week. Respondents were recruited at random. Estimates are weighted to better reflect underrepresented groups, like those from lower socioeconomic backgrounds. Users may report using more than one AI service, so groups are not mutually exclusive.You can read the full data insight on our website.

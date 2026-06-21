@@ -1,0 +1,8 @@
+SOURCE: Next_Platform
+TITLE: Nvidia Brings The Power Of Open Source AI Models To Quantum Computing
+DATE: Tue, 14 Apr 2026 15:07:11 +0100
+URL: https://www.nextplatform.com/compute/2026/04/14/nvidia-brings-the-power-of-open-source-ai-models-to-quantum-computing/5217571
+----------------------------------------
+
+CONTENT:
+

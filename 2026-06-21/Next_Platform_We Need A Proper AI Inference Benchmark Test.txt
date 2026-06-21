@@ -1,0 +1,8 @@
+SOURCE: Next_Platform
+TITLE: We Need A Proper AI Inference Benchmark Test
+DATE: Mon, 09 Mar 2026 19:04:11 +0000
+URL: https://www.nextplatform.com/compute/2026/03/09/we-need-a-proper-ai-inference-benchmark-test/5208100
+----------------------------------------
+
+CONTENT:
+

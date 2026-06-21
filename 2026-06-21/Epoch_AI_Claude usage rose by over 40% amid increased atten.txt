@@ -1,0 +1,8 @@
+SOURCE: Epoch_AI
+TITLE: Claude usage rose by over 40% amid increased attention last month, but remains far behind ChatGPT
+DATE: Thu, 16 Apr 2026 19:20:52 GMT
+URL: https://epochai.substack.com/p/claude-usage-rose-by-over-40-amid
+----------------------------------------
+
+CONTENT:
+According to our latest polls, Claude usage in the US rose by over 40% amid increased attention last month, but remains far behind ChatGPT. Our point estimate would imply several million new weekly users in the United States.Our survey doesn&#8217;t shed light on *why* usage patterns shifted, but the timing of the jump coincides with a public dispute with the US government, as well as an increase in enterprise adoption.Claude remains far behind ChatGPT&#8217;s ~30% share but is the only AI service in our survey to show a clear upward trend across this short time period.Check out the latest data insight on our website!

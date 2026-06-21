@@ -1,0 +1,8 @@
+SOURCE: Next_Platform
+TITLE: For Enterprises, GPUs Need Virtualization As Much As CPUs Ever Did
+DATE: Fri, 10 Apr 2026 20:02:45 +0100
+URL: https://www.nextplatform.com/control/2026/04/10/for-enterprises-gpus-need-virtualization-as-much-as-cpus-ever-did/5216399
+----------------------------------------
+
+CONTENT:
+

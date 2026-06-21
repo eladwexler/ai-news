@@ -1,0 +1,8 @@
+SOURCE: Next_Platform
+TITLE: NextSilicon Takes Aim At CPUs And GPUs With “Maverick-2” Dataflow Engine
+DATE: Wed, 22 Oct 2025 21:20:24 +0100
+URL: https://www.nextplatform.com/compute/2025/10/22/nextsilicons-maverick-2-revolutionizing-hpc-with-a-novel-dataflow-engine/1639749
+----------------------------------------
+
+CONTENT:
+

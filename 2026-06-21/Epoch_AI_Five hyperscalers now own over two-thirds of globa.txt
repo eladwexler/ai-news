@@ -1,0 +1,8 @@
+SOURCE: Epoch_AI
+TITLE: Five hyperscalers now own over two-thirds of global AI compute
+DATE: Tue, 14 Apr 2026 20:43:57 GMT
+URL: https://epochai.substack.com/p/five-hyperscalers-now-own-over-two
+----------------------------------------
+
+CONTENT:
+Five companies &#8212; Google, Microsoft, Meta, Amazon, and Oracle &#8212; now control about two-thirds of the world&#8217;s compute, up slightly from ~60% at the start of 2024.Many AI labs (including OpenAI and Anthropic) depend almost entirely on these hyperscalers for access to their compute.This data comes from our new AI Chip Owners datahub. For more details, see our full data insight.

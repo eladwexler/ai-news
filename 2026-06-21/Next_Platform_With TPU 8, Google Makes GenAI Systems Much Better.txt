@@ -1,0 +1,8 @@
+SOURCE: Next_Platform
+TITLE: With TPU 8, Google Makes GenAI Systems Much Better, Not Just Bigger
+DATE: Fri, 24 Apr 2026 17:56:25 +0100
+URL: https://www.nextplatform.com/compute/2026/04/24/with-tpu-8-google-makes-genai-systems-much-better-not-just-bigger/5218834
+----------------------------------------
+
+CONTENT:
+

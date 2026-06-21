@@ -1,0 +1,8 @@
+SOURCE: Next_Platform
+TITLE: Tensordyne Converts AI Matrix Math To Logs To Crank Up Inference Oomph
+DATE: Tue, 16 Jun 2026 19:52:27 +0100
+URL: https://www.nextplatform.com/compute/2026/06/16/tensordyne-converts-ai-matrix-math-to-logs-to-crank-up-inference-oomph/5256558
+----------------------------------------
+
+CONTENT:
+
