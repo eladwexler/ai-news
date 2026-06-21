@@ -15,7 +15,12 @@ FEEDS = {
     "Semiconductor_Engineering": "https://semiengineering.com/feed/",
     "Epoch_AI": "https://epochai.substack.com/feed",
     "SemiAnalysis": "https://www.semianalysis.com/feed",
-    "Fabricated_Knowledge": "https://www.fabricatedknowledge.com/feed"
+    "Fabricated_Knowledge": "https://www.fabricatedknowledge.com/feed",
+    "Import_AI": "https://jack-clark.net/feed/",
+    "The_Gradient": "https://thegradient.pub/rss/",
+    "MIT_Tech_Review_AI": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+    "EE_Times": "https://www.eetimes.com/feed/",
+    "The_Register_AI": "https://www.theregister.com/software/ai_ml/headlines.atom",
 }
 
 HEADERS = {
