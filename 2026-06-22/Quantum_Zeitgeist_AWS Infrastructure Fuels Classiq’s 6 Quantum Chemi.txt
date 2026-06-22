@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: AWS Infrastructure Fuels Classiq’s 6 Quantum Chemistry Breakthroughs
+DATE: Mon, 22 Jun 2026 09:22:01 +0000
+URL: https://quantumzeitgeist.com/classiq-quantum-chemistry-breakthroughs-aws-infrastructure/
+----------------------------------------
+
+CONTENT:
+Classiq &#038; AWS built a quantum-classical pipeline for computational chemistry, tackling binding energy estimation—a key challenge in quantum chemistry.

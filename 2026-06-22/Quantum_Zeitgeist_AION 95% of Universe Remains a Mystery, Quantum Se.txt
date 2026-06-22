@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: AION: 95% of Universe Remains a Mystery, Quantum Sensors May Help
+DATE: Mon, 22 Jun 2026 05:16:26 +0000
+URL: https://quantumzeitgeist.com/quantum-sensors-help-aion-universe/
+----------------------------------------
+
+CONTENT:
+Researchers are working to build large-scale quantum sensors that may help solve the mystery of dark matter and dark energy, which together constitute approximately 95% of the Universe. These sensors aim to detect subtle effects these phenomena have on atoms, requiring extremely precise measurements to overcome background noise.

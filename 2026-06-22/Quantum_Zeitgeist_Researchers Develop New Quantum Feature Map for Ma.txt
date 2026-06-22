@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: Researchers Develop New Quantum Feature Map for Machine Learning
+DATE: Mon, 22 Jun 2026 13:17:00 +0000
+URL: https://quantumzeitgeist.com/quantum-feature-maps-two-qubit-hamiltonian-implementation/
+----------------------------------------
+
+CONTENT:
+Generalized two-qubit Hamiltonians now deliver the most consistent, statistically supported improvements over classical machine learning, despite variations in dataset and hardware. Previous methods relied on limited Hamiltonian families, hindering the potential for dense data encoding within shallow quantum circuits. This new construction embeds distinct variables on the same qubit, offering a practical pathway towards utilising current quantum devices.

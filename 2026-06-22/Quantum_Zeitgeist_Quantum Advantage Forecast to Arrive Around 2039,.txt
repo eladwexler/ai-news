@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: Quantum Advantage Forecast to Arrive Around 2039, UBS Reports
+DATE: Mon, 22 Jun 2026 08:03:58 +0000
+URL: https://quantumzeitgeist.com/ubs-quantum-advantage-forecast-arrive-around/
+----------------------------------------
+
+CONTENT:
+UBS reports that quantum advantage, when quantum computers surpass classical supercomputers, is expected around 2039.

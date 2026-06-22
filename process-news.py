@@ -18,6 +18,14 @@ PILLARS = {
     ],
     "physical_infrastructure": [
         "data center", "power grid", "electricity", "transformer", "liquid cooling", "megawatt"
+    ],
+    "robotics": [
+        "robot", "robotics", "humanoid", "embodied ai", "physical ai", "actuator",
+        "manipulation", "warehouse automation", "autonomous mobile"
+    ],
+    "quantum_computing": [
+        "quantum", "qubit", "qpu", "superconducting qubit", "trapped ion",
+        "quantum error correction", "quantum annealing", "quantum supremacy"
     ]
 }
 

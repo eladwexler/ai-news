@@ -1,0 +1,8 @@
+SOURCE: EE_Times
+TITLE: Software to Silicon With RISC-V for Physical AI
+DATE: Mon, 22 Jun 2026 14:13:07 +0000
+URL: https://www.eetimes.com/software-to-silicon-with-risc-v-for-physical-ai/
+----------------------------------------
+
+CONTENT:
+Nitin Dahad of EE Times moderates a panel with Sameer Wasson, CEO of MIPS, by GlobalFoundries, and Andrea Gallo, CEO of RISC-V International, for a conversation on how the industry must rethink chip design

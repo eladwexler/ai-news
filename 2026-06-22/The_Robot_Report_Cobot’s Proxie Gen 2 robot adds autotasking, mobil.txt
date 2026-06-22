@@ -1,0 +1,46 @@
+SOURCE: The_Robot_Report
+TITLE: Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation
+DATE: Mon, 22 Jun 2026 12:59:51 +0000
+URL: https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/
+----------------------------------------
+
+CONTENT:
+Collaborative Robtics&#8217; Proxie 2.0 offers bimanual manipulation and autotasking. | Credit: Collaborative Robotics
+Collaborative Robotics (Cobot) unveiled the second-generation version of its Proxie mobile robot, adding greater payload capacity, self-swapping batteries, autonomous task identification, and a new two-armed manipulation option as the company looks to expand deployments across healthcare, logistics, and manufacturing.
+The Santa Clara, Calif.-based company introduced Proxie Gen 2 at Automate 2026, positioning the system as a production-proven mobile manipulator.
+&#8220;For decades, deploying robots has meant choosing between mobility and dexterity, and always required custom software integration,&#8221; said Collaborative Robotics founder and CEO Brad Porter. &#8220;Our second-generation Proxie brings all of that together in one platform we designed end-to-end.&#8221;
+Lessons from field shape Proxie Gen 2
+Cobot has spent the past two years quietly gathering operational data from customer deployments. According to the company, 28 Proxie robots have accumulated nearly 13,000 operating hours, traveled more than 22,000 miles, moved over 154,000 carts, and saved workers millions of steps. The robots have been deployed in environments ranging from hospitals and laboratories to manufacturing and logistics facilities.
+Porter said the company intentionally prioritized field deployments over publicity.
+&#8220;Our strategy has been to get into the field and run hours,&#8221; he told The Robot Report. &#8220;You have to go through multiple generations of hardware to harden it. Until you put up numbers in production, you don&#8217;t know where the stresses and breaks are.&#8221;
+One notable deployment has been at the Mayo Clinic, where Proxie transports materials throughout the facility, supporting workflows ranging from laboratory operations to food services and medical equipment handling.
+The experience generated more than 500 design insights that informed the redesign of nearly every subsystem in Gen 2. While key architectural elements such as the robot&#8217;s high-mounted sensor suite, vertical spine, swerve drive, and battery-swapping capabilities remain, Porter said the company rebuilt the platform from the ground up to improve reliability and manufacturability.
+The result is a robot with 40% fewer parts, a smaller footprint for navigating tight hallways and elevators, and greater strength. Gen 2 can move carts weighing up to 1,500 lb. and lift up to 220 lb. on its vertical spine.
+The company also upgraded the sensing package with additional lidar capabilities designed to support future safety certification efforts.
+
+
+
+Submit your session idea for the 2026 RoboBusiness
+
+
+AI enables autonomous task discovery
+The most significant advancement may be Proxie&#8217;s growing ability to identify work on its own. Cobot calls the capability &#8220;autotasking.&#8221; Rather than relying on integrations with warehouse management systems, hospital software, or human dispatchers, Proxie builds what the company calls a real-time world model of its environment.
+After mapping a facility using traditional SLAM techniques, the robot continuously observes carts, bins, and workstations. It can determine when materials are ready to move, identify destinations, and create tasks without human intervention. At one customer site operated by shipping giant Maersk, Porter said workers simply wrote destination information on small whiteboards attached to carts.
+&#8220;Multimodal models are impressive,&#8221; he said. &#8220;The robot reads the whiteboard lettering and knows where to go.&#8221;
+According to Porter, roughly 95% of cart movements at that facility during a recent measurement period were initiated without a human assigning a task or any integration with a warehouse management system. The company believes this approach dramatically lowers deployment complexity.
+&#8220;We need to stop talking about system integration and complexity and start talking about intelligence,&#8221; Porter said.
+
+Proxie adds mobile manipulation
+Gen 2 also marks Cobot entry into mobile manipulation. The company is introducing an optional dual-arm configuration designed to perform two-handed tasks in healthcare, logistics, life sciences, and manufacturing environments.
+The move comes as advances in vision-language-action (VLA) models, diffusion policies, and world models are accelerating progress in robot manipulation. Porter said Cobot intentionally delayed adding arms until it had validated the mobile platform.
+&#8220;Manipulation is an open-ended hard problem,&#8221; he said. &#8220;We wanted to get 10,000-plus hours and harden everything about the mobile base before solving the manipulation problem in the field.&#8221;
+The company is currently using research-grade manipulators but expects to introduce industrial-hardened versions later this year. Porter noted that recent improvements in AI models have significantly reduced the amount of training data required to teach robots new tasks.
+&#8220;We don&#8217;t have the &#8216;manipulate anything&#8217; models we want yet,&#8221; he said. &#8220;But we have good enough AI to deploy.&#8221;
+Cobot is expanding its relationships with NVIDIA and Amazon Web Services. The robot uses NVIDIA Jetson modules for onboard AI processing, enabling perception, planning, and task inference to run locally without cloud dependence. The company is also working with NVIDIA Robotics on Isaac Sim and Omniverse NuRec to create digital twins and simulation environments based on real-world deployment data.
+AWS provides the cloud infrastructure behind the company&#8217;s Vista fleet-management platform and supports training for the AI models that power Autotasking. Vista provides real-time visibility into fleet operations, allowing users to monitor tasks, robot status, and operational bottlenecks across deployments.
+
+Making robots easier to deploy
+Porter said the industry&#8217;s biggest challenge may not be hardware performance but ease of adoption. He compared the current state of robotics to the early personal computer market before widespread consumer adoption.
+&#8220;The genius of Steve Jobs was taking the complexity away,&#8221; Porter said. &#8220;People found computers daunting to adopt, and he relentlessly focused on making them easier. Our job is to make robots easier and easier and easier.&#8221;
+Cobot said Proxie Gen 2 is available to order immediately, with deployments beginning this year, starting at $5,000 per month. The company is demonstrating the platform at Automate 2026 in Chicago.
+The post Cobot&#8217;s Proxie Gen 2 robot adds autotasking, mobile manipulation appeared first on The Robot Report.

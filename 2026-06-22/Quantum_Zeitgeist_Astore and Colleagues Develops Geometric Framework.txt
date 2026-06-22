@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: Astore and Colleagues Develops Geometric Framework for Linearized Reed-Solomon Codes
+DATE: Mon, 22 Jun 2026 12:46:50 +0000
+URL: https://quantumzeitgeist.com/reed-solomon-codes-geometric-framework-linearized-construction/
+----------------------------------------
+
+CONTENT:
+Extending techniques previously used for Hamming and rank-metric codes, a new geometric characterisation of linearized Reed-Solomon codes has been achieved. This work reveals these codes satisfy an unexpected number of $(q+1)$-degree hypersurface conditions, offering a fresh perspective on their structure. Such advances are vital for optimising codes used in areas like secure communication and data storage.

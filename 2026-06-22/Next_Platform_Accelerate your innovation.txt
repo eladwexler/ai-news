@@ -1,0 +1,8 @@
+SOURCE: Next_Platform
+TITLE: Accelerate your innovation
+DATE: Wed, 15 Jul 2026 01:00:00 +0100
+URL: https://intelligence.theregister.com/paper/view/20386
+----------------------------------------
+
+CONTENT:
+This is your technical deep-dive into the practical tools and techniques that define the next generation of resilient Dev and IT operations.

@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: CETQAP: PKTron v9.0.0 Ships With 180+ Public Classes, 45+ Modules
+DATE: Mon, 22 Jun 2026 08:03:39 +0000
+URL: https://quantumzeitgeist.com/pktron-v9-cetqap-v900-ships/
+----------------------------------------
+
+CONTENT:
+CETQAP has released PKTron v9.0.0, a comprehensive quantum computing software developed in South Asia, marking a milestone for Pakistan’s quantum technology ecosystem. This latest version includes new research systems, NEQ and NEF, and expands into areas like simulation, machine learning, and cryptography.

@@ -1,0 +1,85 @@
+SOURCE: The_Quantum_Insider
+TITLE: Twisting Quantum Potential Into Reality
+DATE: Mon, 22 Jun 2026 07:42:47 +0000
+URL: https://thequantuminsider.com/2026/06/22/twisting-quantum-potential-into-reality/
+----------------------------------------
+
+CONTENT:
+
+
+
+Insider Brief
+
+
+
+
+UTS researchers and collaborators developed a twist-based method for controlling quantum light sources in hexagonal boron nitride, advancing a key building block for practical quantum technologies.
+
+
+
+The team showed that picking up, twisting and restacking layered hBN could significantly shift the colour and wavelength of emitted quantum light.
+
+
+
+The researchers said the approach could support future applications in quantum computing, secure communications, quantum sensing, healthcare, cybersecurity and improved GPS.
+
+
+
+Image: Photo by Sean Sinclair on Unsplash
+
+
+
+
+PRESS RELEASE &#8212; In a paper published in Science Advances, researchers at the University of Technology Sydney (UTS) in collaboration with the University of Minnesota and Kyung Hee University have found a new way to control quantum light sources, which is one of the key elements needed before quantum technologies can be used reliably in real-world systems.
+
+
+
+Lead author Dr Angus Gale says the research gives scientists a new control mechanism for tiny quantum light sources, bringing them a step closer to being used in practical quantum technologies such as quantum computing, secure communication and ultra-sensitive sensing.
+
+
+
+“You can measure these quantum emitters and see that they exist, but it’s hard to make them work in practice. This gives us a lever to get closer to that – a step towards the realisation of quantum technologies,” said Dr Gale.
+
+
+
+In experiments, Gale and his colleagues were able to shift the colour and wavelength of the emitted light by a significant amount, with the size of the shift notable. Unlike many experiments where a device is made at one twist angle and left alone, they were able to pick up, twist and restack the material repeatedly, which was an unusual finding.
+
+
+
+“We’re leveraging the fact that this material, hexagonal boron nitride (hBN), is layered. We can pick it up, stack it, twist it, and use that twist to modify the emitters. You can’t really do that with traditional materials like diamond or silicon carbide.”
+
+
+
+“The benefit is that we used this twistable platform to shift the emission by a very significant amount,” said Gale. “Often when you control these systems, the amount of manipulation is very limited, but in this case the shift was much larger than expected.
+
+
+
+“Rather than trying to make hBN defects behave like a traditional solid-state hosts, we took advantage of hBN’s own strength: its thin, layered, twistable structure.”
+
+
+
+Gale describes the material as similar to thin&nbsp;slices of cheese rather than a solid block.
+
+
+
+“With a block of cheese, you can’t really get to the flavour in the middle. But with slices, you can peel away layers, put them back together and change how they interact,” he said.
+
+
+
+Supervising author Professor Igor Aharonovich&nbsp;explains that twisting layered materials is exciting because it can unlock new physics.
+
+
+
+“You can take two layers that don’t do much on their own, put them together at a specific angle, and suddenly you have a completely different system,” said Professor Aharonovich.
+
+
+
+“These materials could eventually be used for quantum computing communications and quantum sensing, which would help for applications such as healthcare, cybersecurity and improved GPS; and gives us more control over the building blocks needed to get there.”
+
+
+
+
+
+
+
+

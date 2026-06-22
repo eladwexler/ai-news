@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: Algorithms Improve Solutions Beyond Random Guessing with a One over Root D Scaling
+DATE: Mon, 22 Jun 2026 12:59:00 +0000
+URL: https://quantumzeitgeist.com/algorithms-xorsat-scaling-beyond-random-assignment/
+----------------------------------------
+
+CONTENT:
+Polynomial-time algorithms can improve upon random guessing for certain complex problems by an amount scaling as 1/√D, but achieving better than this has now been proven impossible. This work establishes a definitive limit for solving max-LINSAT over finite fields, demonstrating that exceeding r/q + Oq,r(1/√D) is NP-hard. Consequently, quantum decoders are revealed as essential for fully realising the potential of decoded quantum interferometry, bypassing a 1/√D log D barrier faced by classical approaches.

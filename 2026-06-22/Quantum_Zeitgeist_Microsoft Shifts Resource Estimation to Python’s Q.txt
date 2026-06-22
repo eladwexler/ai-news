@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: Microsoft Shifts Resource Estimation to Python’s QDK Package
+DATE: Mon, 22 Jun 2026 08:26:09 +0000
+URL: https://quantumzeitgeist.com/qdk-microsoft-shifts-resource-estimation-pythons/
+----------------------------------------
+
+CONTENT:
+Microsoft is transitioning its Quantum resource estimator to the qdk.qre Python module, deprecating the version within the VS Code QDK extension.

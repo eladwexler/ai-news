@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: Allstate Applies Knapsack Problem to Home Insurance Risks
+DATE: Mon, 22 Jun 2026 05:27:01 +0000
+URL: https://quantumzeitgeist.com/knapsack-problem-allstate-applies-home/
+----------------------------------------
+
+CONTENT:
+Allstate and IBM are exploring quantum computing to improve insurance portfolio construction and address complex, correlated risks within the industry. Their work focuses on applying the “knapsack problem” – finding optimal combinations under constraints – to better balance risk and meet customer needs in areas like home insurance.

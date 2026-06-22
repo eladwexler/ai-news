@@ -1,0 +1,8 @@
+SOURCE: EE_Times
+TITLE: Beyond Isolation: NOVOSENSE’s Isolation+ Platform Elevates System Safety for Advanced Power Systems
+DATE: Mon, 22 Jun 2026 10:00:00 +0000
+URL: https://www.eetimes.com/beyond-isolation-novosenses-isolation-platform-elevates-system-safety-for-advanced-power-systems/
+----------------------------------------
+
+CONTENT:
+The Rising Stakes of IsolationFor decades, electrical isolation lived quietly on the periphery of system design as a checkbox item, a safety requirement satisfied by an inexpensive optocoupler and then

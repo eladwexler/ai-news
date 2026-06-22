@@ -1,0 +1,13 @@
+SOURCE: Semiconductor_Engineering
+TITLE: Interference Risks In Processing-Using-DRAM (U. of Tokyo, ETH Zurich, CISPA, Riken)
+DATE: Mon, 22 Jun 2026 18:05:12 +0000
+URL: https://semiengineering.com/pudghost-reveals-interference-risks-in-processing-using-dram/
+----------------------------------------
+
+CONTENT:
+Researchers from The University of Tokyo, ETH Zurich, CISPA, and RIKEN published a technical paper titled “PuDGhost: Experimental Analysis of Computation Result Corruption in Processing-using-DRAM Operations on Real DRAM Chips and Implications for Future Systems.”
+Abstract excerpt:
+“We reveal PuDGhost, an interference phenomenon where a PuD operation in a given column produces erroneous results due to interference from 1) data in non-activated DRAM rows and 2) data in other columns that compute concurrently under the same SiMRA operation.”  The paper also reports that “concurrently computing columns affects SiMRA outputs by up to 48%.”
+Find the technical paper here. June 2026.
+Tokuda, Daichi, İsmail Emir Yüksel, Tatsuya Kubo, Ataberk Olgun, Haocong Luo, Nisa Bostanci, Jikun Wang, A. Giray Yağlıkçı, Shinya Takamaeda-Yamazaki, and Onur Mutlu. &#8220;PuDGhost: Experimental Analysis of Computation Result Corruption in Processing-using-DRAM Operations on Real DRAM Chips and Implications for Future Systems.&#8221; arXiv preprint arXiv:2606.19119 (2026).
+The post Interference Risks In Processing-Using-DRAM (U. of Tokyo, ETH Zurich, CISPA, Riken) appeared first on Semiconductor Engineering.

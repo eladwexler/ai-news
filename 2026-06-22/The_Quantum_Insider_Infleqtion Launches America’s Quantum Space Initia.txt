@@ -1,0 +1,107 @@
+SOURCE: The_Quantum_Insider
+TITLE: Infleqtion Launches America’s Quantum Space Initiative to Accelerate the Future of Quantum-Enabled Space Infrastructure
+DATE: Mon, 22 Jun 2026 13:45:43 +0000
+URL: https://thequantuminsider.com/2026/06/22/infleqtion-launches-americas-quantum-space-initiative-to-accelerate-the-future-of-quantum-enabled-space-infrastructure/
+----------------------------------------
+
+CONTENT:
+
+
+
+Insider Brief
+
+
+
+
+Infleqtion has launched America&#8217;s Quantum Space Initiative, bringing together industry, academic, and technology partners to support the development of quantum technologies for future space systems. 
+
+
+
+Founding participants include Voyager Technologies, Monarch Quantum, Armada, and the University of Colorado Boulder, with plans to establish a collaborative Quantum Space Hub. 
+
+
+
+The initiative aims to accelerate the deployment of quantum sensing, timing, communications, navigation, and computing technologies for commercial, civil, and defense space applications.
+
+
+
+Photo from Pexels by SpaceX.
+
+
+
+
+PRESS RELEASE &#8212; Infleqtion (NYSE: INFQ),&nbsp;a global leader in quantum computing and quantum sensing powered by neutral-atom technology, today announced the launch of America&#8217;s Quantum Space Initiative, bringing together founding innovators including Voyager Technologies, Monarch Quantum, Armada, and the University of Colorado Boulder to help advance the development and deployment of quantum technologies for future space systems. The initiative is designed to foster collaboration across industry, academia, and government to accelerate innovation, expand opportunities for quantum technologies in space, and strengthen U.S. leadership in next-generation technologies.
+
+
+
+As space becomes increasingly important to economic competitiveness, scientific discovery, and national security, technologies that enable greater precision, resilience, and autonomy are becoming strategic assets. Quantum sensing, timing, navigation, communications, and computing have the potential to transform how future space systems operate, creating new opportunities across commercial, civil, and defense applications, including enabling next-generation lunar infrastructure, advanced capabilities for deep-space exploration, persistent space domain awareness, mission optimization, and new scientific instruments capable of probing both fundamental physics and expanding our understanding of the universe.
+
+
+
+Realizing that potential will require expertise that spans quantum science, aerospace engineering, mission operations, advanced manufacturing, computing infrastructure, and research. Founding innovators will help bring together leaders across these disciplines, identify opportunities for technology development, demonstration, and deployment, and accelerate the transition of quantum technologies from pioneering demonstrations to real-world space applications through the Quantum Space Hub, a collaborative network connecting innovators from across the quantum and space communities.
+
+
+
+&#8220;We are entering a defining moment for both quantum technology and space innovation,&#8221; said Matt Kinsella, Chief Executive Officer of Infleqtion. &#8220;The opportunity ahead is bigger than any one company, institution, or discipline. By bringing together innovators from across the ecosystem, we can help unlock the next frontier at the intersection of quantum and space.&#8221;
+
+
+
+&#8220;American leadership in space depends on turning breakthrough technologies into enduring capabilities,&#8221; said Dylan Taylor, Chairman and Chief Executive Officer of Voyager Technologies. &#8220;Quantum technologies represent an exciting frontier, and we look forward to helping advance the infrastructure, partnerships, and innovations that will support the next generation of space missions.&#8221;
+
+
+
+&#8220;Quantum technologies are most valuable if they can operate where decisions get made at the edge, in austere environments and under real operational constraints,” said Dan Wright, Co-founder and CEO of Armada. “There is no more austere environment than space, and that’s why we are joining this initiative, because we must do everything we can to turn technological firsts into operational advantage.”
+
+
+
+&#8220;Some of the most exciting opportunities in space will come from advances in precision measurement and sensing,&#8221; said Dr. Timothy Day, Chairman and Chief Executive Officer of Monarch Quantum. &#8220;Quantum technologies have the potential to unlock entirely new capabilities, and we are proud to contribute systems engineering and photonics expertise engineering needed to help bring those possibilities closer to reality.&#8221;
+
+
+
+“CU Boulder has a long tradition of tackling society&#8217;s most complex scientific and technological challenges through bold research and collaboration,&#8221; said Justin Schwartz, Chancellor of the University of Colorado Boulder. &#8220;Quantum science will enable transformative advances that touch every segment of society. As quantum technologies move from the laboratory to real-world applications and space becomes increasingly critical to economic competitiveness and national security, CU Boulder is proud to help advance the convergence of these two transformative fields.&#8221;
+
+
+
+The University of Colorado Boulder brings internationally recognized expertise in both quantum science and space research to America&#8217;s Quantum Space Initiative. Home to one of the nation&#8217;s leading university-based space research enterprises and a long-standing leader in quantum research and workforce development, CU Boulder has helped advance scientific discovery from the laboratory to space missions across the solar system. The university&#8217;s contributions will help support the initiative&#8217;s efforts to accelerate quantum-enabled capabilities for future space systems.
+
+
+
+The initiative will also engage leaders from across the broader innovation, business, and policy communities. As part of that effort, America&#8217;s Quantum Space Initiative will be featured at the Impact 250 event in Washington, D.C., this September, an annual gathering of innovators, investors, policymakers, and industry leaders focused on the future of emerging technologies hosted by Type One Ventures and the Internet Marketing Organization led by Sinan Kantasiz.
+
+
+
+&#8220;America&#8217;s next frontier will not be defined by a single launch, mission, or destination, but by the strategic technologies we build into space itself,&#8221; said Sinan Kanatsiz, founder and chief executive officer of KCOMM and founder of the New Frontier. &#8220;Quantum technologies have the potential to become foundational to the next era of American leadership, enabling more capable and resilient systems that will help shape the future of space for decades to come.&#8221;
+
+
+
+&#8220;The most transformative opportunities emerge when breakthrough technologies intersect with major shifts in how industries and nations operate,&#8221; said Ryan Kriser, Partner at Type One Ventures. &#8220;The convergence of quantum and space has the potential to create entirely new capabilities, industries, and markets, and we are excited to support the innovators helping build that future.&#8221;
+
+
+
+Type One Ventures invests in the founders and technologies shaping the future space economy, supporting breakthrough innovations across space infrastructure, advanced manufacturing, defense, artificial intelligence, and other frontier technology sectors. Through its investment platform and network of industry leaders, the firm helps accelerate the development of technologies that expand human capability and drive long-term economic growth.
+
+
+
+America&#8217;s Quantum Space Initiative builds on more than a decade of progress advancing quantum technologies for space applications. Infleqtion contributed to NASA&#8217;s Cold Atom Laboratory aboard the International Space Station, the first facility to study ultracold quantum matter in orbit, and is a key partner on NASA&#8217;s Quantum Gravity Gradiometer Pathfinder mission, expected to become the world&#8217;s first quantum gravity sensor in space. Together, these efforts reflect a broader transition underway: the movement of quantum technologies from pioneering demonstrations toward operational systems capable of supporting future missions and enabling new classes of space capabilities.
+
+
+
+Through America&#8217;s Quantum Space Initiative, participants will seek to:
+
+
+
+
+Accelerate the transition of quantum technologies from demonstrations to real-world space applications.
+
+
+
+Advance quantum-enabled capabilities for future space systems through collaboration across industry, academia, and government.
+
+
+
+Strengthen U.S. leadership in quantum and space technologies through innovation, workforce development, and strategic partnerships.
+
+
+
+
+Within its first year, the initiative plans to convene leaders from industry, government, academia, and the space sector; establish the Quantum Space Hub; and identify opportunities to accelerate the development and deployment of quantum technologies for space applications. Infleqtion is also supporting emerging efforts in space-based timing and lunar communications infrastructure, contributing advanced timing technologies and next-generation communications architectures designed to support future space operations. The initiative&#8217;s long-term objective is to help position the United States as a global leader in quantum-enabled space capabilities and infrastructure.

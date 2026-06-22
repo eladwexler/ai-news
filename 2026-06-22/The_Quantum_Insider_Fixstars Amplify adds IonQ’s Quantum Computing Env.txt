@@ -1,0 +1,53 @@
+SOURCE: The_Quantum_Insider
+TITLE: Fixstars Amplify adds IonQ’s Quantum Computing Environment to its Standard Machines
+DATE: Mon, 22 Jun 2026 10:37:55 +0000
+URL: https://thequantuminsider.com/2026/06/22/fixstars-amplify-integrates-ionq-quantum-simulator/
+----------------------------------------
+
+CONTENT:
+
+
+
+Insider Brief
+
+
+
+
+Fixstars Amplify has added IonQ’s quantum simulator as a standard machine within its cloud-based optimization platform, enabling users to develop and test quantum optimization algorithms. 
+
+
+
+Amplify users can access the IonQ simulator at no additional cost, while access to IonQ’s quantum hardware is planned as a future paid offering. 
+
+
+
+The integration allows developers to use the Amplify SDK and Amplify Quantum tools to run quantum optimization workloads on IonQ’s trapped-ion quantum computing platform.
+
+
+
+
+PRESS RELEASE &#8212; Fixstars Amplify&nbsp;Corporation (President and CEO: Yoshiki Matsuda) is pleased to announce the addition of the IonQ quantum simulator, provided by IonQ, Inc. (hereinafter “IonQ”), as a standard machine for its optimization cloud service “Fixstars Amplify” (hereinafter “Amplify”). This partnership enables users to research and develop quantum optimization algorithms using both the actual quantum computers and simulators provided by IonQ through Amplify’s cloud environment. The simulator is available&nbsp; at no extra cost for Amplify account owners starting today, and access to the actual hardware is scheduled to be offered as a paid plan in the future.
+
+
+
+About IonQ’s Quantum Computers
+
+
+
+IonQ’s trapped-ion quantum computers achieve high scalability through proprietary qubit control technology, boasting an extremely high 2-qubit gate fidelity[1]&nbsp;of 99.99%. Furthermore, they feature an “all-to-all connectivity architecture” where all qubits can interact directly with each other, dramatically improving the quality of solutions when executing complex optimization algorithms. Through this, the company has achieved an industry-leading milestone with an Algorithmic Qubit (#AQ) score of 64.
+
+
+
+How to Use IonQ’s Quantum Computing Environment
+
+
+
+By using the “Fixstars Amplify SDK,” a development library that uniformly handles combinatorial optimization problems, and “Amplify Quantum,” an extension that supports quantum optimization algorithms, users can easily execute various quantum optimization algorithms using IonQ’s quantum computers (*).
+
+
+
+Users who already have an Amplify account can obtain an access token for the IonQ environment by submitting an application from the “Access Token” screen on their My Page. The cloud-based IonQ simulator is available for free starting today. Furthermore, access rights to the actual quantum computer hardware will be progressively provided under paid plans.
+
+
+
+* Requires Amplify Quantum version 1.2 or higher.

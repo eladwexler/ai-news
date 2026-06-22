@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: Congress: Lawler & Ryan Bill Creates 11-Member Quantum Computing Commission
+DATE: Mon, 22 Jun 2026 12:42:41 +0000
+URL: https://quantumzeitgeist.com/united-states-quantum-computing-commission-congress/
+----------------------------------------
+
+CONTENT:
+Representatives Lawler and Ryan introduced legislation to establish an 11-member bipartisan commission focused on evaluating advancements in quantum computing. The National Security Commission on Quantum Computing Act aims to ensure the United States maintains its technological advantage in this critical field, addressing national security, economic competitiveness, and workforce development.

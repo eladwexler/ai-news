@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: Arqit (ARQQ): A Commercial History
+DATE: Mon, 22 Jun 2026 00:00:00 +0000
+URL: https://quantumzeitgeist.com/arqit-arqq/
+----------------------------------------
+
+CONTENT:
+The commercial history of Arqit (Nasdaq: ARQQ), the British company selling quantum-safe symmetric-key encryption as software, from its 2017 founding and 2021 SPAC listing through its software pivot.

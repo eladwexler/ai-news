@@ -1,0 +1,65 @@
+SOURCE: The_Quantum_Insider
+TITLE: IQM Named as Quantum Partner in HPE Hybrid Quantum-HPC Platform
+DATE: Mon, 22 Jun 2026 13:15:35 +0000
+URL: https://thequantuminsider.com/2026/06/22/iqm-named-among-quantum-collaborators-in-hpes-new-hybrid-quantum-hpc-platform/
+----------------------------------------
+
+CONTENT:
+
+
+
+Insider Brief
+
+
+
+
+HPE has named IQM Quantum Computers as one of the collaborators contributing technology to its new hybrid classical-quantum computing platform that combines quantum systems with HPE Cray supercomputing infrastructure.
+
+
+
+IQM is providing superconducting quantum processor technology as part of HPE’s effort to integrate multiple quantum computing modalities with high-performance computing environments.
+
+
+
+The collaboration follows IQM’s recent deployment at Oak Ridge National Laboratory and supports the company’s broader strategy of integrating quantum systems into data center environments.
+
+
+
+
+PRESS RELEASE &#8212; Hewlett Packard Enterprise has named IQM Quantum Computers among the companies collaborating on its hybrid classical-quantum computing platform,&nbsp;announced&nbsp;at HPE Discover Las Vegas.
+
+
+
+IQM, a global leader in full-stack superconducting quantum computers, is contributing superconducting quantum processor technology to the effort, in which HPE is integrating multiple quantum modalities with its Cray supercomputing infrastructure.
+
+
+
+This collaboration strengthens IQM&#8217;s global expansion plans as the company&nbsp;prepares for&nbsp;its planned Nasdaq listing through a merger with Real Asset Acquisition Corp. (Nasdaq: RAAQ).
+
+
+
+For IQM, HPE&#8217;s selection places the company at the center of one of the computing industry&#8217;s most significant efforts to bring quantum and high-performance computing together, an integration widely regarded as the leading near-term path for quantum in both research and enterprise settings.
+
+
+
+Pairing quantum computers with classical supercomputers allows each to handle the workloads it is best suited for, with the quantum system acting as a specialised accelerator for problems where classical methods fall short.
+
+
+
+“IQM is relentlessly focusing on Production Quantum and scaling the adoption of quantum computing through data-center integration: the work that matters now is closing the gap between a quantum computer that runs in a lab and one that runs in a data center; being part of HPE&#8217;s platform and live at Oak Ridge is that work, for customers who own their systems,”&nbsp;said Jan Goetz, CEO and Co-founder of IQM Quantum Computers.
+
+
+
+This development follows IQM&#8217;s installation of its first on-premises quantum computer in the United States, at Oak Ridge National Laboratory — one of the world&#8217;s leading high-performance computing facilities. As with IQM&#8217;s deployments elsewhere, the customer owns and operates the full-stack system on-site, integrated with existing infrastructure — a model in which the customer controls the hardware, the data, and the intellectual property generated on the machine.
+
+
+
+IQM has sold 23 quantum systems globally to date, more than any other quantum hardware manufacturer. Among them, IQM will deliver the world&#8217;s first quantum computer to a a&nbsp;private enterprise, Galaxy Systemy Informatyczne in Poland, and will install a system with TOYO Corporation in Japan — the first enterprise to purchase a&nbsp;quantum computer&nbsp;in the country.
+
+
+
+In addition, IQM is collaborating with NVIDIA on agentic calibration, applying AI to a practical bottleneck in operating quantum systems at scale.
+
+
+
+Recently, IQM announced&nbsp;an&nbsp;upsized&nbsp;PIPE of over USD 146 million, with a new commitment from Ilmarinen, a Finnish pension giant, ahead of its Nasdaq listing — underscoring growing institutional confidence in the company.

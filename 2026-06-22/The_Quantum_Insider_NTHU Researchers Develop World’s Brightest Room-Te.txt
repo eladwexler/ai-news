@@ -1,0 +1,73 @@
+SOURCE: The_Quantum_Insider
+TITLE: NTHU Researchers Develop World’s Brightest Room-Temperature Single-Photon Source
+DATE: Mon, 22 Jun 2026 14:35:53 +0000
+URL: https://thequantuminsider.com/2026/06/22/nthu-researchers-develop-worlds-brightest-single-photon-source-for-quantum-technologies/
+----------------------------------------
+
+CONTENT:
+
+
+
+Insider Brief
+
+
+
+
+Researchers at National Tsing Hua University developed a room-temperature single-photon source that emits more than 2.3 billion photons per second, setting a new brightness record for this class of quantum devices. 
+
+
+
+The team combined perovskite quantum dots with silver nanocavity structures, achieving ultrafast emission, non-blinking operation, and a 435-fold increase in emission rate. 
+
+
+
+The technology could support future quantum communication, quantum photonics, and integrated quantum computing systems while operating without cryogenic cooling.
+
+
+
+
+PRESS RELEASE &#8212; A research team led by Professor Hao-Wu Lin from the Department of Materials Science and Engineering at National Tsing Hua University (NTHU) has developed the world’s brightest room-temperature single-photon source, which uniquely combines ultrafast and non-blinking emission. The device emits more than 2.3 billion photons per second, setting a new global benchmark and marking a significant milestone toward practical quantum communication and integrated quantum photonic chips. This breakthrough has been published in Science Advances.
+
+
+
+Quantum technologies are widely regarded as a transformative frontier with the potential to reshape communication, computing, and sensing. Around the world, including in Taiwan, governments and industries are investing heavily in the development of quantum hardware, with single-photon sources serving as one of the most fundamental enabling components. These devices generate photons one at a time, making them essential for secure quantum communication and photonic quantum information processing.
+
+
+
+“The brightness of a single-photon source directly determines the rate at which quantum information can be transmitted,” said Professor Lin. “Achieving high brightness, ultrafast emission, and stable, non-blinking operation at room temperature has remained one of the most challenging goals in quantum optoelectronics.”
+
+
+
+To overcome this challenge, the NTHU team integrated perovskite quantum dots with silver nanocubes approximately 100 nanometers in size, creating a plasmonic nanocavity that strongly enables strong light–matter interactions. One of the major obstacles was the inherent incompatibility of the two materials. Silver nanocubes must be dispersed in highly polar solvents such as alcohol, while conventional perovskite quantum dots rapidly degrade and lose their luminescence in such environments.
+
+
+
+Doctoral student Tzu-Hao Liao, the study’s first author, was responsible for quantum dot synthesis and modification, nanocavity fabrication, and optical characterization. He explained that the team employed specially designed zwitterionic ligands to encapsulate the quantum dots, effectively providing a protective molecular coating. This strategy enabled the quantum dots to withstand polar solvents while maintaining an exceptionally high photoluminescence quantum yield of 95%.
+
+
+
+The stabilized quantum dots were then embedded within a plasmonic nanocavity formed between a silver nanocube and a silver film, separated by a gap of only about 10 nanometers—roughly one ten-thousandth the diameter of a human hair. This architecture dramatically enhanced brightness.
+
+
+
+Co-author Dr. Yung-Tang Chuang, who led the photophysical analysis, explained that coupling the quantum dots to the nanocavity generated a strong Purcell effect. As a result, the emission rate increased by a factor of 435, the emission lifetime was reduced to less than 12 picoseconds, and the overall emission intensity improved by approximately 250 times compared with the uncoupled quantum dots.
+
+
+
+Professor Lin noted that the Purcell enhancement also produced an unexpected advantage. “The emission process becomes so fast that the quantum dots have little opportunity to enter non-emissive states,” he said. “This effectively eliminates the blinking behavior that has long limited the performance of single-photon sources.” Unlike many conventional semiconductor single-photon emitters that require cryogenic temperatures near absolute zero, the perovskite-based platform operates stably at room temperature, significantly reducing system complexity and cost.
+
+
+
+The source proved so bright that when the team measured it using a domestically manufactured confocal microscope modified in-house, the detector immediately became overexposed and saturated. Professor Lin compared the experience to “pointing a camera directly at the sun.” To obtain accurate measurements, the researchers had to insert multiple neutral-density filters into the optical path—effectively placing “sunglasses” on the instrument. The results confirmed that the device surpasses the previous world record for brightness by more than an order of magnitude.
+
+
+
+The breakthrough did not come easily. Dr. Yung-Tang Chuang recalled that no previous study had successfully enabled perovskite quantum dots to maintain such high performance in alcohol-based solvents. With few precedents to follow, the team explored numerous approaches, including alternative device architectures and reaction conditions, but repeatedly encountered setbacks. At several points, the researchers considered abandoning the effort altogether. Progress finally came when Chuang and first author Tzu-Hao Liao developed and optimized the zwitterionic-ligand strategy, opening a viable path toward integrating perovskite quantum dots with plasmonic nanocavities.
+
+
+
+The project was carried out entirely by the NTHU research team with support from the National Science and Technology Council (NSTC) and the Ministry of Education’s “National Featured Areas Research Center Program.” Looking ahead, Professor Lin estimates that the technology could find applications in quantum-encrypted communication within the next five years and may serve as a key building block for future quantum computers within five to ten years. The team is now developing multicolor light sources to increase communication bandwidth and is extending the technology toward infrared wavelengths compatible with optical-fiber networks.
+
+
+
+

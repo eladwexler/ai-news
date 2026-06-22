@@ -1,0 +1,1078 @@
+================================================================================
+   DAILY INTELLIGENCE DIGEST: 2026-06-22
+================================================================================
+
+Total High-Signal Articles Filtered: 33
+Irrelevant Feed Items Dropped: 17
+--------------------------------------------------------------------------------
+
+1. TITLE: NTHU Researchers Develop World’s Brightest Room-Temperature Single-Photon Source
+   SOURCE: The_Quantum_Insider | DATE: Mon, 22 Jun 2026 14:35:53 +0000
+   URL: https://thequantuminsider.com/2026/06/22/nthu-researchers-develop-worlds-brightest-single-photon-source-for-quantum-technologies/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Insider Brief
+      Researchers at National Tsing Hua University developed a room-temperature
+      single-photon source that emits more than 2.3 billion photons per second,
+      setting a new brightness record for this class of quantum devices.
+      The team combined perovskite quantum dots with silver nanocavity
+      structures, achieving ultrafast emission, non-blinking operation, and a
+      435-fold increase in emission rate.
+      The technology could support future quantum communication, quantum
+      photonics, and integrated quantum computing systems while operating
+      without cryogenic cooling.
+      PRESS RELEASE — A research team led by Professor Hao-Wu Lin from the
+      Department of Materials Science and Engineering at National Tsing Hua
+      University (NTHU) has developed the world’s brightest room-temperature
+      single-photon source, which uniquely combines ultrafast and non-blinking
+      emission. The device emits more than 2.3 billion photons per second,
+      setting a new global benchmark and marking a significant milestone toward
+      practical quantum communication and integrated quantum photonic chips.
+      This breakthrough has been published in Science Advances.
+      Quantum technologies are widely regarded as a transformative frontier with
+      the potential to reshape communication, computing, and sensing. Around the
+      world, including in Taiwan, governments and industries are investing
+      heavily in the development of quantum hardware, with single-photon sources
+      serving as one of the most fundamental enabling components. These devices
+      generate photons one at a time, making them essential for secure quantum
+      communication and photonic quantum information processing.
+      “The brightness of a single-photon source directly determines the rate at
+      which quantum information can be transmitted,” said Professor Lin.
+      “Achieving high brightness, ultrafast emission, and stable, non-blinking
+      operation at room temperature has remained one of the most challenging
+      goals in quantum optoelectronics.”
+      To overcome this challenge, the NTHU team integrated perovskite quantum
+      dots with silver nanocubes approximately 100 nanometers in size, creating
+      a plasmonic nanocavity that strongly enables strong light–matter
+      interactions. One of the major obstacles was the inherent incompatibility
+      of the two materials. Silver nanocubes must be dispersed in highly polar
+      solvents such as alcohol, while conventional perovskite quantum dots
+      rapidly degrade and lose their luminescence in such environments.
+      Doctoral student Tzu-Hao Liao, the study’s first author, was responsible
+      for quantum dot synthesis and modification, nanocavity fabrication, and
+      optical characterization. He explained that the team employed specially
+      designed zwitterionic ligands to encapsulate the quantum dots, effectively
+      providing a protective molecular coating. This strategy enabled the
+      quantum dots to withstand polar solvents while maintaining an
+      exceptionally high photoluminescence quantum yield of 95%.
+      The stabilized quantum dots were then embedd... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+2. TITLE: Palacký University Team Identifies Hot Quantum Probes for Enhanced Displacement Sensing
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 15:44:00 +0000
+   URL: https://quantumzeitgeist.com/quantum-probes-enhance-displacement-sensing-bosonic-systems/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      A displacement sensitivity scaling from 4/(2nth + 1) to approximately
+      4(2nth + 1) reveals a counterintuitive finding: hotter quantum states can
+      outperform fully cooled systems in precision sensing. This challenges the
+      conventional wisdom demanding near-ground-state cooling for quantum
+      enhancement. Such a shift promises to broaden access to quantum sensing
+      technologies by reducing complex experimental requirements.
+
+--------------------------------------------------------------------------------
+
+3. TITLE: Fraunhofer IPMS Unveils Quantum Random Number Generator to Deliver True Randomness
+   SOURCE: The_Quantum_Insider | DATE: Mon, 22 Jun 2026 10:34:58 +0000
+   URL: https://thequantuminsider.com/2026/06/22/fraunhofer-ipms-unveils-quantum-random-number-generator-to-deliver-true-randomness/
+   MATCHED PILLARS: [PHYSICAL INFRASTRUCTURE, QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Insider Brief
+      Fraunhofer IPMS announced Q-Dice, a quantum random number generator that
+      uses quantum vacuum fluctuations to produce true random numbers at rates
+      above 4 Gbit/s for security-critical applications.
+      The system has been evaluated under BSI AIS 20/31 and NIST SP 800-22
+      testing frameworks and is classified at EAL 3 and PTG 3.
+      Q-Dice is available as a 19-inch rack-mounted hardware appliance or
+      through an online Entropy-as-a-Service platform for cloud-based access to
+      quantum-generated randomness.
+      Image: Dr. Alexander Noack and the QRNG R19” demonstrator. (Fraunhofer
+      IPMS)
+      PRESS RELEASE — Fraunhofer Institute for Photonic Microsystems IPMS
+      announces Q‑Dice, a high‑performance Quantum Random Number Generator
+      (QRNG) that generates randomness based on quantum vacuum fluctuations. The
+      system delivers true random numbers at bit rates exceeding 4 Gbit/s based
+      on intrinsically random and uncontrollable quantum effects. Unlike
+      existing approaches, Q-Dice does not rely on potentially vulnerable
+      algorithms and enables significantly higher data rates, making it
+      particularly well suited for security-critical applications. The quality
+      of the generated randomness has been validated through established and
+      internationally recognized testing frameworks, including BSI AIS 20/31 and
+      the NIST SP 800-22 test suite.
+      True randomness is a fundamental requirement for modern cryptographic and
+      security systems, where weak or predictable random number generators can
+      introduce vulnerabilities in encryption and authentication. By measuring
+      inherently unpredictable quantum vacuum fluctuations, Q‑Dice developed by
+      Fraunhofer IPMS generates quantum entropy suitable for a wide range of
+      applications, including secure communication, data encryption (e.g., via
+      QKD or PQC), authentication and access management, as well as high‑scale
+      simulation. The system is designed with a strong focus on security
+      requirements. It complies with the stringent standards of the German
+      Federal Office for Information Security (BSI) according to AIS 20/31 and
+      is classified at EAL 3 (Evaluation Assurance Levels) as well as PTG 3
+      (Physical True Random Number Generator), providing important evidence of
+      the system’s security.
+      “With Q-Dice, we make high-quality quantum randomness practically usable
+      and accessible,” says Dr. Alexander Noack, Division Director Data
+      Communication & Computing at Fraunhofer IPMS. “Whether as a robust 19-inch
+      rack system integrated into your own infrastructure or via our online
+      Entropy-as-a-Service platform, we are removing the barriers to adopting
+      quantum-level security.”
+      Fraunhofer IPMS QRNG Competencies
+      To ensure maximum reliability, Fraunhofer IPMS maintains all key
+      competencies in‑house, enabling end‑to‑end development from photonics to
+      system integration:
+      Laser and optical front‑end design for stable quantum‑noise generation and
+      control
+      Low‑noise analog front-end (AFE) enabling detection of quantum vacuum
+      fluctuations
+      H... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+4. TITLE: Twisting Quantum Potential Into Reality
+   SOURCE: The_Quantum_Insider | DATE: Mon, 22 Jun 2026 07:42:47 +0000
+   URL: https://thequantuminsider.com/2026/06/22/twisting-quantum-potential-into-reality/
+   MATCHED PILLARS: [ROBOTICS, QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Insider Brief
+      UTS researchers and collaborators developed a twist-based method for
+      controlling quantum light sources in hexagonal boron nitride, advancing a
+      key building block for practical quantum technologies.
+      The team showed that picking up, twisting and restacking layered hBN could
+      significantly shift the colour and wavelength of emitted quantum light.
+      The researchers said the approach could support future applications in
+      quantum computing, secure communications, quantum sensing, healthcare,
+      cybersecurity and improved GPS.
+      Image: Photo by Sean Sinclair on Unsplash
+      PRESS RELEASE — In a paper published in Science Advances, researchers at
+      the University of Technology Sydney (UTS) in collaboration with the
+      University of Minnesota and Kyung Hee University have found a new way to
+      control quantum light sources, which is one of the key elements needed
+      before quantum technologies can be used reliably in real-world systems.
+      Lead author Dr Angus Gale says the research gives scientists a new control
+      mechanism for tiny quantum light sources, bringing them a step closer to
+      being used in practical quantum technologies such as quantum computing,
+      secure communication and ultra-sensitive sensing.
+      “You can measure these quantum emitters and see that they exist, but it’s
+      hard to make them work in practice. This gives us a lever to get closer to
+      that – a step towards the realisation of quantum technologies,” said Dr
+      Gale.
+      In experiments, Gale and his colleagues were able to shift the colour and
+      wavelength of the emitted light by a significant amount, with the size of
+      the shift notable. Unlike many experiments where a device is made at one
+      twist angle and left alone, they were able to pick up, twist and restack
+      the material repeatedly, which was an unusual finding.
+      “We’re leveraging the fact that this material, hexagonal boron nitride
+      (hBN), is layered. We can pick it up, stack it, twist it, and use that
+      twist to modify the emitters. You can’t really do that with traditional
+      materials like diamond or silicon carbide.”
+      “The benefit is that we used this twistable platform to shift the emission
+      by a very significant amount,” said Gale. “Often when you control these
+      systems, the amount of manipulation is very limited, but in this case the
+      shift was much larger than expected.
+      “Rather than trying to make hBN defects behave like a traditional solid-
+      state hosts, we took advantage of hBN’s own strength: its thin, layered,
+      twistable structure.”
+      Gale describes the material as similar to thin slices of cheese rather
+      than a solid block.
+      “With a block of cheese, you can’t really get to the flavour in the
+      middle. But with slices, you can peel away layers, put them back together
+      and change how they interact,” he said.
+      Supervising author Professor Igor Aharonovich explains that twisting
+      layered materials is exciting because it can unlock new physics.
+      “You can take two layers that don’t do much on their own, put them
+      togeth... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+5. TITLE: Fixstars Amplify adds IonQ’s Quantum Computing Environment to its Standard Machines
+   SOURCE: The_Quantum_Insider | DATE: Mon, 22 Jun 2026 10:37:55 +0000
+   URL: https://thequantuminsider.com/2026/06/22/fixstars-amplify-integrates-ionq-quantum-simulator/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Insider Brief
+      Fixstars Amplify has added IonQ’s quantum simulator as a standard machine
+      within its cloud-based optimization platform, enabling users to develop
+      and test quantum optimization algorithms.
+      Amplify users can access the IonQ simulator at no additional cost, while
+      access to IonQ’s quantum hardware is planned as a future paid offering.
+      The integration allows developers to use the Amplify SDK and Amplify
+      Quantum tools to run quantum optimization workloads on IonQ’s trapped-ion
+      quantum computing platform.
+      PRESS RELEASE — Fixstars Amplify Corporation (President and CEO: Yoshiki
+      Matsuda) is pleased to announce the addition of the IonQ quantum
+      simulator, provided by IonQ, Inc. (hereinafter “IonQ”), as a standard
+      machine for its optimization cloud service “Fixstars Amplify” (hereinafter
+      “Amplify”). This partnership enables users to research and develop quantum
+      optimization algorithms using both the actual quantum computers and
+      simulators provided by IonQ through Amplify’s cloud environment. The
+      simulator is available  at no extra cost for Amplify account owners
+      starting today, and access to the actual hardware is scheduled to be
+      offered as a paid plan in the future.
+      About IonQ’s Quantum Computers
+      IonQ’s trapped-ion quantum computers achieve high scalability through
+      proprietary qubit control technology, boasting an extremely high 2-qubit
+      gate fidelity[1] of 99.99%. Furthermore, they feature an “all-to-all
+      connectivity architecture” where all qubits can interact directly with
+      each other, dramatically improving the quality of solutions when executing
+      complex optimization algorithms. Through this, the company has achieved an
+      industry-leading milestone with an Algorithmic Qubit (#AQ) score of 64.
+      How to Use IonQ’s Quantum Computing Environment
+      By using the “Fixstars Amplify SDK,” a development library that uniformly
+      handles combinatorial optimization problems, and “Amplify Quantum,” an
+      extension that supports quantum optimization algorithms, users can easily
+      execute various quantum optimization algorithms using IonQ’s quantum
+      computers (*).
+      Users who already have an Amplify account can obtain an access token for
+      the IonQ environment by submitting an application from the “Access Token”
+      screen on their My Page. The cloud-based IonQ simulator is available for
+      free starting today. Furthermore, access rights to the actual quantum
+      computer hardware will be progressively provided under paid plans.
+      * Requires Amplify Quantum version 1.2 or higher.
+
+--------------------------------------------------------------------------------
+
+6. TITLE: Scientists Introduce a Parallel CSEU Protocol for Unitary Channel Estimatio
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 14:56:00 +0000
+   URL: https://quantumzeitgeist.com/classical-shadow-estimation-unitary-channel-protocol/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Can we accurately predict all behaviours of a quantum process using fewer
+      measurements than previously thought possible? A new protocol achieves
+      optimal estimation of unknown quantum evolutions with just O(dε−1)
+      queries, closing the efficiency gap between parallel and sequential
+      tomography. This advance unlocks improved performance across multiple
+      quantum learning tasks, from channel tomography to amplitude estimation.
+
+--------------------------------------------------------------------------------
+
+7. TITLE: University of Jyväskylä Team Presents Confidence-Based Protocol for Nonlocality Without Entanglement
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 18:13:07 +0000
+   URL: https://quantumzeitgeist.com/confidence-based-protocol-for-nonlocality-without-entanglement/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Can a quantum system exhibit nonlocality, seemingly instantaneous
+      correlation, without the resource of entanglement. Measurements now
+      confirm it can, by focusing on the confidence placed in detecting an event
+      rather than the states themselves. This allows for a semi-device-
+      independent certification of this nonlocality using existing, imperfect
+      quantum technology.
+
+--------------------------------------------------------------------------------
+
+8. TITLE: NVIDIA releases Halos, a full-stack safety system for robotics
+   SOURCE: The_Robot_Report | DATE: Mon, 22 Jun 2026 15:01:24 +0000
+   URL: https://www.therobotreport.com/nvidia-releases-halos-a-full-stack-safety-system-for-robotics/
+   MATCHED PILLARS: [ROBOTICS]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Agility Robotics is the first to use NVIDIA Halos for Robotics to build
+      safety into its humanoids working in factories, warehouses, and logistics
+      operations for customers including Amazon, GXO, Schaeffler, and Toyota
+      Motor Manufacturing Canada. | Source: NVIDIA
+      NVIDIA today launched NVIDIA Halos for Robotics. This is a full-stack,
+      comprehensive safety system for robotics and physical AI that unifies AI
+      compute and safety.
+      NVIDIA said autonomous robots will need AI foundation models, accelerated
+      compute, and distributed sensors to operate in dynamic environments
+      alongside humans. Scaling these systems requires a full-stack safety
+      architecture.
+      NVIDIA said Halos enables companies to rely on a standardized, unified
+      safety architecture that connects AI compute, system software, sensor
+      data, safety applications, and inspection for robotic systems.
+      “Physical AI is transforming how factories, warehouses, and logistics
+      operations work, and robotics teams need a unified safety architecture to
+      scale autonomous systems into these environments,” said Deepu Talla, the
+      vice president of robotics and edge AI at NVIDIA. “With NVIDIA Halos for
+      Robotics, developers and system builders can harness NVIDIA’s proven
+      autonomous vehicle safety foundation to develop safer robots faster and
+      bring them into industrial operations alongside workers with greater
+      confidence.”
+      NVIDIA Halos Core for NVIDIA IGX is available in early access for
+      registered developers in Linux and Linux plus QNX configurations. The open
+      source NVIDIA Halos Outside-In Safety Blueprint, part of the Halos
+      Applications layer of Halos OS, is now available in early access on
+      GitHub.
+      NVIDIA brings safety to the entire software stack
+      To create Halos, NVIDIA drew on over 18,600 engineering years of
+      autonomous vehicle safety development. Halos for Robotics provides
+      developers with a common safety architecture for building, validating, and
+      deploying physical AI systems.
+      The system spans the key layers needed for robot safety. NVIDIA IGX Thor
+      and NVIDIA Holoscan Sensor Bridge provide industrial-grade AI compute,
+      built-in safety, and sensor connectivity for real-time robotics and safety
+      workloads.
+      NVIDIA Halos OS provides the software stack for robotics safety. This
+      includes Halos Core to support safety-related operating functions and
+      safety applications built with the NVIDIA Halos Outside-In Safety
+      Blueprint. NVIDIA said this program extends robot perception using
+      external cameras and AI agents to dynamically control robot behavior in
+      industrial settings.
+      The NVIDIA Halos AI Systems Inspection Lab is an ANSI National
+      Accreditation Board (ANAB)-accredited program for physical AI functional
+      and AI safety. It helps partners prepare Halos integrations for third-
+      party certification by leading certification bodies. These include TÜV
+      Rheinland, UL Solutions, TÜV SÜD, exida, SGS, and CertX.
+      NVIDIA builds Halos with scale in mind
+      The NVIDIA Halos for Robotics ecosystem brings together partners across
+      softwa... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+9. TITLE: Allstate Applies Knapsack Problem to Home Insurance Risks
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 05:27:01 +0000
+   URL: https://quantumzeitgeist.com/knapsack-problem-allstate-applies-home/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Allstate and IBM are exploring quantum computing to improve insurance
+      portfolio construction and address complex, correlated risks within the
+      industry. Their work focuses on applying the “knapsack problem” – finding
+      optimal combinations under constraints – to better balance risk and meet
+      customer needs in areas like home insurance.
+
+--------------------------------------------------------------------------------
+
+10. TITLE: Algorithms Improve Solutions Beyond Random Guessing with a One over Root D Scaling
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 12:59:00 +0000
+   URL: https://quantumzeitgeist.com/algorithms-xorsat-scaling-beyond-random-assignment/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Polynomial-time algorithms can improve upon random guessing for certain
+      complex problems by an amount scaling as 1/√D, but achieving better than
+      this has now been proven impossible. This work establishes a definitive
+      limit for solving max-LINSAT over finite fields, demonstrating that
+      exceeding r/q + Oq,r(1/√D) is NP-hard. Consequently, quantum decoders are
+      revealed as essential for fully realising the potential of decoded quantum
+      interferometry, bypassing a 1/√D log D barrier faced by classical
+      approaches.
+
+--------------------------------------------------------------------------------
+
+11. TITLE: AION: 95% of Universe Remains a Mystery, Quantum Sensors May Help
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 05:16:26 +0000
+   URL: https://quantumzeitgeist.com/quantum-sensors-help-aion-universe/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Researchers are working to build large-scale quantum sensors that may help
+      solve the mystery of dark matter and dark energy, which together
+      constitute approximately 95% of the Universe. These sensors aim to detect
+      subtle effects these phenomena have on atoms, requiring extremely precise
+      measurements to overcome background noise.
+
+--------------------------------------------------------------------------------
+
+12. TITLE: Mask Economics Shape High-NA EUV Adoption
+   SOURCE: Semiconductor_Engineering | DATE: Mon, 22 Jun 2026 07:01:56 +0000
+   URL: https://semiengineering.com/mask-economics-shape-high-na-euv-adoption/
+   MATCHED PILLARS: [SILICON HARDWARE, SUPPLY CHAIN CHOKEPOINTS]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Key Takeaways:
+      Mask costs are not stopping leading-edge scaling, but they increasingly
+      influence design, node, and process choices.
+      High-NA EUV will tighten requirements for CD, EPE, local CDU, mask 3D
+      modeling, stitching, and materials.
+      Reduced depth of focus in High-NA EUV will drive new resist, etch, film,
+      and absorber approaches.
+      Experts at the table: Semiconductor Engineering sat down to discuss new
+      mask technology challenges with Aki Fujimura, CEO at D2S; Glen Scheid,
+      operations manager at Micron; Harry Levinson, principal lithographer at
+      HJL Lithography; Germain Fenger, senior director of product management at
+      Synopsys; and Rich Wise, vice president at Lam Research. What follows are
+      excerpts of that conversation. To read part one of this discussion, click
+      here. Part two is here.
+      L-R: D2S’ Fujimura; Micron’s Scheid; HJL’s Levinson; Synopsys’ Fenger, and
+      Lam Research’s Wise.
+      SE: EUV mask writing is time-consuming and expensive. The masks themselves
+      are expensive, the number per device continues to grow, and they get used
+      up faster. How sustainable is the current mask model, and are mask
+      economics beginning to influence design decisions to limit mask
+      consumption?
+      Fujimura: The number of masks was really exploding, over 100 in some
+      cases, before EUV came in around the 7nm era. That’s actually gotten
+      better now, because EUV can do in single patterning what 193nm requires
+      double or even triple patterning to do. In regions where EUV is not
+      available, companies would have to consider triple or quadruple patterning
+      to go to 7nm or below.
+      The market has bifurcated. There are many companies that, even if they can
+      buy an EUV machine, choose not to because their business plan for that fab
+      or foundry is to focus on lower cost. There are plenty of electronics you
+      can do at 28nm. You don’t even have to go down to 14nm. The industry has
+      already figured out which applications can afford EUV and which
+      applications don’t need it, and there are many successful fabs that
+      specialize in not doing the leading edge.
+      For the leading edge, it’s worth it. At a recent GTC, Jensen Huang said he
+      can see $1 trillion worth of GPU orders, up from $500 billion six months
+      ago. That’s what will continue to fund this. What AI did was to provide a
+      proof point that there is a way for software to use tremendous amounts of
+      compute power and do more valuable things — not just faster, but more
+      valuable. That’s why people are buying up nuclear power plants to power AI
+      factories. Compared to that, the cost of EUV is nothing. What’s happening
+      in AI has also translated into our field. We’ve figured out that with more
+      compute power, we can do so much better. And that means there should be
+      more investment in compute, because it’s worth it. It is more expensive,
+      but for segments of the industry where the leading edge is necessary, it
+      is necessary, and it’s the cheapest way to achieve it. The high-NA machine
+      is projected to cost $350 million per unit. That’s extraordinary, but i...
+      [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+13. TITLE: Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI
+   SOURCE: Import_AI | DATE: Mon, 22 Jun 2026 12:31:45 +0000
+   URL: https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/
+   MATCHED PILLARS: [SILICON HARDWARE, PHYSICAL INFRASTRUCTURE, ROBOTICS]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Welcome to Import AI, a newsletter about AI research. Import AI runs on
+      arXiv, cappuccinos, and feedback from readers. If you’d like to support
+      this, please subscribe.
+      Subscribe now
+      AI can decisively out-persuade humans:…“AI systems were reliably more
+      persuasive than expert humans”…Researchers with the University of Oxford,
+      UK AI Security Institute, Stanford University, and the London School of
+      Economics and Political Science, have studied how well AI systems can
+      persuade humans to change their minds around policy issues and change how
+      much money they might donate to charity. The results are definitive:
+      across four experiments involving 18,978 conversations across 6,923
+      people, AI systems are, today, better than humans at text-based persuasion
+      with real world consequences – though humans can be equivalent to them if
+      we place some artificial constraints on the AI systems.   “AI systems were
+      reliably more persuasive than expert humans, even when expert humans chose
+      their issues, researched in advance, underwent hours of live, structured
+      practice, and were incentivized with £1,000 cash bonuses”, they write.
+      “AI’s advantage stemmed from rapidly deploying larger quantities of
+      information: after coaching, expert humans could tie an AI constrained to
+      respond at human speeds and with human-length messages.”   “AI’s advantage
+      extends to consequential real-world behavior: AI was nearly 3x more
+      effective than professional canvassers from a UK fundraising firm at
+      raising real-money donations to Save the Children.”    The strongest
+      persuaders were Opus 4.1 and Opus 4.6, followed by a range of models from
+      OpenAI (GPT-4o and GPT-5.4), Google (Gemini 2.5 Pro), and xAI (Grok 4.20).
+      What they studied and what they found: The researchers evaluated the AI
+      systems in four different studies.Study 1 – persuasion: “Persuadees first
+      rated their agreement with one of 10 prespecified UK policy stances on a
+      0–100 scale, then were randomized in real time (via a custom multiplayer
+      platform) to engage in a text conversation with either an AI or a human
+      persuader,” they write. “The results from Study 1 show that, on average,
+      AI exceeded every class of human persuader we tested: random laypeople,
+      tournament-selected laypeople, and even elite debaters.”
+      Study 2 – human coaching: In study 2, the researchers “gave 43 returning
+      Elite Debaters a coaching tool built around the AI that had beaten them.
+      The tool let debaters chat with the AI, see how it had been prompted, view
+      their own Study 1 transcripts annotated with how much each conversation
+      had shifted the persuadee’s attitude, and let them see, for any point in
+      any past transcript, what the AI would have said in their place”. The
+      results of this study were an improvement in the performance of the
+      humans, but none of them were better than the AI. “Coaching therefore
+      narrowed but did not close the human–AI gap.”
+      Study 3 – constrained AI: Next, the researchers sought to limit the AI to
+      try and give humans more of an advant... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+14. TITLE: CETQAP: PKTron v9.0.0 Ships With 180+ Public Classes, 45+ Modules
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 08:03:39 +0000
+   URL: https://quantumzeitgeist.com/pktron-v9-cetqap-v900-ships/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      CETQAP has released PKTron v9.0.0, a comprehensive quantum computing
+      software developed in South Asia, marking a milestone for Pakistan’s
+      quantum technology ecosystem. This latest version includes new research
+      systems, NEQ and NEF, and expands into areas like simulation, machine
+      learning, and cryptography.
+
+--------------------------------------------------------------------------------
+
+15. TITLE: Three things to watch amid Anthropic’s latest feud with the government
+   SOURCE: MIT_Tech_Review_AI | DATE: Mon, 22 Jun 2026 18:00:00 +0000
+   URL: https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/
+   MATCHED PILLARS: [SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      This story originally appeared in The Algorithm, our weekly newsletter on
+      AI. To get stories like this in your inbox first, sign up here.
+      For those of you enjoying your summer unaware of Anthropic’s latest feud
+      with the US government, here’s a recap: In April the company said it had
+      built an AI model called Mythos that was so good at working with code it
+      could pose a global cybersecurity threat. Anthropic gave access to a small
+      group of cybersecurity experts so they could see what they were up
+      against. Then it released a modified version called Fable which it said
+      was safer to the public on Tuesday, June 9. That Friday, the federal
+      government told the company it was a threat to national security and
+      placed export controls on the new release. Anthropic revoked access to
+      both models hours later.
+      People worried about catastrophic effects of AI—broadly labeled
+      “doomers”—have said for years that the technology poses a threat to
+      humanity and published proposals for how the government should intervene
+      in its development. The doomers just got their government intervention—not
+      over a bioweapon or rogue AI, but in response to an AI model that’s
+      basically just really good at coding. And the result so far looks less
+      like a safety plan than like a superficial reaction.
+      There’s plenty to dissect about what happened in those few days that led
+      to such drastic action from the government, and it’s notable that Amazon
+      CEO Andy Jassy was the one who told government officials that Fable would
+      be dangerous (Amazon is both invested in Anthropic and building its own
+      competing AI models). It’s also possible this will be a short-lived ban
+      from the government that doesn’t survive legal scrutiny (it’s not clear
+      that Anthropic’s offering access to Fable really counts as “exporting” it,
+      for example). 
+      But there are ripple effects happening already. 
+      For one, this is making a whole lot of people not want to rely on American
+      AI companies. TheFrench politician Bruno Retailleau described it as a
+      “wake-up call” that should motivate Europe to build more AI. But any
+      vision of turning Paris into Silicon Valley—touted by many other European
+      leaders following the shutdown of Anthropic’s models—is complicated by one
+      big thing: China. 
+      Open-source models from China are very capable and incredibly cheap, and
+      they can be downloaded to run on anyone’s servers with no rules or
+      guardrails. (This makes them attractive to companies that don’t want
+      access turned off on the basis of a decision from the White House—but
+      equally attractive to cybercriminals, the type that Anthropic hoped to
+      fend off by building safety guardrails into its models.) 
+      It’s possible that companies, including those in the US and Europe, will
+      decide that working with Chinese models is just easier, as the
+      skyrocketing of shares in the Chinese startup Zhipu suggests. Playing this
+      forward, is it possible the government’s next drastic decision will be to
+      say that US companies using models from Chi... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+16. TITLE: Researchers Develop New Quantum Feature Map for Machine Learning
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 13:17:00 +0000
+   URL: https://quantumzeitgeist.com/quantum-feature-maps-two-qubit-hamiltonian-implementation/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Generalized two-qubit Hamiltonians now deliver the most consistent,
+      statistically supported improvements over classical machine learning,
+      despite variations in dataset and hardware. Previous methods relied on
+      limited Hamiltonian families, hindering the potential for dense data
+      encoding within shallow quantum circuits. This new construction embeds
+      distinct variables on the same qubit, offering a practical pathway towards
+      utilising current quantum devices.
+
+--------------------------------------------------------------------------------
+
+17. TITLE: Arqit (ARQQ): A Commercial History
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 00:00:00 +0000
+   URL: https://quantumzeitgeist.com/arqit-arqq/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      The commercial history of Arqit (Nasdaq: ARQQ), the British company
+      selling quantum-safe symmetric-key encryption as software, from its 2017
+      founding and 2021 SPAC listing through its software pivot.
+
+--------------------------------------------------------------------------------
+
+18. TITLE: Cobot’s Proxie Gen 2 robot adds autotasking, mobile manipulation
+   SOURCE: The_Robot_Report | DATE: Mon, 22 Jun 2026 12:59:51 +0000
+   URL: https://www.therobotreport.com/cobots-proxie-gen-2-robot-adds-autotasking-mobile-manipulation/
+   MATCHED PILLARS: [SILICON HARDWARE, ROBOTICS]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Collaborative Robtics’ Proxie 2.0 offers bimanual manipulation and
+      autotasking. | Credit: Collaborative Robotics
+      Collaborative Robotics (Cobot) unveiled the second-generation version of
+      its Proxie mobile robot, adding greater payload capacity, self-swapping
+      batteries, autonomous task identification, and a new two-armed
+      manipulation option as the company looks to expand deployments across
+      healthcare, logistics, and manufacturing.
+      The Santa Clara, Calif.-based company introduced Proxie Gen 2 at Automate
+      2026, positioning the system as a production-proven mobile manipulator.
+      “For decades, deploying robots has meant choosing between mobility and
+      dexterity, and always required custom software integration,” said
+      Collaborative Robotics founder and CEO Brad Porter. “Our second-generation
+      Proxie brings all of that together in one platform we designed end-to-
+      end.”
+      Lessons from field shape Proxie Gen 2
+      Cobot has spent the past two years quietly gathering operational data from
+      customer deployments. According to the company, 28 Proxie robots have
+      accumulated nearly 13,000 operating hours, traveled more than 22,000
+      miles, moved over 154,000 carts, and saved workers millions of steps. The
+      robots have been deployed in environments ranging from hospitals and
+      laboratories to manufacturing and logistics facilities.
+      Porter said the company intentionally prioritized field deployments over
+      publicity.
+      “Our strategy has been to get into the field and run hours,” he told The
+      Robot Report. “You have to go through multiple generations of hardware to
+      harden it. Until you put up numbers in production, you don’t know where
+      the stresses and breaks are.”
+      One notable deployment has been at the Mayo Clinic, where Proxie
+      transports materials throughout the facility, supporting workflows ranging
+      from laboratory operations to food services and medical equipment
+      handling.
+      The experience generated more than 500 design insights that informed the
+      redesign of nearly every subsystem in Gen 2. While key architectural
+      elements such as the robot’s high-mounted sensor suite, vertical spine,
+      swerve drive, and battery-swapping capabilities remain, Porter said the
+      company rebuilt the platform from the ground up to improve reliability and
+      manufacturability.
+      The result is a robot with 40% fewer parts, a smaller footprint for
+      navigating tight hallways and elevators, and greater strength. Gen 2 can
+      move carts weighing up to 1,500 lb. and lift up to 220 lb. on its vertical
+      spine.
+      The company also upgraded the sensing package with additional lidar
+      capabilities designed to support future safety certification efforts.
+      Submit your session idea for the 2026 RoboBusiness
+      AI enables autonomous task discovery
+      The most significant advancement may be Proxie’s growing ability to
+      identify work on its own. Cobot calls the capability “autotasking.” Rather
+      than relying on integrations with warehouse management systems, hospital
+      software, or human dispatchers, Proxie builds what the company calls a
+      rea... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+19. TITLE: Quantum Measurement Achieves 83% Accuracy Without Entangling Gates
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 14:29:00 +0000
+   URL: https://quantumzeitgeist.com/quantum-measurement-decoding-achieves-83-percent-accuracy/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Optimal Quantum Measurement Decoding delivers 83. 33% accuracy on the Iris
+      benchmark using zero two-qubit gates. This surpasses previous multiclass
+      quantum classification results achieved with 18 CNOT gates, which peaked
+      at 56.
+
+--------------------------------------------------------------------------------
+
+20. TITLE: Researchers Find Universal Time Quantization in Higher-Dimensional Quantum Evolution
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 13:58:00 +0000
+   URL: https://quantumzeitgeist.com/quantum-systems-higher-dimensional-time-quantization-evolution/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Quantized return times, previously understood only for quantum walks in
+      one dimension, now extend to higher dimensional spaces. This work
+      demonstrates that mean return time remains quantized even under complex,
+      multi-channel monitoring using rank-K projections. The finding suggests a
+      more general principle governing time measurement in quantum systems.
+
+--------------------------------------------------------------------------------
+
+21. TITLE: LFI Appoints Defense and Manufacturing Operator Michael Datta to Board of Advisors
+   SOURCE: The_Quantum_Insider | DATE: Mon, 22 Jun 2026 09:45:36 +0000
+   URL: https://thequantuminsider.com/2026/06/22/lfi-appoints-defense-and-manufacturing-operator-michael-datta-to-board-of-advisors/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Insider Brief
+      LFI has appointed Michael Datta, co-founder and Chief Strategy Officer of
+      Ares Armaments, to its Board of Advisors to strengthen its commercial and
+      operational expertise.
+      Datta brings experience in defense, advanced manufacturing, strategic
+      partnerships, and company growth across the Australia-U.S. technology
+      corridor.
+      His advisory role will focus on helping translate LFI’s quantum governance
+      and economic strategy frameworks into client, partner, and investor
+      engagement opportunities.
+      PRESS RELEASE — LFI (www.lfiusa.com), the world’s first industrial quantum
+      management firm, today announced the appointment of Michael Datta to its
+      Board of Advisors, effective June 20, 2026. The appointment brings to LFI
+      an operator’s perspective built across more than two decades of founding,
+      scaling, and advising companies, complementing the firm’s existing
+      advisory bench with hands-on commercial execution experience.
+      Mr. Datta is Co-Founder and Chief Strategy Officer at Ares Armaments, an
+      Australia-based precision munitions and counter-drone systems company
+      engaged with Australian, US and allied defense and law enforcement
+      clients, and Strategic Advisor at Noosa Partners, a cross-border
+      Australia-US advisory firm connecting founders and executive teams with
+      family offices, venture capital, and private equity partners across
+      advanced systems, defense, and emerging technology ventures. For LFI’s
+      clients in defense and advanced manufacturing, sectors where commercial
+      execution and capital access determine whether a quantum governance
+      strategy actually translates into competitive advantage, Mr. Datta’s
+      operating track record is a direct and practical asset.
+      He brings a career built on identifying high-value partnerships and
+      translating strategic relationships into measurable business outcomes,
+      with experience spanning technology, consumer, and defense industry
+      ventures from early formation through commercial growth. At Ares
+      Armaments, he has built the strategic partnerships and market access that
+      have driven the company’s growth within Australia’s sovereign
+      manufacturing base. He also serves on the boards of Limitless Aeronautics,
+      AcudocX and Lindo Life Sciences.
+      For industrial manufacturers evaluating LFI as their quantum governance
+      partner, Mr. Datta’s appointment signals a firm that pairs deep economic
+      and technical authority with the operating discipline required to convert
+      strategy into revenue. For investors, it reflects LFI’s deliberate
+      approach to building an Advisory Board that combines institutional
+      credibility with hands-on commercial execution, as demand accelerates for
+      vendor-independent quantum leadership across global industrial markets.
+      “Michael has spent two decades doing the hard, unglamorous work of turning
+      strategy into traction, building partnerships, opening doors, and scaling
+      businesses from the ground up,” said Shayne De la Force, Managing Partner
+      and Chief Executive Officer of LFI. “That op... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+22. TITLE: Europe Expands Quantum-GPU Computing as NVIDIA Announces 35 New AI Supercomputers
+   SOURCE: The_Quantum_Insider | DATE: Mon, 22 Jun 2026 14:06:57 +0000
+   URL: https://thequantuminsider.com/2026/06/22/europe-expands-quantum-gpu-computing-as-nvidia-announces-35-new-ai-supercomputers/
+   MATCHED PILLARS: [SILICON HARDWARE, QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Insider Brief
+      NVIDIA said Europe is expanding its quantum-GPU and AI supercomputing
+      infrastructure through 35 new systems across 23 countries, providing
+      advanced computing resources to more than 3 million researchers.
+      European research centers including CINECA, Fraunhofer FOKUS, the
+      Barcelona Supercomputing Center and the Jülich Supercomputing Centre are
+      integrating quantum hardware and software platforms to support hybrid
+      quantum-classical computing applications.
+      The broader buildout includes major AI factory deployments, climate and
+      energy research initiatives, and approximately 800 AI exaflops of
+      computing capacity that have been deployed or announced across Europe
+      since last year.
+      NVIDIA said Europe is expanding its quantum-GPU computing infrastructure
+      as part of a broader rollout of 35 new artificial intelligence
+      supercomputers across the continent, a move aimed at strengthening the
+      region’s capabilities in quantum research, AI development and scientific
+      computing.
+      The announcements, made ahead of the ISC High Performance conference in
+      Hamburg, highlight a growing European effort to integrate quantum
+      processors with traditional high-performance computing systems. By
+      combining quantum hardware with powerful GPU-accelerated supercomputers,
+      researchers hope to develop hybrid applications capable of tackling
+      complex problems in fields ranging from materials science and optimization
+      to climate modeling and biotechnology.
+      According to a NVIDIA statement, several leading European supercomputing
+      centers are deploying quantum technologies alongside large-scale
+      accelerated computing infrastructure. The projects are designed to allow
+      scientists and developers to build, simulate and run applications that use
+      both quantum and classical computing resources within a single
+      environment.
+      One of the most significant initiatives is taking place in Italy, where
+      the CINECA supercomputing center is working with the European High
+      Performance Computing Joint Undertaking (EuroHPC) and French quantum
+      computing company Pasqal to integrate a neutral-atom quantum processing
+      unit into its computing infrastructure.
+      The system will use NVIDIA’s CUDA-Q platform, which enables developers to
+      create hybrid quantum-classical applications, along with Slurm workload
+      management software. The partners expect the platform to support research
+      in optimization, materials science and other computationally intensive
+      disciplines that could benefit from quantum acceleration.
+      Germany’s Fraunhofer FOKUS is also advancing Europe’s quantum software
+      ecosystem. The institute is integrating CUDA-Q with Eclipse Qrisp, an
+      open-source quantum programming language originally developed by
+      Fraunhofer researchers and now maintained through the Eclipse Foundation.
+      The integration is intended to simplify the process of developing,
+      simulating and executing quantum algorithms. Researchers will be able to
+      use familiar software tools while taking advantage of both... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+23. TITLE: Microsoft Shifts Resource Estimation to Python’s QDK Package
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 08:26:09 +0000
+   URL: https://quantumzeitgeist.com/qdk-microsoft-shifts-resource-estimation-pythons/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Microsoft is transitioning its Quantum resource estimator to the qdk.qre
+      Python module, deprecating the version within the VS Code QDK extension.
+
+--------------------------------------------------------------------------------
+
+24. TITLE: Congress: Lawler & Ryan Bill Creates 11-Member Quantum Computing Commission
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 12:42:41 +0000
+   URL: https://quantumzeitgeist.com/united-states-quantum-computing-commission-congress/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Representatives Lawler and Ryan introduced legislation to establish an
+      11-member bipartisan commission focused on evaluating advancements in
+      quantum computing. The National Security Commission on Quantum Computing
+      Act aims to ensure the United States maintains its technological advantage
+      in this critical field, addressing national security, economic
+      competitiveness, and workforce development.
+
+--------------------------------------------------------------------------------
+
+25. TITLE: Infleqtion Launches America’s Quantum Space Initiative to Accelerate the Future of Quantum-Enabled Space Infrastructure
+   SOURCE: The_Quantum_Insider | DATE: Mon, 22 Jun 2026 13:45:43 +0000
+   URL: https://thequantuminsider.com/2026/06/22/infleqtion-launches-americas-quantum-space-initiative-to-accelerate-the-future-of-quantum-enabled-space-infrastructure/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Insider Brief
+      Infleqtion has launched America’s Quantum Space Initiative, bringing
+      together industry, academic, and technology partners to support the
+      development of quantum technologies for future space systems.
+      Founding participants include Voyager Technologies, Monarch Quantum,
+      Armada, and the University of Colorado Boulder, with plans to establish a
+      collaborative Quantum Space Hub.
+      The initiative aims to accelerate the deployment of quantum sensing,
+      timing, communications, navigation, and computing technologies for
+      commercial, civil, and defense space applications.
+      Photo from Pexels by SpaceX.
+      PRESS RELEASE — Infleqtion (NYSE: INFQ), a global leader in quantum
+      computing and quantum sensing powered by neutral-atom technology, today
+      announced the launch of America’s Quantum Space Initiative, bringing
+      together founding innovators including Voyager Technologies, Monarch
+      Quantum, Armada, and the University of Colorado Boulder to help advance
+      the development and deployment of quantum technologies for future space
+      systems. The initiative is designed to foster collaboration across
+      industry, academia, and government to accelerate innovation, expand
+      opportunities for quantum technologies in space, and strengthen U.S.
+      leadership in next-generation technologies.
+      As space becomes increasingly important to economic competitiveness,
+      scientific discovery, and national security, technologies that enable
+      greater precision, resilience, and autonomy are becoming strategic assets.
+      Quantum sensing, timing, navigation, communications, and computing have
+      the potential to transform how future space systems operate, creating new
+      opportunities across commercial, civil, and defense applications,
+      including enabling next-generation lunar infrastructure, advanced
+      capabilities for deep-space exploration, persistent space domain
+      awareness, mission optimization, and new scientific instruments capable of
+      probing both fundamental physics and expanding our understanding of the
+      universe.
+      Realizing that potential will require expertise that spans quantum
+      science, aerospace engineering, mission operations, advanced
+      manufacturing, computing infrastructure, and research. Founding innovators
+      will help bring together leaders across these disciplines, identify
+      opportunities for technology development, demonstration, and deployment,
+      and accelerate the transition of quantum technologies from pioneering
+      demonstrations to real-world space applications through the Quantum Space
+      Hub, a collaborative network connecting innovators from across the quantum
+      and space communities.
+      “We are entering a defining moment for both quantum technology and space
+      innovation,” said Matt Kinsella, Chief Executive Officer of Infleqtion.
+      “The opportunity ahead is bigger than any one company, institution, or
+      discipline. By bringing together innovators from across the ecosystem, we
+      can help unlock the next frontier at the intersection of quantum and
+      space.”
+      “American leade... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+26. TITLE: Will Your Chip’s Memory Work As Expected?
+   SOURCE: Semiconductor_Engineering | DATE: Mon, 22 Jun 2026 07:15:30 +0000
+   URL: https://semiengineering.com/will-your-chips-memory-work-as-expected/
+   MATCHED PILLARS: [ROBOTICS]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Increased density at advanced nodes, multi-die assemblies, and the rollout
+      of AI everywhere are making it much more challenging to ensure that memory
+      will function properly over its expected lifetime. Test is no longer about
+      a single memory or one approach for testing memory. It can vary by
+      application, by workload, and by architecture. Some testing is close to
+      memory, some is built into memory, and some is a combination of multiple
+      approaches with corners tied to a particular manufacturing process.
+      Yervant Zorian, chief architect and fellow at Synopsys, and president of
+      Synopsys Armenia, explains why a hierarchical approach is now essential
+      for testing memory, what can go wrong while testing different memories
+      tied to different types of processors, and why massive multi-physics
+      simulations and digital twins are needed for everything from smartphones
+      to robots.
+      The post Will Your Chip’s Memory Work As Expected? appeared first on
+      Semiconductor Engineering.
+
+--------------------------------------------------------------------------------
+
+27. TITLE: Interference Risks In Processing-Using-DRAM (U. of Tokyo, ETH Zurich, CISPA, Riken)
+   SOURCE: Semiconductor_Engineering | DATE: Mon, 22 Jun 2026 18:05:12 +0000
+   URL: https://semiengineering.com/pudghost-reveals-interference-risks-in-processing-using-dram/
+   MATCHED PILLARS: [SILICON HARDWARE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Researchers from The University of Tokyo, ETH Zurich, CISPA, and RIKEN
+      published a technical paper titled “PuDGhost: Experimental Analysis of
+      Computation Result Corruption in Processing-using-DRAM Operations on Real
+      DRAM Chips and Implications for Future Systems.”
+      Abstract excerpt:
+      “We reveal PuDGhost, an interference phenomenon where a PuD operation in a
+      given column produces erroneous results due to interference from 1) data
+      in non-activated DRAM rows and 2) data in other columns that compute
+      concurrently under the same SiMRA operation.”  The paper also reports that
+      “concurrently computing columns affects SiMRA outputs by up to 48%.”
+      Find the technical paper here. June 2026.
+      Tokuda, Daichi, İsmail Emir Yüksel, Tatsuya Kubo, Ataberk Olgun, Haocong
+      Luo, Nisa Bostanci, Jikun Wang, A. Giray Yağlıkçı, Shinya Takamaeda-
+      Yamazaki, and Onur Mutlu. “PuDGhost: Experimental Analysis of Computation
+      Result Corruption in Processing-using-DRAM Operations on Real DRAM Chips
+      and Implications for Future Systems.” arXiv preprint arXiv:2606.19119
+      (2026).
+      The post Interference Risks In Processing-Using-DRAM (U. of Tokyo, ETH
+      Zurich, CISPA, Riken) appeared first on Semiconductor Engineering.
+
+--------------------------------------------------------------------------------
+
+28. TITLE: IQM Named as Quantum Partner in HPE Hybrid Quantum-HPC Platform
+   SOURCE: The_Quantum_Insider | DATE: Mon, 22 Jun 2026 13:15:35 +0000
+   URL: https://thequantuminsider.com/2026/06/22/iqm-named-among-quantum-collaborators-in-hpes-new-hybrid-quantum-hpc-platform/
+   MATCHED PILLARS: [SILICON HARDWARE, PHYSICAL INFRASTRUCTURE, QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Insider Brief
+      HPE has named IQM Quantum Computers as one of the collaborators
+      contributing technology to its new hybrid classical-quantum computing
+      platform that combines quantum systems with HPE Cray supercomputing
+      infrastructure.
+      IQM is providing superconducting quantum processor technology as part of
+      HPE’s effort to integrate multiple quantum computing modalities with high-
+      performance computing environments.
+      The collaboration follows IQM’s recent deployment at Oak Ridge National
+      Laboratory and supports the company’s broader strategy of integrating
+      quantum systems into data center environments.
+      PRESS RELEASE — Hewlett Packard Enterprise has named IQM Quantum Computers
+      among the companies collaborating on its hybrid classical-quantum
+      computing platform, announced at HPE Discover Las Vegas.
+      IQM, a global leader in full-stack superconducting quantum computers, is
+      contributing superconducting quantum processor technology to the effort,
+      in which HPE is integrating multiple quantum modalities with its Cray
+      supercomputing infrastructure.
+      This collaboration strengthens IQM’s global expansion plans as the
+      company prepares for its planned Nasdaq listing through a merger with Real
+      Asset Acquisition Corp. (Nasdaq: RAAQ).
+      For IQM, HPE’s selection places the company at the center of one of the
+      computing industry’s most significant efforts to bring quantum and high-
+      performance computing together, an integration widely regarded as the
+      leading near-term path for quantum in both research and enterprise
+      settings.
+      Pairing quantum computers with classical supercomputers allows each to
+      handle the workloads it is best suited for, with the quantum system acting
+      as a specialised accelerator for problems where classical methods fall
+      short.
+      “IQM is relentlessly focusing on Production Quantum and scaling the
+      adoption of quantum computing through data-center integration: the work
+      that matters now is closing the gap between a quantum computer that runs
+      in a lab and one that runs in a data center; being part of HPE’s platform
+      and live at Oak Ridge is that work, for customers who own their
+      systems,” said Jan Goetz, CEO and Co-founder of IQM Quantum Computers.
+      This development follows IQM’s installation of its first on-premises
+      quantum computer in the United States, at Oak Ridge National Laboratory —
+      one of the world’s leading high-performance computing facilities. As with
+      IQM’s deployments elsewhere, the customer owns and operates the full-stack
+      system on-site, integrated with existing infrastructure — a model in which
+      the customer controls the hardware, the data, and the intellectual
+      property generated on the machine.
+      IQM has sold 23 quantum systems globally to date, more than any other
+      quantum hardware manufacturer. Among them, IQM will deliver the world’s
+      first quantum computer to a a private enterprise, Galaxy Systemy
+      Informatyczne in Poland, and will install a system with TOYO Corporation
+      in Japan — the first enterprise to p... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+29. TITLE: Quantum Advantage Forecast to Arrive Around 2039, UBS Reports
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 08:03:58 +0000
+   URL: https://quantumzeitgeist.com/ubs-quantum-advantage-forecast-arrive-around/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      UBS reports that quantum advantage, when quantum computers surpass
+      classical supercomputers, is expected around 2039.
+
+--------------------------------------------------------------------------------
+
+30. TITLE: Cloud HPC For AI: Addressing Latency, Cost, And Scale At The Architectural Level
+   SOURCE: Semiconductor_Engineering | DATE: Mon, 22 Jun 2026 07:03:23 +0000
+   URL: https://semiengineering.com/cloud-hpc-for-ai-addressing-latency-cost-and-scale-at-the-architectural-level/
+   MATCHED PILLARS: [MACRO FINANCE, SILICON HARDWARE, PHYSICAL INFRASTRUCTURE]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Many organizations assume that moving HPC workloads to the cloud is simply
+      a matter of lifting and shifting on-premises clusters. In practice, that
+      approach often erodes performance, inflates costs, and undermines AI
+      training efficiency.
+      Getting the most out of HPC in the cloud requires a fundamentally
+      different architectural approach — one that minimizes latency, maximizes
+      utilization, and scales predictably for AI workloads.
+      Why move HPC to the cloud?
+      Traditional HPC environments run on tightly coupled on-premises clusters
+      built around low-latency interconnects and custom hardware. Although these
+      systems excel at parallel processing and give IT teams precise control
+      over infrastructure, they’re also expensive to maintain, inflexible when
+      demand spikes, and slow to scale.
+      Cloud HPC changes the equation. Cloud infrastructure lets organizations
+      burst workloads during peak demand. It provides access to cutting-edge
+      hardware without capital expenditure. And it enables seamless
+      collaboration across geographies.
+      But cloud HPC is not without tradeoffs. Higher latency, integration
+      complexity, and resource competition in shared environments are frequently
+      cited drawbacks, especially when it comes to legacy or highly specialized
+      workloads.
+      For these reasons and more, many organizations are adopting hybrid HPC
+      models. These approaches preserve deterministic performance and workload
+      control on-premises, while enabling elastic burst capacity in the cloud.
+      Real-world use cases of cloud HPC
+      Not surprisingly, AI and ML workloads are significant drivers in the
+      growth of cloud HPC. Training deep neural networks and running
+      hyperparameter model experiments demand massive, short-lived resource
+      bursts that far exceed what most on-premises clusters can deliver. As a
+      result, AI and ML workloads are frequently offloaded to cloud-based HPC
+      clusters that feature large memory pools, high-throughput parallel
+      compute, and rapid scaling. Use cases include:
+      Genomics research. A research team migrating AI-intensive analysis
+      pipelines to the cloud can process whole-genome sequencing data at scale.
+      They can also run variant analyses across massive cohorts and iterate on
+      models without waiting for on-premises infrastructure to free up. In
+      addition to more efficient use of research budgets, these approaches can
+      result in faster discoveries.
+      Autonomous vehicle systems. Vehicle development teams are increasingly
+      using hybrid edge-cloud HPC architectures. Edge devices handle real-time
+      inference for navigation and obstacle detection, while cloud-based HPC
+      clusters process terabytes of driving data for model training and
+      validation. This approach delivers low-latency decision-making where it
+      matters and leverages cloud scalability for heavy computation.
+      AI inference clusters. By colocating training and inference workloads
+      within the same cloud HPC environment, organizations can streamline
+      deployment pipelines, reduce data movement, and improve resource
+      utilization.
+      Navigatin... [TRUNCATED]
+
+--------------------------------------------------------------------------------
+
+31. TITLE: AWS Infrastructure Fuels Classiq’s 6 Quantum Chemistry Breakthroughs
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 09:22:01 +0000
+   URL: https://quantumzeitgeist.com/classiq-quantum-chemistry-breakthroughs-aws-infrastructure/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Classiq & AWS built a quantum-classical pipeline for computational
+      chemistry, tackling binding energy estimation—a key challenge in quantum
+      chemistry.
+
+--------------------------------------------------------------------------------
+
+32. TITLE: Fraunhofer IPMS Launches 19-Inch Rack QRNG System
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 12:35:32 +0000
+   URL: https://quantumzeitgeist.com/fraunhofer-ipms-19-inch-rack-qrng/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Fraunhofer IPMS announced Q-Dice, a new Quantum Random Number Generator
+      delivering over 4 Gbit/s of true randomness.
+
+--------------------------------------------------------------------------------
+
+33. TITLE: Researchers Model Fractional Entropy for Improved Quantum Information Analysis
+   SOURCE: Quantum_Zeitgeist | DATE: Mon, 22 Jun 2026 13:38:00 +0000
+   URL: https://quantumzeitgeist.com/quantum-information-fractional-entropy-riemann-liouville-derivative/
+   MATCHED PILLARS: [QUANTUM COMPUTING]
+   EXTRACTED SNIPPET:
+      CONTENT:
+      Previously limited by standard quantum descriptions, information within
+      systems exhibiting memory effects now possesses a mathematically
+      consistent framework for analysis. Extending definitions of Shannon
+      entropy and Fisher information via fractional derivatives allows
+      description of nonlocal dynamics, a capability absent in prior methods.
+      This formalism opens new avenues for understanding complex quantum systems
+      interacting with challenging environments.
+
+--------------------------------------------------------------------------------
+

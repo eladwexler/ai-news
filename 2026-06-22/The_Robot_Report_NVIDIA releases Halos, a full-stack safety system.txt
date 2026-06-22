@@ -1,0 +1,45 @@
+SOURCE: The_Robot_Report
+TITLE: NVIDIA releases Halos, a full-stack safety system for robotics
+DATE: Mon, 22 Jun 2026 15:01:24 +0000
+URL: https://www.therobotreport.com/nvidia-releases-halos-a-full-stack-safety-system-for-robotics/
+----------------------------------------
+
+CONTENT:
+Agility Robotics is the first to use NVIDIA Halos for Robotics to build safety into its humanoids working in factories, warehouses, and logistics operations for customers including Amazon, GXO, Schaeffler, and Toyota Motor Manufacturing Canada. | Source: NVIDIA
+NVIDIA today launched NVIDIA Halos for Robotics. This is a full-stack, comprehensive safety system for robotics and physical AI that unifies AI compute and safety.
+NVIDIA said autonomous robots will need AI foundation models, accelerated compute, and distributed sensors to operate in dynamic environments alongside humans. Scaling these systems requires a full-stack safety architecture.
+NVIDIA said Halos enables companies to rely on a standardized, unified safety architecture that connects AI compute, system software, sensor data, safety applications, and inspection for robotic systems.
+“Physical AI is transforming how factories, warehouses, and logistics operations work, and robotics teams need a unified safety architecture to scale autonomous systems into these environments,” said Deepu Talla, the vice president of robotics and edge AI at NVIDIA. “With NVIDIA Halos for Robotics, developers and system builders can harness NVIDIA’s proven autonomous vehicle safety foundation to develop safer robots faster and bring them into industrial operations alongside workers with greater confidence.”
+NVIDIA Halos Core for NVIDIA IGX is available in early access for registered developers in Linux and Linux plus QNX configurations. The open source NVIDIA Halos Outside-In Safety Blueprint, part of the Halos Applications layer of Halos OS, is now available in early access on GitHub.
+NVIDIA brings safety to the entire software stack
+To create Halos, NVIDIA drew on over 18,600 engineering years of autonomous vehicle safety development. Halos for Robotics provides developers with a common safety architecture for building, validating, and deploying physical AI systems.
+The system spans the key layers needed for robot safety. NVIDIA IGX Thor and NVIDIA Holoscan Sensor Bridge provide industrial-grade AI compute, built-in safety, and sensor connectivity for real-time robotics and safety workloads.
+NVIDIA Halos OS provides the software stack for robotics safety. This includes Halos Core to support safety-related operating functions and safety applications built with the NVIDIA Halos Outside-In Safety Blueprint. NVIDIA said this program extends robot perception using external cameras and AI agents to dynamically control robot behavior in industrial settings.
+The NVIDIA Halos AI Systems Inspection Lab is an ANSI National Accreditation Board (ANAB)-accredited program for physical AI functional and AI safety. It helps partners prepare Halos integrations for third-party certification by leading certification bodies. These include TÜV Rheinland, UL Solutions, TÜV SÜD, exida, SGS, and CertX.
+
+NVIDIA builds Halos with scale in mind
+The NVIDIA Halos for Robotics ecosystem brings together partners across software, systems, sensors, and silicon, industrial applications, and certification bodies to support safety from development through deployment:
+
+Software: Acontis, Amazon FreeRTOS, and QNX support the real-time operating environment, safety communications, and embedded software layers needed for functional safety development.
+Embedded systems: Advantech and NexCobot deliver safety-designed IGX-based systems for robotics deployments.
+Sensors and silicon: Infineon, NXP, SICK, STMicroelectronics, and Texas Instruments contribute sensor, safety microcontroller, and semiconductor technologies.
+Industrial applications: FORT Robotics, Inventec, KION Group, and Neurealm are developing functional safety agents using the NVIDIA Halos Outside-In Safety Blueprint.
+Certification Bodies: TÜV Rheinland is inspecting NVIDIA IGX Thor, Halos OS, and Holoscan Sensor
+Bridge for functional safety certification readiness, building on TUV SuD’s inspection of Thor SoC and certification of Halos Core for ISO 26262
+
+The NVIDIA Halos AI Systems Inspection Lab includes more than 40 companies across manufacturers, certification bodies, and safety vendors working to move safe physical AI systems from design to real-world deployment.
+TÜV Rheinland, TÜV SÜD, UL Solutions, exida, SGS, and CertX all recognize the NVIDIA Halos AI Systems Inspection Lab as part of their certification process.
+Agility incorporates Halos in its humanoids
+
+Humanoid robots are designed to operate in dynamic environments alongside workers, equipment, and other robots that are constantly in motion. That requires safety engineered for every layer of the stack.
+Agility is teaming with NVIDIA to integrate NVIDIA IGX Thor and Halos Core into its proprietary safe human detection system for its humanoid robot Digit, which is designed for industrial work in logistics, manufacturing, and warehouse operations.
+For Digit, NVIDIA IGX Thor delivers industrial-grade AI compute with built-in safety capabilities, while Halos Core supports the software layer for safety-related operating functions.
+Agility will also participate in the NVIDIA Halos AI Systems Inspection Lab. Together, Agility and NVIDIA will use the lab to ensure Digit’s safety-related software, AI components, and cybersecurity protections meet standards such as IEC 61508, ISO 13849, and ISO/IEC TR 5469 before final third-party certification.
+“For humanoids to deliver value at scale, safety has to be built into the robot and validated across the entire system,” said Peggy Johnson, CEO of Agility. “Partnering with NVIDIA to implement and optimize the Halos for Robotics system extends our leadership in responsible automation, which is a non-negotiable requirement for bringing humanoids safely into industrial workflows. This collaboration unlocks true human-robot teamwork, driving the long-term returns that will power next-generation manufacturing and logistics operations.”
+
+
+
+Submit your session idea for the 2026 RoboBusiness
+
+
+The post NVIDIA releases Halos, a full-stack safety system for robotics appeared first on The Robot Report.

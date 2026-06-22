@@ -1,0 +1,105 @@
+SOURCE: The_Quantum_Insider
+TITLE: Europe Expands Quantum-GPU Computing as NVIDIA Announces 35 New AI Supercomputers
+DATE: Mon, 22 Jun 2026 14:06:57 +0000
+URL: https://thequantuminsider.com/2026/06/22/europe-expands-quantum-gpu-computing-as-nvidia-announces-35-new-ai-supercomputers/
+----------------------------------------
+
+CONTENT:
+
+
+
+Insider Brief
+
+
+
+
+NVIDIA said Europe is expanding its quantum-GPU and AI supercomputing infrastructure through 35 new systems across 23 countries, providing advanced computing resources to more than 3 million researchers.
+
+
+
+European research centers including CINECA, Fraunhofer FOKUS, the Barcelona Supercomputing Center and the Jülich Supercomputing Centre are integrating quantum hardware and software platforms to support hybrid quantum-classical computing applications. 
+
+
+
+The broader buildout includes major AI factory deployments, climate and energy research initiatives, and approximately 800 AI exaflops of computing capacity that have been deployed or announced across Europe since last year.
+
+
+
+
+NVIDIA said Europe is expanding its quantum-GPU computing infrastructure as part of a broader rollout of 35 new artificial intelligence supercomputers across the continent, a move aimed at strengthening the region&#8217;s capabilities in quantum research, AI development and scientific computing.
+
+
+
+The announcements, made ahead of the ISC High Performance conference in Hamburg, highlight a growing European effort to integrate quantum processors with traditional high-performance computing systems. By combining quantum hardware with powerful GPU-accelerated supercomputers, researchers hope to develop hybrid applications capable of tackling complex problems in fields ranging from materials science and optimization to climate modeling and biotechnology.
+
+
+
+According to a NVIDIA statement, several leading European supercomputing centers are deploying quantum technologies alongside large-scale accelerated computing infrastructure. The projects are designed to allow scientists and developers to build, simulate and run applications that use both quantum and classical computing resources within a single environment.
+
+
+
+One of the most significant initiatives is taking place in Italy, where the CINECA supercomputing center is working with the European High Performance Computing Joint Undertaking (EuroHPC) and French quantum computing company Pasqal to integrate a neutral-atom quantum processing unit into its computing infrastructure.
+
+
+
+The system will use NVIDIA&#8217;s CUDA-Q platform, which enables developers to create hybrid quantum-classical applications, along with Slurm workload management software. The partners expect the platform to support research in optimization, materials science and other computationally intensive disciplines that could benefit from quantum acceleration.
+
+
+
+Germany&#8217;s Fraunhofer FOKUS is also advancing Europe&#8217;s quantum software ecosystem. The institute is integrating CUDA-Q with Eclipse Qrisp, an open-source quantum programming language originally developed by Fraunhofer researchers and now maintained through the Eclipse Foundation.
+
+
+
+The integration is intended to simplify the process of developing, simulating and executing quantum algorithms. Researchers will be able to use familiar software tools while taking advantage of both quantum processors and classical computing resources, potentially accelerating experimentation and application development.
+
+
+
+In Spain, the Barcelona Supercomputing Center recently deployed an analog quantum computer developed by Qilimanjaro Quantum Tech through a EuroHPC initiative. The company has already integrated CUDA-Q into its QiliSDK software development kit and is working toward making its quantum processor accessible through NVIDIA&#8217;s platform.
+
+
+
+The effort reflects a broader trend across Europe toward creating interoperable quantum computing environments that can connect multiple hardware and software technologies. Such interoperability is viewed as critical for expanding access to quantum computing resources and encouraging wider adoption among researchers.
+
+
+
+Meanwhile, researchers at Germany&#8217;s Jülich Supercomputing Centre and NVIDIA reported what they described as a world-record simulation of a universal 50-qubit quantum computer. The simulation was performed on the JUPITER supercomputer using NVIDIA GH200 Grace Hopper Superchips.
+
+
+
+The resulting simulator, known as JUQCS-50, is designed to help scientists test increasingly complex quantum computing problems using classical supercomputers. Because practical quantum hardware remains limited in scale and reliability, advanced simulations continue to play an important role in quantum research and algorithm development.
+
+
+
+The quantum initiatives are part of a much larger expansion of AI and high-performance computing infrastructure across Europe. NVIDIA said 35 AI supercomputers are currently under development in 23 countries, representing what the company described as the largest single-year expansion of supercomputing capacity in the continent&#8217;s history.
+
+
+
+The systems are expected to support more than 3 million researchers and provide computing resources for a wide range of scientific and industrial applications. Areas expected to benefit include healthcare, climate science, energy research, biotechnology and fundamental scientific discovery.
+
+
+
+According to NVIDIA, more than 90% of Europe&#8217;s AI factory deployments are being built using NVIDIA technologies. The company said approximately 800 AI exaflops of computing capacity have either been deployed or announced since last year, underscoring the rapid pace of investment in AI infrastructure throughout the region.
+
+
+
+Several of the largest projects are being developed through the EuroHPC program, which seeks to strengthen Europe&#8217;s technological sovereignty and competitiveness in advanced computing.
+
+
+
+Among them is an upgraded version of the Barcelona Supercomputing Center&#8217;s MareNostrum 5 system. The facility plans to deploy NVIDIA GB300 NVL72 and GB200 NVL4 systems connected through NVIDIA Quantum-X800 InfiniBand networking technology, creating a powerful platform for AI training, scientific simulations and data-intensive research.
+
+
+
+Other major installations include Germany&#8217;s BavariaAI Blue Swan initiative, Italy&#8217;s IT4LIA AI Factory, Germany&#8217;s HammerHAI system and Sweden&#8217;s Mimer AI Factory. Together, these projects are expected to significantly expand Europe&#8217;s computing capabilities and provide researchers with access to cutting-edge AI infrastructure.
+
+
+
+NVIDIA also highlighted applications beyond AI and quantum computing. The company pointed to its collaboration with Siemens Energy, which is using NVIDIA technologies to accelerate the design and simulation of gas turbines capable of operating on up to 100% hydrogen.
+
+
+
+According to NVIDIA, the approach has reduced simulation times by as much as 77%, potentially speeding the development of lower-carbon energy technologies. The example illustrates how advanced computing systems are increasingly being used to address industrial and environmental challenges alongside scientific research.
+
+
+
+The announcements reflect a broader European strategy of bringing together AI, supercomputing and quantum technologies within shared research infrastructure. Rather than treating quantum computing as a standalone field, many of the projects position quantum processors as specialized accelerators connected to larger computing systems.

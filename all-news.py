@@ -21,6 +21,12 @@ FEEDS = {
     "MIT_Tech_Review_AI": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
     "EE_Times": "https://www.eetimes.com/feed/",
     "The_Register_AI": "https://www.theregister.com/software/ai_ml/headlines.atom",
+    # Robotics / physical AI
+    "The_Robot_Report": "https://www.therobotreport.com/feed/",
+    "IEEE_Spectrum_Robotics": "https://spectrum.ieee.org/feeds/topic/robotics.rss",
+    # Quantum computing
+    "The_Quantum_Insider": "https://thequantuminsider.com/feed/",
+    "Quantum_Zeitgeist": "https://quantumzeitgeist.com/feed/",
 }
 
 HEADERS = {

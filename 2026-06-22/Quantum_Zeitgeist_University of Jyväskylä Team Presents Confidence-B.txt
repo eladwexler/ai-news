@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: University of Jyväskylä Team Presents Confidence-Based Protocol for Nonlocality Without Entanglement
+DATE: Mon, 22 Jun 2026 18:13:07 +0000
+URL: https://quantumzeitgeist.com/confidence-based-protocol-for-nonlocality-without-entanglement/
+----------------------------------------
+
+CONTENT:
+Can a quantum system exhibit nonlocality, seemingly instantaneous correlation, without the resource of entanglement. Measurements now confirm it can, by focusing on the confidence placed in detecting an event rather than the states themselves. This allows for a semi-device-independent certification of this nonlocality using existing, imperfect quantum technology.

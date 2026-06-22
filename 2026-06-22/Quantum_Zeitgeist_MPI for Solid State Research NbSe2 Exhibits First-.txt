@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: MPI for Solid State Research: NbSe2 Exhibits First-Order Phase Transition to Pairing State
+DATE: Mon, 22 Jun 2026 05:22:00 +0000
+URL: https://quantumzeitgeist.com/mpi-solid-state-research-nbse2-phase/
+----------------------------------------
+
+CONTENT:
+MPI researchers observed a first-order phase transition in NbSe2, potentially leading to a finite momentum pairing state.

@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: Fraunhofer IPMS Launches 19-Inch Rack QRNG System
+DATE: Mon, 22 Jun 2026 12:35:32 +0000
+URL: https://quantumzeitgeist.com/fraunhofer-ipms-19-inch-rack-qrng/
+----------------------------------------
+
+CONTENT:
+Fraunhofer IPMS announced Q-Dice, a new Quantum Random Number Generator delivering over 4 Gbit/s of true randomness.

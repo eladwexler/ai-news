@@ -1,0 +1,8 @@
+SOURCE: Quantum_Zeitgeist
+TITLE: Researchers Model Fractional Entropy for Improved Quantum Information Analysis
+DATE: Mon, 22 Jun 2026 13:38:00 +0000
+URL: https://quantumzeitgeist.com/quantum-information-fractional-entropy-riemann-liouville-derivative/
+----------------------------------------
+
+CONTENT:
+Previously limited by standard quantum descriptions, information within systems exhibiting memory effects now possesses a mathematically consistent framework for analysis. Extending definitions of Shannon entropy and Fisher information via fractional derivatives allows description of nonlocal dynamics, a capability absent in prior methods. This formalism opens new avenues for understanding complex quantum systems interacting with challenging environments.

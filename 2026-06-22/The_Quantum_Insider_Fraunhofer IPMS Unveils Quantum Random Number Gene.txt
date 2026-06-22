@@ -1,0 +1,129 @@
+SOURCE: The_Quantum_Insider
+TITLE: Fraunhofer IPMS Unveils Quantum Random Number Generator to Deliver True Randomness
+DATE: Mon, 22 Jun 2026 10:34:58 +0000
+URL: https://thequantuminsider.com/2026/06/22/fraunhofer-ipms-unveils-quantum-random-number-generator-to-deliver-true-randomness/
+----------------------------------------
+
+CONTENT:
+
+
+
+Insider Brief
+
+
+
+
+Fraunhofer IPMS announced Q-Dice, a quantum random number generator that uses quantum vacuum fluctuations to produce true random numbers at rates above 4 Gbit/s for security-critical applications.
+
+
+
+The system has been evaluated under BSI AIS 20/31 and NIST SP 800-22 testing frameworks and is classified at EAL 3 and PTG 3.
+
+
+
+Q-Dice is available as a 19-inch rack-mounted hardware appliance or through an online Entropy-as-a-Service platform for cloud-based access to quantum-generated randomness.
+
+
+
+Image: Dr. Alexander Noack and the QRNG R19” demonstrator. (Fraunhofer IPMS)
+
+
+
+
+PRESS RELEASE &#8212; Fraunhofer Institute for Photonic Microsystems IPMS announces Q‑Dice, a high‑performance Quantum Random Number Generator (QRNG) that generates randomness based on quantum vacuum fluctuations. The system delivers true random numbers at bit rates exceeding 4 Gbit/s based on intrinsically random and uncontrollable quantum effects. Unlike existing approaches, Q-Dice does not rely on potentially vulnerable algorithms and enables significantly higher data rates, making it particularly well suited for security-critical applications. The quality of the generated randomness has been validated through established and internationally recognized testing frameworks, including BSI AIS 20/31 and the NIST SP 800-22 test suite.
+
+
+
+True randomness is a fundamental requirement for modern cryptographic and security systems, where weak or predictable random number generators can introduce vulnerabilities in encryption and authentication. By measuring inherently unpredictable quantum vacuum fluctuations, Q‑Dice developed by Fraunhofer IPMS generates quantum entropy suitable for a wide range of applications, including secure communication, data encryption (e.g., via QKD or PQC), authentication and access management, as well as high‑scale simulation. The system is designed with a strong focus on security requirements. It complies with the stringent standards of the German Federal Office for Information Security (BSI) according to AIS 20/31 and is classified at EAL 3 (Evaluation Assurance Levels) as well as PTG 3 (Physical True Random Number Generator), providing important evidence of the system’s security.
+
+
+
+“With Q-Dice, we make high-quality quantum randomness practically usable and accessible,” says Dr. Alexander Noack, Division Director Data Communication &amp; Computing at Fraunhofer IPMS. “Whether as a robust 19-inch rack system integrated into your own infrastructure or via our online Entropy-as-a-Service platform, we are removing the barriers to adopting quantum-level security.”
+
+
+
+Fraunhofer IPMS QRNG Competencies
+
+
+
+To ensure maximum reliability, Fraunhofer IPMS maintains all key competencies in‑house, enabling end‑to‑end development from photonics to system integration:
+
+
+
+
+Laser and optical front‑end design for stable quantum‑noise generation and control
+
+
+
+Low‑noise analog front-end (AFE) enabling detection of quantum vacuum fluctuations
+
+
+
+High‑speed data acquisition (analog-to-digital conversion &#8211; ADC) and FPGA‑based randomness extraction/post‑processing
+
+
+
+System integration with high‑throughput interfaces, including 10 Gbit/s Ethernet connectivity
+
+
+
+
+This end-to-end approach ensures precise control over signal quality, stability, and entropy extraction performance. The same physical noise source forms the basis for both hardware and cloud-based access to quantum entropy.
+
+
+
+Two deployment models: hardware or cloud access
+
+
+
+Fraunhofer IPMS offers Q-Dice in two configurations to support different operational requirements:
+
+
+
+1.&nbsp;&nbsp;&nbsp;&nbsp; Q‑Dice Hardware Appliance (19-inch rack system):
+
+
+
+An all‑in‑one hardware solution designed for on-premises deployment in data centers and on‑premises environments.
+
+
+
+Q-Dice Key Specifications
+
+
+
+
+Random bit rate: 4.1 Gbit/s
+
+
+
+All‑in‑one solution
+
+
+
+19-inch rack-mounted system (other form factors available on request)
+
+
+
+10G Ethernet interface (additional interfaces on request)
+
+
+
+Designed for high-throughput integration environments and evaluated according to BSI AIS 20/31 and NIST SP 800-22 test suites.
+
+
+
+
+2.&nbsp;&nbsp;&nbsp;&nbsp; Online QRNG on Demand (Entropy‑as‑a‑Service):
+
+
+
+A secure online interface provides direct access to quantum-generated randomness without requiring dedicated hardware installation. The service enables rapid evaluation, prototyping, and scalable integration of quantum entropy into software systems and cloud-based applications.
+
+
+
+As the technology moves into the implementation phase, Fraunhofer IPMS is looking toward collaborative growth. “We’re inviting partners to pilot the technology and co-create real-world applications,” Noack adds. “Our goal is to work together to raise the bar for security and trust in the digital age.”
+
+
+
+Further information on QRNG technologies and competencies at Fraunhofer IPMS is available at:&nbsp;Quantum Random Number Generation (QRNG) &#8211; Fraunhofer IPMS
